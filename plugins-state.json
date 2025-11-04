@@ -11863,8 +11863,2243 @@
       "contentHash": "5fe1f9e9ff6c945f7b5ded9a597c3f0d228ef878c76c43cb63f2bb521e6d5cb4",
       "fileSha": "6d7e1d05863c6ceebecc0e49e7c14fecde8c5f2f",
       "fileSize": 296283
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/Convoy.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/Convoy.cs",
+      "notifiedAt": "2025-11-04T17:11:17.809Z",
+      "contentHash": "05b17bd8011ecad4855121fce2dc6adba72ea749a1881b0b92d511f66fae3f1f",
+      "fileSha": "6173ae4791921f9c868d672ff7a34488c3f40d87",
+      "fileSize": 270139
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/plugins/DefendableBases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/plugins/DefendableBases.cs",
+      "notifiedAt": "2025-11-04T17:11:18.167Z",
+      "contentHash": "beefd014409f3c3d06aac1189415a4e06d71a1939712381c7325c7da0cd48191",
+      "fileSha": "78490a394becbfa6b84c9ffc2805f4d516506f94",
+      "fileSize": 357495
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SimplePVE.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SimplePVE.cs",
+      "notifiedAt": "2025-11-04T17:11:18.516Z",
+      "contentHash": "65f3d7740266ce1cfd8e0d06797af497e70977c2e8d571d11bade661421663db",
+      "fileSha": "73bb89542ea5086c20da77eb7e2c9c827d12bd1b",
+      "fileSize": 222969
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/plugins/Triangulation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/plugins/Triangulation.cs",
+      "notifiedAt": "2025-11-04T17:11:19.019Z",
+      "contentHash": "50f0f54fc44943d24f7b19248152c3eb4cdf0bda0608e59d90099322d6e78499",
+      "fileSha": "64ea963b5eeeadf9e714ebadcaee394179ab654f",
+      "fileSize": 288496
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMenu (5).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMenu (5).cs",
+      "notifiedAt": "2025-11-04T17:11:19.337Z",
+      "contentHash": "c0d27236f55c09602b42f3ff689bac7608bb2bc41d43940f9b5f1a9dd47c0e3c",
+      "fileSha": "4b267b1bc242c3247e701df213dab3674d0468c5",
+      "fileSize": 258604
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RandomRaids (5).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RandomRaids (5).cs",
+      "notifiedAt": "2025-11-04T17:11:19.736Z",
+      "contentHash": "ea9ca869981a81438665e4360e09ca41f2265fadfbbb3f6e71a4a0577fd8d5b4",
+      "fileSha": "4dade8c1931c23b9e8f533401056da8c4eaba742",
+      "fileSize": 218288
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMenu.cs",
+      "notifiedAt": "2025-11-04T17:11:20.148Z",
+      "contentHash": "c0d27236f55c09602b42f3ff689bac7608bb2bc41d43940f9b5f1a9dd47c0e3c",
+      "fileSha": "4b267b1bc242c3247e701df213dab3674d0468c5",
+      "fileSize": 258604
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/arcticbaseevent-rust-event-plugin (1.2.1 fix)/en/plugins/ArcticBaseEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/arcticbaseevent-rust-event-plugin (1.2.1 fix)/en/plugins/ArcticBaseEvent.cs",
+      "notifiedAt": "2025-11-04T17:11:20.931Z",
+      "contentHash": "96cbb559e6c280b252429705d26ac1b943c4418051ebb55bd1cc4b59c451b688",
+      "fileSha": "3c3626dd1d36d2eba727ce17391d698e15a1bcf6",
+      "fileSize": 300800
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HeliSignals.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HeliSignals.cs",
+      "notifiedAt": "2025-11-04T17:11:22.659Z",
+      "contentHash": "9ebca2bb705471f6216a7e5f7d599358d9f0366987417d90303bc5136548f2dd",
+      "fileSha": "2c55b1c7d9ae434bbf5cde186ee5795d942c97b4",
+      "fileSize": 262109
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/en/HarborEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/en/HarborEvent.cs",
+      "notifiedAt": "2025-11-04T17:11:23.106Z",
+      "contentHash": "26bd2eb7c8ad2487ce98dedce967e6ca9c48ca7bc66bf80ddd4d5605ef480a40",
+      "fileSha": "439a9db310e9727bd782824b70eb472b1d67c484",
+      "fileSize": 232197
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BankSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BankSystem.cs",
+      "notifiedAt": "2025-11-04T17:11:23.448Z",
+      "contentHash": "151782097200a54fd45faee6ac6d044461c22f87a7831804b158d4b470fbc7fc",
+      "fileSha": "3ee2b0c85c0f1b9d76c2cc02f1c47f386a5e40ee",
+      "fileSize": 200157
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DefendableBases/DefendableBases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DefendableBases/DefendableBases.cs",
+      "notifiedAt": "2025-11-04T17:11:23.861Z",
+      "contentHash": "c0a7b22e1bad42b960fc50b4f515fe10c6412ca27c204a0ba0b33f99105c5adc",
+      "fileSha": "4f71b5b566c8b35622d7c4ba37e5dd46c0244d77",
+      "fileSize": 346716
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RandomRaids (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RandomRaids (1).cs",
+      "notifiedAt": "2025-11-04T17:11:24.143Z",
+      "contentHash": "aeefb81be223e6a00617a157e5754c23246137753edaf0fdc1feba615b439f5e",
+      "fileSha": "36f1098141fe7f8942e48ae173a28ce2638e40b4",
+      "fileSize": 207064
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RandomRaids (6).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RandomRaids (6).cs",
+      "notifiedAt": "2025-11-04T17:11:24.689Z",
+      "contentHash": "ea9ca869981a81438665e4360e09ca41f2265fadfbbb3f6e71a4a0577fd8d5b4",
+      "fileSha": "4dade8c1931c23b9e8f533401056da8c4eaba742",
+      "fileSize": 218288
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ServerPanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ServerPanel.cs",
+      "notifiedAt": "2025-11-04T17:11:26.366Z",
+      "contentHash": "183737226b61ac03700347d34a13179791570a0dbb9b7939b9a25405e218f3ac",
+      "fileSha": "4e032db42931b37efb527a83dd639e2d734fd102",
+      "fileSize": 332027
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BotReSpawn.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BotReSpawn.cs",
+      "notifiedAt": "2025-11-04T17:11:27.048Z",
+      "contentHash": "999cc9380ced202f158d73ec739e2e41cf3942eb5fa3a8d12c1b4a614fe44b61",
+      "fileSha": "3db4093294ec9a226eaabc558efa7fe1f441cbe9",
+      "fileSize": 326032
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/en/SupermarketEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/en/SupermarketEvent.cs",
+      "notifiedAt": "2025-11-04T17:11:27.409Z",
+      "contentHash": "498056afae859504b9f77fd4b402cf2100338b6d35bd87dd35ab6b29fd955bea",
+      "fileSha": "26dcb8a42f1ec947921e1186076d72c9f23b1bdb",
+      "fileSize": 251128
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PersonalNPC.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PersonalNPC.cs",
+      "notifiedAt": "2025-11-04T17:11:27.780Z",
+      "contentHash": "b8ac4f42aa152e9b0412dc377de752ac91c0eaa1eb5ea86f7d4b0d41b88eb216",
+      "fileSha": "2665a43ea5837e27cb025774fdd553404132987a",
+      "fileSize": 245144
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Clans (2).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Clans (2).cs",
+      "notifiedAt": "2025-11-04T17:11:28.317Z",
+      "contentHash": "872d4b17a05d6f9a5b27484bbfe4954e743e96ef39720219ebc12fe70fc16552",
+      "fileSha": "12cc6dd1b4a9df08ec6e38d41f6ad9f0591f51fd",
+      "fileSize": 323072
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PersonalNPC-1.5.5 (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PersonalNPC-1.5.5 (1).cs",
+      "notifiedAt": "2025-11-04T17:11:28.749Z",
+      "contentHash": "38ece36f89bc6ae0c8dee7a059fa71b072e4349255bbeea9756eac9a954a8824",
+      "fileSha": "b2322281d4cddcd5aed41fbfb8e4e13cc2baeb25",
+      "fileSize": 219773
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/IQReportSystem (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/IQReportSystem (1).cs",
+      "notifiedAt": "2025-11-04T17:11:29.455Z",
+      "contentHash": "63f5b5b73721c7f642ac6f723be4731d47f3f402b1726e1596ea4483f6db4256",
+      "fileSha": "90333d7254596d40a93e47b441f83693ffbf915c",
+      "fileSize": 279063
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena/Arena.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena/Arena.cs",
+      "notifiedAt": "2025-11-04T17:11:30.043Z",
+      "contentHash": "371326966a81dd781d2b0ded1c02cdfdacc438f4f55b9393fedbba6075cf23c7",
+      "fileSha": "c581f40d6e620884d282ea25efb43d1a380b47e5",
+      "fileSize": 200190
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AchievementSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AchievementSystem.cs",
+      "notifiedAt": "2025-11-04T17:11:30.976Z",
+      "contentHash": "7c7250fa4a684f813584d2ca92784167b555895e9412990080830aebdab5e932",
+      "fileSha": "d2bc481dcd9d3d0b50bf360187db157eafbb9d86",
+      "fileSize": 234852
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AbandonedBases (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AbandonedBases (1).cs",
+      "notifiedAt": "2025-11-04T17:11:31.316Z",
+      "contentHash": "6af115f937113cfaad51b700fc93d5070353add336e9fe3c3b85427ccc5cf550",
+      "fileSha": "f81554cf1802ac2fd3d2f9cb1f42c6c9ca230b2b",
+      "fileSize": 243893
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/NpcRaiders (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/NpcRaiders (1).cs",
+      "notifiedAt": "2025-11-04T17:11:31.615Z",
+      "contentHash": "f6622e608f6288d976929dd8131455313f1ef6903af56fb9f7552b6eb4857c75",
+      "fileSha": "b8de7e8ff15747ebba5d9ff3c6dc50f70ade3661",
+      "fileSize": 205499
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PersonalNPC-1.5.5.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PersonalNPC-1.5.5.cs",
+      "notifiedAt": "2025-11-04T17:11:32.034Z",
+      "contentHash": "38ece36f89bc6ae0c8dee7a059fa71b072e4349255bbeea9756eac9a954a8824",
+      "fileSha": "b2322281d4cddcd5aed41fbfb8e4e13cc2baeb25",
+      "fileSize": 219773
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/UpLifted.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/UpLifted.cs",
+      "notifiedAt": "2025-11-04T17:11:32.359Z",
+      "contentHash": "8842110f6f1cc89f50c4bcf92e8dc9d661292110ac83373c499d4c73cc3a9bb4",
+      "fileSha": "5279b7b45a74828046784d405051eae94a343b15",
+      "fileSize": 238960
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/plugins/DefendableBases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/plugins/DefendableBases.cs",
+      "notifiedAt": "2025-11-04T17:11:32.751Z",
+      "contentHash": "9a15c21e13769de595cf7c0a65558a9c0b83495620dc917f9bc45761f7d1324e",
+      "fileSha": "b2ebdb836bfc67576efe908b97d520cee03fbaf2",
+      "fileSize": 357499
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RaceTrack.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RaceTrack.cs",
+      "notifiedAt": "2025-11-04T17:11:34.748Z",
+      "contentHash": "02e6e66a0fd032d97664d6987fb81f493d9460f75690d3021f744f2d97a2657f",
+      "fileSha": "d45e44b161baf1b57b814a4ba4842520edc0aa8c",
+      "fileSize": 218275
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/en/JunkyardEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/en/JunkyardEvent.cs",
+      "notifiedAt": "2025-11-04T17:11:35.134Z",
+      "contentHash": "343cc8c735dd69c4ad195f8474ff787abf337726dcf91a6b44f2cf22dd77a92d",
+      "fileSha": "69e2a82c607bfd0393c0f291f3adeb5bafc5485d",
+      "fileSize": 181603
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/en/GasStationEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/en/GasStationEvent.cs",
+      "notifiedAt": "2025-11-04T17:11:35.892Z",
+      "contentHash": "e9d18a15b23b750ea9202bc244f868cdba0855861e7a32468a1bee903b211c3f",
+      "fileSha": "7fa862526c227b90d76626f358183af5b8fe56c9",
+      "fileSize": 192342
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CargoTrainEvent (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CargoTrainEvent (1).cs",
+      "notifiedAt": "2025-11-04T17:11:36.173Z",
+      "contentHash": "35c778d202256e209764fc0c45635439fb0e0a1086d5064b53c743550fd81857",
+      "fileSha": "6ad4c1bed47028ec730ac4e450cde6d4d07969e5",
+      "fileSize": 144867
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WelcomePanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WelcomePanel.cs",
+      "notifiedAt": "2025-11-04T17:11:36.515Z",
+      "contentHash": "08b0cd77f94eaf1ce8a1cb0afbe7bececd2a529bc4b0847aa485bd7500ba1e91",
+      "fileSha": "6d1be5ab37dc561387c9671500d551a8dc96e304",
+      "fileSize": 179506
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/zEcoLootUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/zEcoLootUI.cs",
+      "notifiedAt": "2025-11-04T17:11:36.842Z",
+      "contentHash": "2f920f6ff05bd41758a8cee5a7ef9798b9a34053ee1d5676e2a79eb3dca97955",
+      "fileSha": "82452ffd4c06b669b6816acd512ff293815d6861",
+      "fileSize": 135846
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/TPCases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/TPCases.cs",
+      "notifiedAt": "2025-11-04T17:11:37.488Z",
+      "contentHash": "d73801c98367763a22435e20b24cbcafc32809b0c8af54d5fe658a8d6b957ff1",
+      "fileSha": "7745e24596f249ff1b5b1b2adadb13b004940dcd",
+      "fileSize": 174750
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomizableWeapons.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomizableWeapons.cs",
+      "notifiedAt": "2025-11-04T17:11:37.969Z",
+      "contentHash": "2488a7a3f4c990b71e7ae3fcf5122f3adbd5aabb8bb320330ad94dc201a12331",
+      "fileSha": "74b2ddb3d61c671573d81328df1fb3efb9c81252",
+      "fileSize": 123368
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ServerInfoGui (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ServerInfoGui (1).cs",
+      "notifiedAt": "2025-11-04T17:11:38.361Z",
+      "contentHash": "ad137fbfa582dafe31d03dcc7e6f9576a2bf0805009f74480e836f98d726a542",
+      "fileSha": "549c2d57d06126192c5066927946dd38959dc109",
+      "fileSize": 116382
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TugMe.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TugMe.cs",
+      "notifiedAt": "2025-11-04T17:11:38.921Z",
+      "contentHash": "e621e6c55c59749b573cd920149c078ffa139d0f883acc63606b2ea5fcc38a6e",
+      "fileSha": "60d8c453bcb8a13640244ef19669c49d3455b7dc",
+      "fileSize": 176455
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EasyGather (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EasyGather (1).cs",
+      "notifiedAt": "2025-11-04T17:11:39.378Z",
+      "contentHash": "f40fe8032d935cd72cae8d8eda57ae589d5f6fc5a8a4c2ed4cb210b60af868f9",
+      "fileSha": "47412fc0f9f6c75c9d366c7317c1114329ee4d85",
+      "fileSize": 164610
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/en/SatDishEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/en/SatDishEvent.cs",
+      "notifiedAt": "2025-11-04T17:11:41.720Z",
+      "contentHash": "578ee0e0d064db37b0519d868dca0c772499b4524da92419ded8d62346679034",
+      "fileSha": "578b344f49b5e3c573ac833e0d97a2667795bac7",
+      "fileSize": 191994
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/plugins/BossMonster.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/plugins/BossMonster.cs",
+      "notifiedAt": "2025-11-04T17:11:42.016Z",
+      "contentHash": "2fe322b4c950e19543d13d92060d186795726c32ea162d8a7dde9402751eceee",
+      "fileSha": "6585c73f22bb83aacab2da379dba0a537ad5b5fb",
+      "fileSize": 102420
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RecoilTrainingGround.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RecoilTrainingGround.cs",
+      "notifiedAt": "2025-11-04T17:11:42.402Z",
+      "contentHash": "c0c250ef144e5164d8516d2e5eb986af64adba471c3e6563135a2e853a71f987",
+      "fileSha": "6059ea627fc2ca05da8def66695b58b188dd8a5d",
+      "fileSize": 125361
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SkinBox.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SkinBox.cs",
+      "notifiedAt": "2025-11-04T17:11:43.912Z",
+      "contentHash": "58c09a7bdb4b223cdd0e84b9b98c7bbbe19cf87fd6914d6389939ae9ae1b1185",
+      "fileSha": "5caab745c52c88977e774abb419f9fed7b496573",
+      "fileSize": 191719
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/BetterNpc.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/BetterNpc.cs",
+      "notifiedAt": "2025-11-04T17:11:46.100Z",
+      "contentHash": "864e2c57d277ce171142015d4dc491b7d7c23f1086abfdabcf2fef45630728f2",
+      "fileSha": "54892472010ae77a1af0d0a78622410662cd9dae",
+      "fileSize": 152274
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/plugins/DefendableHomes.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/plugins/DefendableHomes.cs",
+      "notifiedAt": "2025-11-04T17:11:47.898Z",
+      "contentHash": "55ada9ba16f527fdb2c82c0618852df4b9a4d500b834f0236b54df787912e643",
+      "fileSha": "5c41af34e3392aea3a7576a85efb085483ad0aa7",
+      "fileSize": 157306
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PowerPlantEvent/oxide/plugins/ru/PowerPlantEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PowerPlantEvent/oxide/plugins/ru/PowerPlantEvent.cs",
+      "notifiedAt": "2025-11-04T17:11:50.019Z",
+      "contentHash": "e851965d903b1882e0432dff7561f44cd702943ac28cd8655796280a2ed270c0",
+      "fileSha": "45e5bab0c130c7e835c18b0f305c946fe78068a5",
+      "fileSize": 141431
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DVTeleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DVTeleportation.cs",
+      "notifiedAt": "2025-11-04T17:11:51.893Z",
+      "contentHash": "f7ad9ed031d08781027bed8f71c64c70c9d633de5be10d5a51d05fba7017b056",
+      "fileSha": "597b2380ddf98bfe58ec49c95dca1aed17c7bc4f",
+      "fileSize": 103910
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/VirtualQuarries.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/VirtualQuarries.cs",
+      "notifiedAt": "2025-11-04T17:11:54.296Z",
+      "contentHash": "6aac69ffaeae1ff87ddef8a6c6263db49d04c2de728b9489ec367e762dd37203",
+      "fileSha": "5bb6f326e90bd68bbaadb367cbff621b381734d0",
+      "fileSize": 190252
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Battlepass.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Battlepass.cs",
+      "notifiedAt": "2025-11-04T17:11:55.908Z",
+      "contentHash": "fa1b618621074d498d905cfa5981c8cff6cb2c0396bb9c845d200819352cce74",
+      "fileSha": "3387200e6b6483a0cce97117eeb259c339db8cfb",
+      "fileSize": 192926
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ArenaTournament (2).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ArenaTournament (2).cs",
+      "notifiedAt": "2025-11-04T17:11:58.063Z",
+      "contentHash": "869558519f4ca684daa003e5f236aa819b975e5e89bc6d7165e7f6621522a792",
+      "fileSha": "259c80adef71e2e23cbf19509547b2aa567aee61",
+      "fileSize": 150126
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DynamicCupShare (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DynamicCupShare (1).cs",
+      "notifiedAt": "2025-11-04T17:12:00.005Z",
+      "contentHash": "242acf06a4aff7d54ea0fd88934d3cab216d91e574f79fd08b83eb03c109f7e3",
+      "fileSha": "2a66085a1208ce5547ca7ea0bb1d2c51956a48aa",
+      "fileSize": 124778
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/NPCTaxi.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/NPCTaxi.cs",
+      "notifiedAt": "2025-11-04T17:12:03.410Z",
+      "contentHash": "f86b5489885b76f8feed667e107d8dd0bfa55cdf62b333ba733629c489d9fa8a",
+      "fileSha": "2e96685e1ac8b488d1ca33a346bc4f870c3861de",
+      "fileSize": 111773
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomButtons.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomButtons.cs",
+      "notifiedAt": "2025-11-04T17:12:04.400Z",
+      "contentHash": "1064341a4f32bc09f98e72c7a3ff96431a95cf5ff402ca27533a69a7deec8755",
+      "fileSha": "342458d03428c83a1eaa572b2a425b21e29a79b9",
+      "fileSize": 120658
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StackModifier.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StackModifier.cs",
+      "notifiedAt": "2025-11-04T17:12:06.089Z",
+      "contentHash": "74906ac40633a318679de9534852e915185b48d76574abfceeda3f21054405a3",
+      "fileSha": "3a1052a78628dfbb38d9a13798118f3c00be1e6b",
+      "fileSize": 119115
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SkinController.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SkinController.cs",
+      "notifiedAt": "2025-11-04T17:12:08.023Z",
+      "contentHash": "15ffa5275bff4ae607ddadb1f0d3fe82a0bd06495ed68696d56a0b062120d30a",
+      "fileSha": "2b5d327130d78bbdf2c76f8293c08d56b4484bf1",
+      "fileSize": 109723
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ArenaTournament.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ArenaTournament.cs",
+      "notifiedAt": "2025-11-04T17:12:10.098Z",
+      "contentHash": "4bbb3cebfecb3e2d31b74359d6dd139834ea38f140eeb79a50318a7dab3257d3",
+      "fileSha": "3b999099c287237f57e11f3593c53e2f74508b9f",
+      "fileSize": 152842
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/IQGradeRemove.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/IQGradeRemove.cs",
+      "notifiedAt": "2025-11-04T17:12:11.943Z",
+      "contentHash": "6103753d709dd76fa9fcfb9037b08ee025a96e0c7bb328b5119d6b509e6326fe",
+      "fileSha": "286821ba40b6f1250944942c11f5b877ce7bd17e",
+      "fileSize": 120589
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MultiEvents.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MultiEvents.cs",
+      "notifiedAt": "2025-11-04T17:12:13.936Z",
+      "contentHash": "f5cf7155f42076eee7b323042b6378173680e00d84a328a0bd156a036314ff0c",
+      "fileSha": "2ea8442ce251a51171babef6b4a0d0f9e75df68a",
+      "fileSize": 127181
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DynamicCupShare (3).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DynamicCupShare (3).cs",
+      "notifiedAt": "2025-11-04T17:12:15.955Z",
+      "contentHash": "3563511f4d4f72ecfd29def44f6641533158a1aca7d85b03f838c37f1881fc49",
+      "fileSha": "3408048f4f27f90f13bfe90bf9e0ec54bdfffe45",
+      "fileSize": 117704
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Biplane.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Biplane.cs",
+      "notifiedAt": "2025-11-04T17:12:18.056Z",
+      "contentHash": "72fb678888caaa53e79755dbe9d5d86b4c03c0b2fab6a6c04db8e49fd0362ef5",
+      "fileSha": "0bf7f80a82f1baba5da706191d1054fca6dc4ef1",
+      "fileSize": 104029
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EventManager.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EventManager.cs",
+      "notifiedAt": "2025-11-04T17:12:21.460Z",
+      "contentHash": "cf363f52b08cb058afb6a132d2bbcc89ebb84535ad89fae10c830e3616b9a6b1",
+      "fileSha": "15c3bc4ff691f4edd195dba3636cbdc84f3e6761",
+      "fileSize": 106289
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/UberTool.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/UberTool.cs",
+      "notifiedAt": "2025-11-04T17:12:21.869Z",
+      "contentHash": "5f90bda192852c050f297f29330056d29452f3089af98eabdb3619a1ee3eb110",
+      "fileSha": "21c3c22fb299489f8248a8078ccbc670b030f8d9",
+      "fileSize": 175353
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StaticLootables (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StaticLootables (1).cs",
+      "notifiedAt": "2025-11-04T17:12:23.927Z",
+      "contentHash": "b356b7aafc1fda2711bfc2af9bd87bbcf819df24c4b3fb98ebef8b50604dd7bc",
+      "fileSha": "c4dd6ca30eeafc9ad15b95dc3fb6a4f4fd7fe5a9",
+      "fileSize": 188396
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SecurityCameras.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SecurityCameras.cs",
+      "notifiedAt": "2025-11-04T17:12:25.885Z",
+      "contentHash": "1d41eb8aaa38927871785d409037ec9c965e06d8f3d51c5c1537564246ada155",
+      "fileSha": "718f354c82b68e515e356b2593979d96d7eae96e",
+      "fileSize": 56643
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CraftMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CraftMenu.cs",
+      "notifiedAt": "2025-11-04T17:12:27.882Z",
+      "contentHash": "ab6a6eefc5083da3b742b2000867136ee6b8cd59e5dfa95bb18cfbad2d526190",
+      "fileSha": "65ece947e0a46fac390106b719f1e3e6e0f75390",
+      "fileSize": 71422
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MinicopterCombat/MinicopterCombat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MinicopterCombat/MinicopterCombat.cs",
+      "notifiedAt": "2025-11-04T17:12:29.912Z",
+      "contentHash": "a8df34a29a876784a4838eba3032365b24cba1aae97f958c7e33fa97cdde108a",
+      "fileSha": "63ec08b26c3eadfec6c0bf3f7836cd7e6247791f",
+      "fileSize": 77708
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AirfieldEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AirfieldEvent.cs",
+      "notifiedAt": "2025-11-04T17:12:32.164Z",
+      "contentHash": "17f3d1f189372827139c87c2ff2cff85cbc8bfb90c6ef82669d5dbda032a2196",
+      "fileSha": "756958dd1407911d03103bee9a43404e84b99fd0",
+      "fileSize": 68186
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MeteorFall (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MeteorFall (1).cs",
+      "notifiedAt": "2025-11-04T17:12:34.020Z",
+      "contentHash": "63d4f000ec90fe49ce37113adea20a9576ac0364030585b18106aa8d229a3a63",
+      "fileSha": "6b45d95326beb2dfe4f2ff3318b72d529b2d587c",
+      "fileSize": 70947
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Prison.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Prison.cs",
+      "notifiedAt": "2025-11-04T17:12:36.284Z",
+      "contentHash": "ab7a9248814d7cc48183d08d0a7a7a3d37adcdedfe1efa8de01154354c190fca",
+      "fileSha": "43956ccb543eb243c7930179deecbebc596f8e2d",
+      "fileSize": 63509
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/OwnCasinoPremium.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/OwnCasinoPremium.cs",
+      "notifiedAt": "2025-11-04T17:12:37.935Z",
+      "contentHash": "e15799c8ed02295bbea70b7fc966abc48bc2d3e53927d3cb7b80e9675e67caa5",
+      "fileSha": "49e47b0211f888300077faec13cc16440cb82089",
+      "fileSize": 53820
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ClansUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ClansUI.cs",
+      "notifiedAt": "2025-11-04T17:12:39.912Z",
+      "contentHash": "fb115a5beabea3224d3aefd46a11ec38393653a95252ebb782c19287aac1d011",
+      "fileSha": "5ac8d00b331a598e03ba363cc0cf02058a9be459",
+      "fileSize": 72212
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/LSkins (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/LSkins (1).cs",
+      "notifiedAt": "2025-11-04T17:12:42.079Z",
+      "contentHash": "357c68d1b41c7847b7a745728e4825a78baa54927a8e1d807d6e1d38840d62df",
+      "fileSha": "48d57b3ded5e55f4c92d032d60cf2c2df344242f",
+      "fileSize": 98179
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BossMonster.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BossMonster.cs",
+      "notifiedAt": "2025-11-04T17:12:44.260Z",
+      "contentHash": "fdf0e1b08645863c873885a695024f85360e1113b194645fc60b59e39dbbeea6",
+      "fileSha": "50a8e2201d9448560453e04dedca73364f6222d7",
+      "fileSize": 90173
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Ganja.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Ganja.cs",
+      "notifiedAt": "2025-11-04T17:12:45.873Z",
+      "contentHash": "ef8cf1a5c00d9f4c16e91cc3f24bef6370ffd34c598b05b92a9dfb601b6d85ad",
+      "fileSha": "4eba3234bca181a26ca412fc5e90591c0f78ac02",
+      "fileSize": 62565
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Giveaways.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Giveaways.cs",
+      "notifiedAt": "2025-11-04T17:12:47.942Z",
+      "contentHash": "0d4e7008db253f76db828fe1dd6dce60752988972a6270eccfd407f048e60ecd",
+      "fileSha": "41b52bdc10cd102ec365895f7cc6324836a35734",
+      "fileSize": 57314
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/XSkinMenu-1.0.13.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/XSkinMenu-1.0.13.cs",
+      "notifiedAt": "2025-11-04T17:12:49.998Z",
+      "contentHash": "923fe9598a7778593667a633a8b26be79894775b6b56bf492e2bad975bbbb416",
+      "fileSha": "2d308d7c5cb5c0677ae40366ff76cc5e90b65008",
+      "fileSize": 69875
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ChickenEgg.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ChickenEgg.cs",
+      "notifiedAt": "2025-11-04T17:12:52.003Z",
+      "contentHash": "b0e162caa420b578264db49be64a830e31a88aa1425c500129ccdc39ccc2bc70",
+      "fileSha": "3af3c6d34be804596b875aee42852753b11edd13",
+      "fileSize": 62140
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/3.2.21 [latest]/WelcomePanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/3.2.21 [latest]/WelcomePanel.cs",
+      "notifiedAt": "2025-11-04T17:12:54.027Z",
+      "contentHash": "935c5bc69f8b5df10b51884db2d835a0869f4415ddae1c2672ff0afa1d2acd71",
+      "fileSha": "2607d9db6768582f2c85a8b4f6422223de3a3134",
+      "fileSize": 64324
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/InjuriesAndDiseases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/InjuriesAndDiseases.cs",
+      "notifiedAt": "2025-11-04T17:12:55.990Z",
+      "contentHash": "99f2ebef892b7de51317ca924c6c31120f6b183d5535b88173ee5b99ff645b5e",
+      "fileSha": "2b85fbc200a5230c80e5404dd65a03ef4078c6eb",
+      "fileSize": 83075
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomMixingTable.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomMixingTable.cs",
+      "notifiedAt": "2025-11-04T17:12:57.964Z",
+      "contentHash": "b957ddc85c2ee5eed03285c2af3eea8117b4f5bc07c12e7bf784615accf49659",
+      "fileSha": "3143a08d69157ab37cbf8c28ccca548a9fecc546",
+      "fileSize": 58427
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RadialMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RadialMenu.cs",
+      "notifiedAt": "2025-11-04T17:12:59.891Z",
+      "contentHash": "a487983486eb25c20b6ce78d545a91a24b3e8e4cf4faf8e1ce10f956d40f93a4",
+      "fileSha": "331be4babb49d153e0c2ad2edcde667331c8bb98",
+      "fileSize": 69216
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SkyBase/en/SkyBase.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SkyBase/en/SkyBase.cs",
+      "notifiedAt": "2025-11-04T17:13:02.050Z",
+      "contentHash": "1a32ee6891d9db0d5833e5c80c9b1895260955649a10a3ac0865ebe1111641be",
+      "fileSha": "2968232df06b895b60ec6f68e57643f672cb60de",
+      "fileSize": 50152
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TPCases (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TPCases (1).cs",
+      "notifiedAt": "2025-11-04T17:13:03.961Z",
+      "contentHash": "45485716db6751f0367d1b88b159bcb86da2a5b10926fd14b3802e060ab2c90e",
+      "fileSha": "2dc74654284dbaeafdd3b1c793693091489e7b0e",
+      "fileSize": 58317
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AmusementRidesBundle/oxide/plugins/AmusementRidesMerryGoRound.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AmusementRidesBundle/oxide/plugins/AmusementRidesMerryGoRound.cs",
+      "notifiedAt": "2025-11-04T17:13:06.038Z",
+      "contentHash": "dcf99abf4f609aa2909de210570ff1aaa9eead1e27847c80998751ab92992126",
+      "fileSha": "3ba67343b81e120dfcec0171a760f77f6fcc989a",
+      "fileSize": 95227
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HomingMissiles.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HomingMissiles.cs",
+      "notifiedAt": "2025-11-04T17:13:07.878Z",
+      "contentHash": "179127b1f74c591b9375869ea000a3a75068cd1e5a428d499b82ab30305c6943",
+      "fileSha": "39cc0ba8d0bbac517d72cabf5af302f4f64285fd",
+      "fileSize": 69140
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AutoFarm (4).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AutoFarm (4).cs",
+      "notifiedAt": "2025-11-04T17:13:10.468Z",
+      "contentHash": "89705620835a1b2c639d9adfb3dfeb919db91f6448e26e5d30fc3ce483a81dde",
+      "fileSha": "0f4e37c219fb9fe3ba55618485ced1878a48fa2e",
+      "fileSize": 71110
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DrugBusiness.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DrugBusiness.cs",
+      "notifiedAt": "2025-11-04T17:13:11.893Z",
+      "contentHash": "a4b0e690681ab2c2fddf47f0c876796614230b76c103c69436d7d47d571a72b3",
+      "fileSha": "0e370b1c4279724d71a50a24f85cd51df9992c6f",
+      "fileSize": 72725
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Friends (7).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Friends (7).cs",
+      "notifiedAt": "2025-11-04T17:13:14.266Z",
+      "contentHash": "845f5578e467a9d42418ed332ac654a9b7039f6ac478e0cf7e616ed7881345f8",
+      "fileSha": "01c5c9b91f90c6cffca5f8c590a00928fba4a98f",
+      "fileSize": 83749
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SpawnHeli.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SpawnHeli.cs",
+      "notifiedAt": "2025-11-04T17:13:16.062Z",
+      "contentHash": "ba970e4023fc56cdf60aaa6214483c94446b2dd1aee8ec72bfa685d20655584f",
+      "fileSha": "9873786b925f7156895507e8179fa36c4b8fd22b",
+      "fileSize": 87377
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TugboatPirates.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TugboatPirates.cs",
+      "notifiedAt": "2025-11-04T17:13:17.988Z",
+      "contentHash": "b2360b2aa780fec3764da86a7764ea8b64228462bac095c60b21e6c2a80165ef",
+      "fileSha": "dd705961615a30aa2e023514f166760293c77e4e",
+      "fileSize": 78684
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WaterTreatmentEvent (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WaterTreatmentEvent (1).cs",
+      "notifiedAt": "2025-11-04T17:13:20.035Z",
+      "contentHash": "ce122648e73ee378973d1d445ea5144e92dff74fac723ad01437ee697763f04e",
+      "fileSha": "17fd3ca2e72645d921c510bc618cbe8f14b03445",
+      "fileSize": 58574
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ATMSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ATMSystem.cs",
+      "notifiedAt": "2025-11-04T17:13:21.948Z",
+      "contentHash": "77c32018a5eebbf5ada801d117573b04f5953328808130acc6155c67ca0845ed",
+      "fileSha": "abdccb449c8256fe9749bd86a00d90c3d50eb56e",
+      "fileSize": 54642
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ServerPanelInstaller.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ServerPanelInstaller.cs",
+      "notifiedAt": "2025-11-04T17:13:23.966Z",
+      "contentHash": "a923dca0a4350e540ef1f81719a46856ec4f4cf72f4a9539e7d6de7206e65163",
+      "fileSha": "5ce2a05ea95b0d86243c5e4c6b183f6a59778cb8",
+      "fileSize": 67476
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PropertyBuying.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PropertyBuying.cs",
+      "notifiedAt": "2025-11-04T17:13:25.899Z",
+      "contentHash": "c835705cbb8de0b41a8efd50194c17fc2a7acc0753a7a120503113a31a2638c7",
+      "fileSha": "db4b90c4bc388df8b74feecd9ca452ec2007c4f6",
+      "fileSize": 72385
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/XAntiCheat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/XAntiCheat.cs",
+      "notifiedAt": "2025-11-04T17:13:27.973Z",
+      "contentHash": "e5baff59b29212bf171a7a03e98c47f684aad59b99d910d16ff64cfbb70b6f0b",
+      "fileSha": "c48b521c0a26bd3737c6838eda848bd10e949d35",
+      "fileSize": 73945
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SkinPerks.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SkinPerks.cs",
+      "notifiedAt": "2025-11-04T17:13:30.018Z",
+      "contentHash": "42cf6616da56a412cc169e6777a86b53f856787f52bb33cf74742a98fb5da0c8",
+      "fileSha": "31536af13e2044303b477ba100ccbbc4158a7124",
+      "fileSize": 67438
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AmusementRidesBundle/oxide/plugins/TapeLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AmusementRidesBundle/oxide/plugins/TapeLibrary.cs",
+      "notifiedAt": "2025-11-04T17:13:31.903Z",
+      "contentHash": "9b7476cd085f5b3ca903105752b1b597d3cfa9845902c4a200bc340f39244947",
+      "fileSha": "138fe5d5d96ce19bfacdf8c591304ed6bea37bb0",
+      "fileSize": 54863
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RandomTrader.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RandomTrader.cs",
+      "notifiedAt": "2025-11-04T17:13:33.932Z",
+      "contentHash": "63cfe9743f67d5c4eb1a60a0e053c6f10ab494f2bc0d040a93e0d3c78b434eb8",
+      "fileSha": "e454800d0b9325218d5c45c562b3b79545cd9b37",
+      "fileSize": 73805
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MainMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MainMenu.cs",
+      "notifiedAt": "2025-11-04T17:13:36.185Z",
+      "contentHash": "16487d28566379c7b4ed1ed7f69393692306a76d5f30605af9db70bbcea722bd",
+      "fileSha": "1abaea9d93cadd63d72fbc4621dd4acd3892b071",
+      "fileSize": 51449
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SafeKick.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SafeKick.cs",
+      "notifiedAt": "2025-11-04T17:13:38.099Z",
+      "contentHash": "84e79c9b8d5ef52e61f4efc64bddea67ef08269292e51083f4a95ea4c6fb4c6e",
+      "fileSha": "6c38eb5e7579455f8ecc6bd657feab08c2a5e3ab",
+      "fileSize": 6530
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SharkLauncher.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SharkLauncher.cs",
+      "notifiedAt": "2025-11-04T17:13:39.925Z",
+      "contentHash": "ec9deec7e6f9fde886aa16826cf3fb794556d7ca9c8d7844e9baed6f099267c3",
+      "fileSha": "4459d9a05f8cf6fba5309ae7fe4bf9056a5a61a3",
+      "fileSize": 6734
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/InstantAirdrop.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/InstantAirdrop.cs",
+      "notifiedAt": "2025-11-04T17:13:41.889Z",
+      "contentHash": "099814a1795d07d119805ec866527980029f0ae95fa53fd3544f2df8ad842268",
+      "fileSha": "2ab20cb45fee0fe2d01f2c4ea68ba5f28730cbbb",
+      "fileSize": 6406
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/FpsPlus.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/FpsPlus.cs",
+      "notifiedAt": "2025-11-04T17:13:43.863Z",
+      "contentHash": "d2be060d5226646b9d6b9ed9aa9e0a449d202813cceec99efa9f4f88aa6442c1",
+      "fileSha": "292e59c3cb1d95de30fa54640a54bae364a736fc",
+      "fileSize": 7420
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/UberGun.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/UberGun.cs",
+      "notifiedAt": "2025-11-04T17:13:45.861Z",
+      "contentHash": "39a1d2ca682b17423577e7a68db5991aa7324a857159e46b2505021ab9a176f7",
+      "fileSha": "23dc8664a2f444bc46e3000adb5171378177313c",
+      "fileSize": 5238
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/GlobalOfflineRaidProtection.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/GlobalOfflineRaidProtection.cs",
+      "notifiedAt": "2025-11-04T17:13:47.884Z",
+      "contentHash": "5374bcca8676fb17dcf8c4fbadeb638e4e23b08452bea94f3c86081d9ee4e18a",
+      "fileSha": "0c80c638898b37dab85417adcc97ac03316da2e2",
+      "fileSize": 8994
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/OxidationTrollRocketMan.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/OxidationTrollRocketMan.cs",
+      "notifiedAt": "2025-11-04T17:13:49.928Z",
+      "contentHash": "e6469e6f78882b1340b20c821b6df8a36efd975e2e6c4a19792402e799d3a67a",
+      "fileSha": "0cd3791cfbff7b707a9916a5e740e4cd2408e5ac",
+      "fileSize": 5393
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/InstantAirdrop (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/InstantAirdrop (1).cs",
+      "notifiedAt": "2025-11-04T17:13:52.087Z",
+      "contentHash": "83be7295c06a21684161e4d80e590b74e23d924a391b9dd9f7449886a4690cc2",
+      "fileSha": "12ae69d56d70b8391750b42e2adc3102b5133bbd",
+      "fileSize": 6304
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/M/MagicWipePanel/MagicWipePanel.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/M/MagicWipePanel/MagicWipePanel.cs",
+      "notifiedAt": "2025-11-04T17:13:53.897Z",
+      "contentHash": "9a7e89cc08a7b8d34646c3ca085033d96c0492daae3a908e8848825bd02b7e64",
+      "fileSize": 9862
+    },
+    "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/other/XPBackup.cs": {
+      "key": "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/other/XPBackup.cs",
+      "notifiedAt": "2025-11-04T17:13:56.229Z",
+      "contentHash": "af170f416bf85f224fa4c03d40c00aa6fdcdbc6d6d7353258a109897fa1fac9e",
+      "fileSize": 8873
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/S/SuicideBomber/SuicideBomber.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/S/SuicideBomber/SuicideBomber.cs",
+      "notifiedAt": "2025-11-04T17:13:58.029Z",
+      "contentHash": "efc39b2a32dd190e3616bd7b77590cdb4a27309ff9b1980ceabbd461becbc77a",
+      "fileSize": 9167
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/M/MagicFpsPanel/MagicFpsPanel.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/M/MagicFpsPanel/MagicFpsPanel.cs",
+      "notifiedAt": "2025-11-04T17:13:59.950Z",
+      "contentHash": "3153b5cd42610805ed8aa250c011758671e3c24eb001c9ba7556d9fb58312e9f",
+      "fileSize": 8787
+    },
+    "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/rust/BuildingBlocker.cs": {
+      "key": "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/rust/BuildingBlocker.cs",
+      "notifiedAt": "2025-11-04T17:14:02.079Z",
+      "contentHash": "c5d8a6b81fe1fd24527aff571483b096f7089b2650ac7af7c3dac76ecba8a8ab",
+      "fileSize": 7025
+    },
+    "https://raw.githubusercontent.com/st-little/rust-plugin-development/develop/Plugins/ModuleCarLicensePlateUnitTest/IsModuleCarUnitTests.cs": {
+      "key": "https://raw.githubusercontent.com/st-little/rust-plugin-development/develop/Plugins/ModuleCarLicensePlateUnitTest/IsModuleCarUnitTests.cs",
+      "notifiedAt": "2025-11-04T17:14:03.925Z",
+      "contentHash": "2a505e9c41d30de9d906d737785d26685d126b0c7077c87d204934b8f0bde11c",
+      "fileSha": "fa48c22d26a64393eea8a07d3ef2037a96f9f68b",
+      "fileSize": 8429
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ChaosExtensionDownloader.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ChaosExtensionDownloader.cs",
+      "notifiedAt": "2025-11-04T17:14:05.918Z",
+      "contentHash": "5faf776c6cb69f6ba7a9a6f3f4abf7fe2f239f43e7c99b6ea4d9cb0f0ee2c35c",
+      "fileSha": "5ffb1a8e81daa86e164e74df6b0dbb9ec72aed5d",
+      "fileSize": 2870
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RusterNETPro.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RusterNETPro.cs",
+      "notifiedAt": "2025-11-04T17:14:07.903Z",
+      "contentHash": "96368e638c5d72dcd6416b02f08ef1819cdfea76eea542543aaec601bd18d238",
+      "fileSha": "4c2662f72a30ae32d81863b0fc7a9381e4c2e6bd",
+      "fileSize": 3679
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/UnlockDlcItems.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/UnlockDlcItems.cs",
+      "notifiedAt": "2025-11-04T17:14:09.903Z",
+      "contentHash": "eb76326b358f62e285d89022c95e5c3a7586f81322ef0b3f007d90b936e8b071",
+      "fileSha": "426ee601db712d84a1f64b59956a105c9eaee2e6",
+      "fileSize": 4828
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/InstantBarrel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/InstantBarrel.cs",
+      "notifiedAt": "2025-11-04T17:14:12.560Z",
+      "contentHash": "f740cc7493d14c8d0cb871314c83af5c581c2a49f050af353c2b9f498886680c",
+      "fileSha": "41913c56785751810fb5b927e63b1c7e0fb61b7a",
+      "fileSize": 4807
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ObjectLimiter.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ObjectLimiter.cs",
+      "notifiedAt": "2025-11-04T17:14:13.877Z",
+      "contentHash": "0da048734b00c9e06f3d75fc519f7e3b9270ca16814adf82fb9c214e49e897f9",
+      "fileSha": "325d65229a4e7db528770fc4de07e2f455184be9",
+      "fileSize": 2651
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HealthReward.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HealthReward.cs",
+      "notifiedAt": "2025-11-04T17:14:15.846Z",
+      "contentHash": "3183526eeb6fb6ef111a8a1ed3b88c4729d99e37d72c2f28e034dfc982300b09",
+      "fileSha": "b5ae6c345b4985f707f73b29e91b05ccaae6b469",
+      "fileSize": 915
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/NoBulletFire.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/NoBulletFire.cs",
+      "notifiedAt": "2025-11-04T17:14:17.910Z",
+      "contentHash": "9aabba92abc9461151000d806b6036d513014eddb7d7c1b7ef8ff96152a4c722",
+      "fileSha": "1443635b187fdd44640821d094fc9fd02a68ab9d",
+      "fileSize": 458
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/3.0.7 [deprecated]/WelcomePanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/3.0.7 [deprecated]/WelcomePanel.cs",
+      "notifiedAt": "2025-11-04T17:14:19.895Z",
+      "contentHash": "12fb126cae4b00f86a1b87ca20956caa2ae83377620667260da8150331a01054",
+      "fileSha": "80e57360270069cc1729d4adab4473291309977e",
+      "fileSize": 187576
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/NPCKit.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/NPCKit.cs",
+      "notifiedAt": "2025-11-04T17:14:21.884Z",
+      "contentHash": "31c533aea3f8e47b2171c100d16677c29e7fc43180f72033ebdebb90cb610cf7",
+      "fileSha": "802e3367b18987c6ee00c534d08cb2241314db32",
+      "fileSize": 53664
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomRecycle.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomRecycle.cs",
+      "notifiedAt": "2025-11-04T17:14:23.877Z",
+      "contentHash": "48f2344194949a9518479d29e60ab08a1f0ccc1622707ea6a4aabb1b9f20de15",
+      "fileSha": "72d5f6bacdffbe754f3e7994f9295a5351324d26",
+      "fileSize": 65227
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/PocketDimensions.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/PocketDimensions.cs",
+      "notifiedAt": "2025-11-04T17:14:25.985Z",
+      "contentHash": "d218a87559a9deeba539e3a9098bb66ed019c0a24dbbdae28fd9f614b663c049",
+      "fileSha": "8ba50db6fd94bb39a7a8372be3759d549ddbbe8b",
+      "fileSize": 257906
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ItemPerks (2) (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ItemPerks (2) (1).cs",
+      "notifiedAt": "2025-11-04T17:14:27.906Z",
+      "contentHash": "46b1a40eb03347439dc99d04360230a914dfa5d1b58b6b8981ac2593238d1b5d",
+      "fileSha": "831ae00086089445a879df7f8c7ecac1475316d7",
+      "fileSize": 267989
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StackModifier (3).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StackModifier (3).cs",
+      "notifiedAt": "2025-11-04T17:14:30.071Z",
+      "contentHash": "6163bde067ecb2fd500e9936181980834d2ee0b0b0a93c5f8cdf3db639d693f2",
+      "fileSha": "7445f27c05992c876e9608803127c43c24b970ba",
+      "fileSize": 110731
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/XSkinMenu-1.0.9.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/XSkinMenu-1.0.9.cs",
+      "notifiedAt": "2025-11-04T17:14:32.040Z",
+      "contentHash": "c557cfd2f447248731f458051699ef7aecb96ebfd0668e18e471cf2e6defb6c2",
+      "fileSha": "86899ee428d6f5fccae3b1753a1662e423e2edba",
+      "fileSize": 55214
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ZombieHorde.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ZombieHorde.cs",
+      "notifiedAt": "2025-11-04T17:14:33.941Z",
+      "contentHash": "4c8bf2655f64b186e149e999931789231ab5f9b1056bcf1d8e16018375e29101",
+      "fileSha": "723f2ae1db6b44e445d8e58c4df0e8e7b8743b0c",
+      "fileSize": 193038
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TPSkinMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TPSkinMenu.cs",
+      "notifiedAt": "2025-11-04T17:14:35.906Z",
+      "contentHash": "63566ecd87ec02aee844470b634c482e5e6befe304caaaaaa39e89980c3b5d9f",
+      "fileSha": "7bfd6da9a743a9ca7a108211d5aef62ae7ff53b4",
+      "fileSize": 64283
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/arcticbaseevent-rust-event-plugin (1.2.1 fix)/ru/plugins/ArcticBaseEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/arcticbaseevent-rust-event-plugin (1.2.1 fix)/ru/plugins/ArcticBaseEvent.cs",
+      "notifiedAt": "2025-11-04T17:14:38.027Z",
+      "contentHash": "16eb20a8a25e77839860e22d3762953250e595749c29a045de38e83a37464e60",
+      "fileSha": "73e50fed0497015b293356abbcc6ea09e7203beb",
+      "fileSize": 300792
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DeployableNature.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DeployableNature.cs",
+      "notifiedAt": "2025-11-04T17:14:39.928Z",
+      "contentHash": "7b497bed6a28b4299ce792e648b9e8133280ce3b7b348caa73308218449c4ab8",
+      "fileSha": "8119b96855e92304cab5099d553234f8dab2f41e",
+      "fileSize": 140780
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/PveMode.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/PveMode.cs",
+      "notifiedAt": "2025-11-04T17:14:41.896Z",
+      "contentHash": "eb611a0a831d16b80868e008523ce66bede1ee81cdf6abd9184a65738dc9ddb3",
+      "fileSha": "77d6f01dea89624be1954e47ce96211c1ae1a5e6",
+      "fileSize": 65060
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/plugins/DefendableHomes.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/plugins/DefendableHomes.cs",
+      "notifiedAt": "2025-11-04T17:14:44.055Z",
+      "contentHash": "91cd546db0f9fe102136dbfd504cfc0b81c8df322441548af6f362641a406801",
+      "fileSha": "80ad6444d68e4e86db07f6e7dfc3a953b2c42dcb",
+      "fileSize": 157305
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Cases (2).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Cases (2).cs",
+      "notifiedAt": "2025-11-04T17:14:46.128Z",
+      "contentHash": "1f6bb714011b8f01588093b44aa64dafbe2e710ceae3ec93afd3996d73166972",
+      "fileSha": "80b97306117249eb904ebb4c03c817f1e88486f5",
+      "fileSize": 144657
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Traffic_Drivers/TrafficDrivers.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Traffic_Drivers/TrafficDrivers.cs",
+      "notifiedAt": "2025-11-04T17:14:48.083Z",
+      "contentHash": "f8c8d4a24f0f51f323754e1f710271b61118bb396251ef08ff065374c5820311",
+      "fileSha": "85d35f9045872e4c535499090ef1935269fafb71",
+      "fileSize": 81100
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/oxide/plugins/Space.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/oxide/plugins/Space.cs",
+      "notifiedAt": "2025-11-04T17:14:49.971Z",
+      "contentHash": "ef1f23554cc55b70d24f73d9ac50912c01ff0f575e483db8e629faa3d1e4af04",
+      "fileSha": "84396bec5ff544fa46f4de0c5e950a5efea21fdc",
+      "fileSize": 345681
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMenu (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMenu (1).cs",
+      "notifiedAt": "2025-11-04T17:14:52.224Z",
+      "contentHash": "7dca1431c6adccccb48c409182ba59a9913c1fc56133c18ffe81993768c0ea87",
+      "fileSha": "79287d0cc4f613183b774fdd44c3c8d8e415fa9e",
+      "fileSize": 221799
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DailyCards (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DailyCards (1).cs",
+      "notifiedAt": "2025-11-04T17:14:54.023Z",
+      "contentHash": "ad5805e6750103a83298f9958310cb41222dd414878247716bde2898e07960da",
+      "fileSha": "720995d6637d9262ac47e7e49e177b8da9bdfd86",
+      "fileSize": 68467
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Hud (2).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Hud (2).cs",
+      "notifiedAt": "2025-11-04T17:14:56.175Z",
+      "contentHash": "5111d87137c16b49b7489f26148b0f3ebbef747ccd016d65e177f67e7679f68b",
+      "fileSha": "68125bc2fe4afec81d10868643bca0ce7d896ff3",
+      "fileSize": 124238
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StacksExtended.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StacksExtended.cs",
+      "notifiedAt": "2025-11-04T17:14:58.204Z",
+      "contentHash": "3069f15165fd64c54efecf40e6bef41c7a383024150934ea9a928c54d904d1dc",
+      "fileSha": "4c8e57323d0d577dba80238b3b813fbe7985ff01",
+      "fileSize": 145812
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/LimitEntities.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/LimitEntities.cs",
+      "notifiedAt": "2025-11-04T17:14:59.876Z",
+      "contentHash": "c75f085c30cb09b7df58d1d972c13b75a9c9cc3ce4fba3c961ee152ee114e9a0",
+      "fileSha": "5d56a20179d094f885b853b172d93a6ddd8c752b",
+      "fileSize": 88665
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Professions.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Professions.cs",
+      "notifiedAt": "2025-11-04T17:15:02.019Z",
+      "contentHash": "d5adeb96ab12f017a6852ffa9b93caf2de24f08fd725de51e0415ed754cdd087",
+      "fileSha": "4f698369c37dd73c241872d3da53daf208188208",
+      "fileSize": 141910
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StatisticsRu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StatisticsRu.cs",
+      "notifiedAt": "2025-11-04T17:15:03.892Z",
+      "contentHash": "1b2b3419fbed90b0d89791d53e92b8bab8104e9dcc361234df87ef37b727a813",
+      "fileSha": "621fd3ec9f5cdf14b62b08a554ba1c3fd584964a",
+      "fileSize": 69941
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TalkingNpc.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TalkingNpc.cs",
+      "notifiedAt": "2025-11-04T17:15:06.054Z",
+      "contentHash": "795df643df871ba39a203106231b6e3588f81c33db8679df45a99d198e71c84c",
+      "fileSha": "4d5c4c4df345e8ac281ae6c55edbf13f083955f5",
+      "fileSize": 105425
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/AirEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/AirEvent.cs",
+      "notifiedAt": "2025-11-04T17:15:08.337Z",
+      "contentHash": "90ae61cc5c191c08d16b347cb9d7e89523dc8bacb9271a9ff80e2ac6e2e34d28",
+      "fileSha": "6893b6ca263b806fb0131e345e4c0bed30139e4a",
+      "fileSize": 173171
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Crafts (2).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Crafts (2).cs",
+      "notifiedAt": "2025-11-04T17:15:09.995Z",
+      "contentHash": "b14b20777a661d4a9c3ee2509eaada4a31af36b48333c435727e3e36d7bbb5b4",
+      "fileSha": "63fdf3a9cf3d6b37d45de5fd05e3ad1502dfcdce",
+      "fileSize": 175052
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/UberTool (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/UberTool (1).cs",
+      "notifiedAt": "2025-11-04T17:15:11.880Z",
+      "contentHash": "f268a97cf549f1b2953fe1e952a6c4d38d0aeac0b235bcbe34a82d84672458d5",
+      "fileSha": "572b9c9b5fa0600109e4bbb5fa8b7a8566b2b823",
+      "fileSize": 175221
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Shop (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Shop (1).cs",
+      "notifiedAt": "2025-11-04T17:15:14.004Z",
+      "contentHash": "907180bd9bfa2a010d19fe8fb70df00d8088712b5d00cd882e3adff845347afe",
+      "fileSha": "607d79057bb9b7f7d42a512731a5a1d166f238b2",
+      "fileSize": 247059
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AmusementRidesBundle/oxide/plugins/AmusementRidesFerrisWheel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AmusementRidesBundle/oxide/plugins/AmusementRidesFerrisWheel.cs",
+      "notifiedAt": "2025-11-04T17:15:15.985Z",
+      "contentHash": "7b800e6ecfaa8afb084efb905289b52f9ad5826272d3fab3013e79d7c7cb510e",
+      "fileSha": "6bea2408f0ffbcae47ff3f5098cfada6eaf3c777",
+      "fileSize": 86922
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BetterNpc.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BetterNpc.cs",
+      "notifiedAt": "2025-11-04T17:15:18.053Z",
+      "contentHash": "de5ddf8b5934be57c37815031039fdb49a08c160b5c876776fba97be4df6aa61",
+      "fileSha": "6be0ab29e29b5e82b77582947ca404e808e469b7",
+      "fileSize": 121998
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DefendableBases/en/plugins/DefendableBases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DefendableBases/en/plugins/DefendableBases.cs",
+      "notifiedAt": "2025-11-04T17:15:19.954Z",
+      "contentHash": "02a5dbc2d775ec6257d32633218cd0d1dbce490e220f3ab71edca715cbd8c29a",
+      "fileSha": "60487acd8745235e0ccecaec32944112e19f1e0d",
+      "fileSize": 346483
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/PveMode.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/en/PveMode.cs",
+      "notifiedAt": "2025-11-04T17:15:22.288Z",
+      "contentHash": "5caf25de9c4ac99430522625ffcc173b2d86eb6d9a9c0886c2719c39b539c104",
+      "fileSha": "6b55be73c675322e73042a81de94946e61143a71",
+      "fileSize": 65059
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AutoFarm.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AutoFarm.cs",
+      "notifiedAt": "2025-11-04T17:15:23.958Z",
+      "contentHash": "8b61a7a6bed8c56d3925ab514f5bc74125b70ae1362d087e67e4197b869d43df",
+      "fileSha": "662118df24b4a0ea41bce5a4d880c0730ed42e09",
+      "fileSize": 79939
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PlayerSkins.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PlayerSkins.cs",
+      "notifiedAt": "2025-11-04T17:15:25.946Z",
+      "contentHash": "502de8a8b3e62569b4b5fbf13bd0b43713be067eecc206143bd7e57d7153fb62",
+      "fileSha": "6159d69a1b25f9c40bd553ed58ef9c04a66d83d3",
+      "fileSize": 128476
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ItemPerks (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ItemPerks (1).cs",
+      "notifiedAt": "2025-11-04T17:15:28.153Z",
+      "contentHash": "05cd993558c3578d710fa7da8f59db3b1527fbdd9a9d519641f1415128d44fd5",
+      "fileSha": "30d8f8b8a1e49e9462bf7377a15f48a3c0c7035a",
+      "fileSize": 251016
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMenu (4).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMenu (4).cs",
+      "notifiedAt": "2025-11-04T17:15:30.387Z",
+      "contentHash": "70373d7a6b2fe4485463af85b8ef310e5b368c0fbaa2fc50515145f89851db0d",
+      "fileSha": "41cf6aa9d11b0df6ae9936d1a7e19ec2e30b5247",
+      "fileSize": 146308
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RandomRaids.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RandomRaids.cs",
+      "notifiedAt": "2025-11-04T17:15:32.053Z",
+      "contentHash": "64ec3d7c97725bf1a292cd04ec57403fa6574da83955b766daacafc7812a2568",
+      "fileSha": "45d6fa543a83c7254daf65903c56f4fcd8ee750e",
+      "fileSize": 207063
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HeliSignals (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HeliSignals (1).cs",
+      "notifiedAt": "2025-11-04T17:15:34.113Z",
+      "contentHash": "582e0b9942e19e11d116570281b37ea518215ec80054109e21e7868c78efeda7",
+      "fileSha": "4984c7449a28bdd7e6c4d60cd429843987d0c29f",
+      "fileSize": 236554
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Friends (6).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Friends (6).cs",
+      "notifiedAt": "2025-11-04T17:15:35.986Z",
+      "contentHash": "f509f5b947ac243e67d92dcd756b4589c7263f4cffb9d3cf769db0f83d4492e4",
+      "fileSha": "3456864ef395f37cb2ea1483f710646da6082b99",
+      "fileSize": 113126
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Friends.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Friends.cs",
+      "notifiedAt": "2025-11-04T17:15:37.983Z",
+      "contentHash": "1ba55d25f7b71891b55bb733de514bc12f39553f558febce2081e55317a7a505",
+      "fileSha": "4797ac1725343a98358d69d55dc61d17d1aff9e8",
+      "fileSize": 111870
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena.cs",
+      "notifiedAt": "2025-11-04T17:15:41.139Z",
+      "contentHash": "61680efed1188c54085e8fd0603c5ff782ab323a4101a2785584f09b6561f628",
+      "fileSha": "335518f65a9789870bd84d310646dfb6d5a21888",
+      "fileSize": 199564
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Clans.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Clans.cs",
+      "notifiedAt": "2025-11-04T17:15:42.196Z",
+      "contentHash": "55219f8129e71ff935042c89ea49d697579a4c35002b7a2d4e79a33f95985aeb",
+      "fileSha": "392820d4c8caca4a4f10dae4b48d226b1e705f33",
+      "fileSize": 220631
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DeepWater.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DeepWater.cs",
+      "notifiedAt": "2025-11-04T17:15:44.099Z",
+      "contentHash": "c72dc88fd250b7c0a2c931602e4e094c869c620be32d7ee53d0ff602b60f1d7e",
+      "fileSha": "294fa3053bd05e8211e75c74a2b2f7412124c350",
+      "fileSize": 128177
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomHelicopterTiers.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomHelicopterTiers.cs",
+      "notifiedAt": "2025-11-04T17:15:45.892Z",
+      "contentHash": "90f02871b3f55040a229abde159f6618a3fc2ddf60717376b056594845af71ec",
+      "fileSha": "285d850c751ad654b78736ec03110ad90a7f39e0",
+      "fileSize": 146446
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/LoadoutController (3).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/LoadoutController (3).cs",
+      "notifiedAt": "2025-11-04T17:15:47.965Z",
+      "contentHash": "d264a6aa22fb5d99a751ddbbe9cc9c0da23d58bf2bda85493cbfc82588091c9c",
+      "fileSha": "34804caaf35a2076c5d6a7d76460997cef9a7804",
+      "fileSize": 59611
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Shop.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Shop.cs",
+      "notifiedAt": "2025-11-04T17:15:49.959Z",
+      "contentHash": "46db4bfc763f7a0f34e723bb7c6565bef38291a9edb98341c5a786f22112240a",
+      "fileSha": "401d961e735633ac8b859e0bccb97e1a416cc53a",
+      "fileSize": 128964
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SkyBase/ru/SkyBase.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SkyBase/ru/SkyBase.cs",
+      "notifiedAt": "2025-11-04T17:15:52.088Z",
+      "contentHash": "89d8790e1c6f380df7cfb4874476229c089ae9837320e640119e4432901e9a25",
+      "fileSha": "2f9599009d38c20af33320b34c156e9cab2d70e6",
+      "fileSize": 50150
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CargoTrainEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CargoTrainEvent.cs",
+      "notifiedAt": "2025-11-04T17:15:53.963Z",
+      "contentHash": "cef1c577c1fc761f05655ce781cf434654f89f3bb7b9d7865157cc36d9e6bb39",
+      "fileSha": "2b0ff573ebf582090749c79972ada059c7deabd4",
+      "fileSize": 145291
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/JetPack.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/JetPack.cs",
+      "notifiedAt": "2025-11-04T17:15:55.918Z",
+      "contentHash": "5eb9692b6b19a918a7420574555c6e107191800e709fe4d914e64d3be8228da2",
+      "fileSha": "411a885f41926d6da0065bda0cfbabe3267619c4",
+      "fileSize": 57051
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PowerPlantEvent/oxide/plugins/en/PowerPlantEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PowerPlantEvent/oxide/plugins/en/PowerPlantEvent.cs",
+      "notifiedAt": "2025-11-04T17:15:58.188Z",
+      "contentHash": "3adf02da982b96d62bcb728720bd10f0a40278799890314d054e460581488045",
+      "fileSha": "142a7b048fbe7b8c13cdf4fed8329e5b0b5e150e",
+      "fileSize": 141430
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/plugins/BossMonster.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/plugins/BossMonster.cs",
+      "notifiedAt": "2025-11-04T17:15:59.941Z",
+      "contentHash": "29dfe2d013d5f1898806d0b5627b6129bf0ed893d95767be718f29b30b4208b1",
+      "fileSha": "1826e4ac3a0f9eca7afd892eea9d17a5acb31bf2",
+      "fileSize": 102421
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HomesGUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HomesGUI.cs",
+      "notifiedAt": "2025-11-04T17:16:02.016Z",
+      "contentHash": "d77e7a577cb7cc4186c5473f4e44c03816324950e1325a1801a6abe079ff03ea",
+      "fileSha": "0b3450fa2853fe3ae6458c812a93462a391cd449",
+      "fileSize": 83809
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/CustomModules.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/CustomModules.cs",
+      "notifiedAt": "2025-11-04T17:16:03.882Z",
+      "contentHash": "1ae7826566cbe39541b2c00f4821b3ea4fbd1d4160b8a49e55db8e8f7508f4ab",
+      "fileSha": "1a83d5f0a11b742a71aced9584cbf9f84554fa17",
+      "fileSize": 140893
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena 2.0.29_upd_lts_oxide +RDP/Arena 2.0.29_upd_lts_oxide/Arena.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena 2.0.29_upd_lts_oxide +RDP/Arena 2.0.29_upd_lts_oxide/Arena.cs",
+      "notifiedAt": "2025-11-04T17:16:06.075Z",
+      "contentHash": "acac79cd8adb12975cb773b8e3e8c4a7eaebbce7822c783fb2b05f39298ceb2e",
+      "fileSha": "031d203f0175bc6cbfd2b90b727214df4b481c60",
+      "fileSize": 199202
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/TPSkinMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/TPSkinMenu.cs",
+      "notifiedAt": "2025-11-04T17:16:07.961Z",
+      "contentHash": "ed41c5c28bd81cb08a682e048e7ba3faf01baf4931a7f19dd6ca105036332dee",
+      "fileSha": "20ae46103f6889777a37c0c324914e2dac43f14a",
+      "fileSize": 66462
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/GridPower.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/GridPower.cs",
+      "notifiedAt": "2025-11-04T17:16:10.142Z",
+      "contentHash": "c11215ba447cc6ba0dfee940c594449ea3f45d54c2cfe10f794a61d087c4955a",
+      "fileSha": "12790f01b815d637d7a1fb9927e271cb3752ca92",
+      "fileSize": 271739
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/water-event-rust-plugin/oxide/plugins/ru/WaterEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/water-event-rust-plugin/oxide/plugins/ru/WaterEvent.cs",
+      "notifiedAt": "2025-11-04T17:16:12.016Z",
+      "contentHash": "2e46c0541d21ea5e8bafb6a613d7cb9b779af7ba03347aa4209b31f32cb4c642",
+      "fileSha": "0fa27d330445b72053f0f4a6de7fdae572a4fd3f",
+      "fileSize": 229876
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/zCupWars.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/zCupWars.cs",
+      "notifiedAt": "2025-11-04T17:16:14.133Z",
+      "contentHash": "5187e1ab72c6847352c610ebbbf07d49da4b6505aba485e43b1b11bf2fd986e4",
+      "fileSha": "0ebb06ceff72b79fbac3bfdfa571a761a0f0570d",
+      "fileSize": 56115
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RandomRaids (2).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RandomRaids (2).cs",
+      "notifiedAt": "2025-11-04T17:16:16.196Z",
+      "contentHash": "135dc3488dbe8768c147930dcb25332390c760afdd336bcce018715d840a440b",
+      "fileSha": "14a563ec2feef87f7c03df597e1943ddac4b76fb",
+      "fileSize": 207066
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PveMode.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PveMode.cs",
+      "notifiedAt": "2025-11-04T17:16:18.247Z",
+      "contentHash": "fa7e4c7711c99b2d0767ff66256f1a76bcfabd849d1d8e264695e346c7b86a7c",
+      "fileSha": "08fe3659056e422c11a68d18f75350055a98b217",
+      "fileSize": 50123
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TPCases (2).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TPCases (2).cs",
+      "notifiedAt": "2025-11-04T17:16:19.987Z",
+      "contentHash": "e0261f6fe4c080f532e8cdb04b6240d6b6894cfdf88192d39998096d22487dc5",
+      "fileSha": "0ba6f3dfa4e38c562a2436feb8e09bf5c3a6d303",
+      "fileSize": 59001
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/GasStationEvent (1.2.9 fix)/oxide/plugins/en/GasStationEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/GasStationEvent (1.2.9 fix)/oxide/plugins/en/GasStationEvent.cs",
+      "notifiedAt": "2025-11-04T17:16:22.037Z",
+      "contentHash": "d91062fc8f0ea0d3e87c1ec26ba5ef2c8ee60c9ee998812d271b66950052eb49",
+      "fileSha": "10590aa53369df100304f53a937cebe043cedc46",
+      "fileSize": 195414
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DiscordRewards.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/DiscordRewards.cs",
+      "notifiedAt": "2025-11-04T17:16:23.991Z",
+      "contentHash": "034031aabe6e1645056da13ee8ff01eea897fee54f23c62e0bca44c0cdf6cf94",
+      "fileSha": "1ec838c3ff20f27ca21d84673b58943d6737302b",
+      "fileSize": 107099
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/plugins/LSkins.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/plugins/LSkins.cs",
+      "notifiedAt": "2025-11-04T17:16:25.878Z",
+      "contentHash": "d288a20657ec32fd682df8450a65bf87096df9d001c0f4aa31643f57e07fd6e7",
+      "fileSha": "00d3b6b95d4dbbfee5de699a60a8fdc950ee6482",
+      "fileSize": 98265
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/oxide/plugins/Shipwreck.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/oxide/plugins/Shipwreck.cs",
+      "notifiedAt": "2025-11-04T17:16:28.086Z",
+      "contentHash": "8f279406ebbb8f5a1365bf5574597f7ac50418c4523198ae3e817995f0fc9b99",
+      "fileSha": "2471407dfb528ebbb2cf7946983cd3359c01cc5d",
+      "fileSize": 316645
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/plugins/NpcSpawn.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/plugins/NpcSpawn.cs",
+      "notifiedAt": "2025-11-04T17:16:30.512Z",
+      "contentHash": "19e360273bfcd0d8e426264020daa6defa6605bab0ab117f893cf9e030fb5837",
+      "fileSha": "22f67b3c8e2d1619eb306fadece8bee2039a01a7",
+      "fileSize": 117308
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AbsolutSorter.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AbsolutSorter.cs",
+      "notifiedAt": "2025-11-04T17:16:31.914Z",
+      "contentHash": "31dc8d86df2cedbd5dd69142f9f1d9c08d1a177eed0e4afd6dbb47afc468888d",
+      "fileSha": "1e8fa05192d751d026e375186de25a65afca5d41",
+      "fileSize": 52487
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMap.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMap.cs",
+      "notifiedAt": "2025-11-04T17:16:34.173Z",
+      "contentHash": "50f72be2792603d3c6109caa9cdb17fa7eb9dd575ebad09447dafb3c1bf309e3",
+      "fileSha": "22c93404f963a09cd8c4edb930a23b4d0fc39015",
+      "fileSize": 112675
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EasyGather.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EasyGather.cs",
+      "notifiedAt": "2025-11-04T17:16:35.873Z",
+      "contentHash": "4a643ed730ff8be905e8145891d22c854ddc437c72f78d7ca3a6f3886d8170bb",
+      "fileSha": "0fc3b257e58a3dcf69ce1a2f9391837f0928553e",
+      "fileSize": 163463
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StaticLootables.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StaticLootables.cs",
+      "notifiedAt": "2025-11-04T17:16:37.999Z",
+      "contentHash": "9a4fe11a8f984f73ddc099101cf5c160a3ab9d796257bccbe5dd6617f3f48433",
+      "fileSha": "0b6928d206d9ef0a0c2fd9626d3bba85ef7554d8",
+      "fileSize": 189551
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/ru/HarborEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/ru/HarborEvent.cs",
+      "notifiedAt": "2025-11-04T17:16:39.966Z",
+      "contentHash": "01526eda04e9f705654d3c8708ca45bfd7dba4d0e0713d7783291d27f575481b",
+      "fileSha": "134723f5b2cfe1b4a0c20f79c93cfa7121e36feb",
+      "fileSize": 232198
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TutorialDisplay.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TutorialDisplay.cs",
+      "notifiedAt": "2025-11-04T17:16:42.026Z",
+      "contentHash": "0601fe63d8c2122f276c3225121fead812025e70ac69a6ada6e32585106eedae",
+      "fileSha": "0ea7a15ac042a69f95f7d8af928a18438f951603",
+      "fileSize": 50230
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RTM.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RTM.cs",
+      "notifiedAt": "2025-11-04T17:16:44.106Z",
+      "contentHash": "982d69d3f7c4e2a9639fb7062015c323a9e9a6c1bcdfc50341f9a08c03aa50aa",
+      "fileSha": "07a827c41689bafca2dc5a98f9cd551d3b619392",
+      "fileSize": 225803
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ZoneSell.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ZoneSell.cs",
+      "notifiedAt": "2025-11-04T17:16:46.192Z",
+      "contentHash": "6d42385160dfced1f31e5abbcbc82aef6e64de7f455d06e9d5150ff082d3e6b6",
+      "fileSha": "69e65557db933ab88c307ca62df1b2580b5c8986",
+      "fileSize": 32660
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/QuickMarker.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/QuickMarker.cs",
+      "notifiedAt": "2025-11-04T17:16:48.223Z",
+      "contentHash": "dcb86fe8d448f7c05749088ad049e640a03cd2e848c8475a9cbdcb68a91d4f37",
+      "fileSha": "7548f7e75c55722b097119c215d92ac4915d5d3a",
+      "fileSize": 16676
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins/RustKits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins/RustKits.cs",
+      "notifiedAt": "2025-11-04T17:16:49.975Z",
+      "contentHash": "a0150da6a3d2de8e124614642c021dd15467f7b921ffabbded38911560d53e46",
+      "fileSize": 42208
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AutoKit-9.9.9.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AutoKit-9.9.9.cs",
+      "notifiedAt": "2025-11-04T17:16:52.002Z",
+      "contentHash": "7dc7dd30d8f33f5285dd0bed2378d7ee61e2f0a89a580024828735f2b701da2e",
+      "fileSize": 16342
+    },
+    "https://raw.githubusercontent.com/13dasd123/Fat-plant/main/plugins_old/AutoDecay.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/Fat-plant/main/plugins_old/AutoDecay.cs",
+      "notifiedAt": "2025-11-04T17:16:54.047Z",
+      "contentHash": "09b7a1812390b3818fce78286ffaa7938610b1d1851d53b94967b671c72cd52f",
+      "fileSize": 17391
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Recycle.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Recycle.cs",
+      "notifiedAt": "2025-11-04T17:16:55.959Z",
+      "contentHash": "44b0ec7fd0dbdd5f4ecdc4a130af1f0557887ef517a47eaefdf942d0e1be672c",
+      "fileSize": 19418
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/SlidingDoors.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/SlidingDoors.cs",
+      "notifiedAt": "2025-11-04T17:16:57.976Z",
+      "contentHash": "08a18458790308ecb6202f80cef8c453c259b1bb2b53c97c98f69794b70d60b1",
+      "fileSize": 24971
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/MapGenerator (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/MapGenerator (1).cs",
+      "notifiedAt": "2025-11-04T17:16:59.881Z",
+      "contentHash": "aa83173654b26153adc670e7fb2ce389a62d4ba61c572c07c50d508a313caf4b",
+      "fileSize": 11782
+    },
+    "https://raw.githubusercontent.com/13dasd123/Fat-plant/main/plugins_old/TimedPermissions.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/Fat-plant/main/plugins_old/TimedPermissions.cs",
+      "notifiedAt": "2025-11-04T17:17:01.905Z",
+      "contentHash": "cf87ed5cf5f6b8d55387fb56f015ad71ef602fb70d01b4c339b3874adbc0453a",
+      "fileSize": 31515
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/XRate.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/XRate.cs",
+      "notifiedAt": "2025-11-04T17:17:03.932Z",
+      "contentHash": "d8e0b5378567242f3c6f1957bcdb24c20ea86cca3f530e7ae183832bc5f05e13",
+      "fileSize": 37004
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SendVideo.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SendVideo.cs",
+      "notifiedAt": "2025-11-04T17:17:06.025Z",
+      "contentHash": "379206a7c6c02d01f1ff3038a82441bfb419537ddbbba025a887bdc80683703b",
+      "fileSha": "766ff340eb5856b498f2da2d6938b831f08dafcb",
+      "fileSize": 20915
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/BolotoRust/Vanish.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/BolotoRust/Vanish.cs",
+      "notifiedAt": "2025-11-04T17:17:07.956Z",
+      "contentHash": "d6eafad1f634409b0ae0552d50e7cc3016536dcd3bd983dffc4586bebe20d9ee",
+      "fileSize": 32008
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomUI.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomUI.cs",
+      "notifiedAt": "2025-11-04T17:17:10.042Z",
+      "contentHash": "4cdc9ffd99bc03ae7cf05518950418f8ddd3d72159af915576128e764db54556",
+      "fileSha": "522a3bcafb5958fada323d77341df6fdc24bbcac",
+      "fileSize": 17485
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TeamMarker (2).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TeamMarker (2).cs",
+      "notifiedAt": "2025-11-04T17:17:12.086Z",
+      "contentHash": "85c67cceaca9536aa73909a3d9bfa8d51b78acf4e3dc82d348064522e88cf468",
+      "fileSha": "3548d4f8d038d61a5506f3ec3c86600e889d6882",
+      "fileSize": 11596
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/[SVP]-Addons1.2.21/WPVipRanks.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/[SVP]-Addons1.2.21/WPVipRanks.cs",
+      "notifiedAt": "2025-11-04T17:17:13.861Z",
+      "contentHash": "ff32086d8a0b0892a701a224f46ef49dcbe16964fb07bad7d2690e644db6c5ab",
+      "fileSha": "2c3505453fef2335d7e2be19bcb039826b40b5d9",
+      "fileSize": 47573
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TimedPermissionsInStatusbar/TimedPermissions.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TimedPermissionsInStatusbar/TimedPermissions.cs",
+      "notifiedAt": "2025-11-04T17:17:16.092Z",
+      "contentHash": "844765be61b95714cdc8d2aa0966349a2d44d29cd84e862e41046e3e52aeb0c0",
+      "fileSha": "3a048760df3d9aaa20d8e92cf23be04884125bbd",
+      "fileSize": 21734
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TimedPermissionsInStatusbar/TimedPermissionsInStatusbar.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TimedPermissionsInStatusbar/TimedPermissionsInStatusbar.cs",
+      "notifiedAt": "2025-11-04T17:17:18.025Z",
+      "contentHash": "8bd215358b8d2498a4fa4a09e395cf74b96e9ae513c7ac2c481d523f07ff004b",
+      "fileSha": "3d503894382e64ccede36f8846722c73fbf57d00",
+      "fileSize": 25892
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TeamMarker (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TeamMarker (1).cs",
+      "notifiedAt": "2025-11-04T17:17:19.932Z",
+      "contentHash": "85c67cceaca9536aa73909a3d9bfa8d51b78acf4e3dc82d348064522e88cf468",
+      "fileSha": "3548d4f8d038d61a5506f3ec3c86600e889d6882",
+      "fileSize": 11596
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/GatherLootMultiplier.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/GatherLootMultiplier.cs",
+      "notifiedAt": "2025-11-04T17:17:21.866Z",
+      "contentHash": "3094415236910544ecd8788c4d266004b2847b7f7a88f642466c14ea03519d8c",
+      "fileSha": "28617d83549796e0abfdacfe073742866c56fd8f",
+      "fileSize": 48702
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/LegendaryBeasts.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/LegendaryBeasts.cs",
+      "notifiedAt": "2025-11-04T17:17:23.881Z",
+      "contentHash": "92e08f8102eef82d0b3207dbacd161589997f0a9fecd63ed666fbb1d4548556c",
+      "fileSha": "25551486a84dc7756bcf15519d09edcc7d8fe7e7",
+      "fileSize": 27273
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena 2.0.29_upd_lts_oxide +RDP/Arena 2.0.29_upd_lts_oxide/ArenaInfected.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena 2.0.29_upd_lts_oxide +RDP/Arena 2.0.29_upd_lts_oxide/ArenaInfected.cs",
+      "notifiedAt": "2025-11-04T17:17:25.879Z",
+      "contentHash": "fe5f9b08a5b47bc148a3b934f4e4e99b3116872f134f1b4181fa8ab9f9c0dda2",
+      "fileSha": "3cc0536f39ea0ce182eb012b1a43f3b1fe5b4086",
+      "fileSize": 11633
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WaterBikes.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WaterBikes.cs",
+      "notifiedAt": "2025-11-04T17:17:27.976Z",
+      "contentHash": "07edf6faeb73b898d56503387fd1454ef430fe7ebaf5e4c184dc2cb1863b24a9",
+      "fileSha": "3d0e01417569b4eb48e2432898af352ecb9e456a",
+      "fileSize": 48654
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WPVipRanks.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WPVipRanks.cs",
+      "notifiedAt": "2025-11-04T17:17:29.899Z",
+      "contentHash": "ff32086d8a0b0892a701a224f46ef49dcbe16964fb07bad7d2690e644db6c5ab",
+      "fileSha": "2c3505453fef2335d7e2be19bcb039826b40b5d9",
+      "fileSize": 47573
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RestoreUponDeath.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RestoreUponDeath.cs",
+      "notifiedAt": "2025-11-04T17:17:31.911Z",
+      "contentHash": "c6c0290c8fba09f0f97f7a16861fd50deb4d0e89efe14993e31b6a1db2313499",
+      "fileSha": "387623d00becd4132a4a0bf42b68cea0ff9f6254",
+      "fileSize": 19031
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ItemBank.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ItemBank.cs",
+      "notifiedAt": "2025-11-04T17:17:34.076Z",
+      "contentHash": "1577e498590b5024f601015e496ec19c11bbce6629adab3625d2045eb48330ac",
+      "fileSha": "20648f2892552dc43634c9e2c3d7e593e4c4e64a",
+      "fileSize": 39204
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/InfoMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/InfoMenu.cs",
+      "notifiedAt": "2025-11-04T17:17:35.932Z",
+      "contentHash": "03c4f457b7605866d14d1d2e428236a0e1a6ce9dfb9192a68acc8ccfd125cecc",
+      "fileSha": "2b60ddb6b5966f6ab35ce1a8ebc16bd03e87b103",
+      "fileSize": 38012
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/Picklock.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ru/Picklock.cs",
+      "notifiedAt": "2025-11-04T17:17:37.945Z",
+      "contentHash": "747d073b290f26f1bc752a5ad1e5a057461837df91c920fb629772a4faf66eec",
+      "fileSha": "238fc85f44e8dcf6472635b957191a5f8c1ea457",
+      "fileSize": 17885
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminESP.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminESP.cs",
+      "notifiedAt": "2025-11-04T17:17:39.986Z",
+      "contentHash": "a617e9274b0a46d8e44cf384a61d85e0a8984144b0b2e886236f2d6360804f7d",
+      "fileSha": "399a68fc10a8f4f29f4548ca690e91780f461e9a",
+      "fileSize": 42782
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomGraffiti.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomGraffiti.cs",
+      "notifiedAt": "2025-11-04T17:17:43.361Z",
+      "contentHash": "44d606eec286cc5e54dad3a7b87407083104cee46b6d5e93bf116ab350e22e51",
+      "fileSha": "2734b830b81893ff24810abdc387eb5e20eacb36",
+      "fileSize": 20406
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/[SVP]-Addons1.2.21/WPKits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/[SVP]-Addons1.2.21/WPKits.cs",
+      "notifiedAt": "2025-11-04T17:17:44.166Z",
+      "contentHash": "c82c097b4640d32d92390c9c95377ae87b895a87654b2b65987c6b2387377a6d",
+      "fileSha": "01ef225ab573a559b0026bfade8bba75a85b97ed",
+      "fileSize": 39077
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena/ArenaInfected.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena/ArenaInfected.cs",
+      "notifiedAt": "2025-11-04T17:17:46.178Z",
+      "contentHash": "019770da25b8c6e5a7bf4521c99e7b25461852b721a4a57f6c5421b6c45fe740",
+      "fileSha": "037053eb67ac541b5e1626fe9b588505d8a939d3",
+      "fileSize": 11628
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena 2.0.29_upd_lts_oxide +RDP/Arena 2.0.29_upd_lts_oxide/ArenaCTF.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena 2.0.29_upd_lts_oxide +RDP/Arena 2.0.29_upd_lts_oxide/ArenaCTF.cs",
+      "notifiedAt": "2025-11-04T17:17:48.283Z",
+      "contentHash": "89bb1b79540f76bc4dec0862db029efd22b28cb73eacfefea0f251bcc9a65bf3",
+      "fileSha": "06b4d4c4a1408499db8f5eec53a3ee00be14d51d",
+      "fileSize": 30996
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena/ArenaCTF.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena/ArenaCTF.cs",
+      "notifiedAt": "2025-11-04T17:17:50.088Z",
+      "contentHash": "89bb1b79540f76bc4dec0862db029efd22b28cb73eacfefea0f251bcc9a65bf3",
+      "fileSha": "06b4d4c4a1408499db8f5eec53a3ee00be14d51d",
+      "fileSize": 30996
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MyTugBoat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MyTugBoat.cs",
+      "notifiedAt": "2025-11-04T17:17:51.916Z",
+      "contentHash": "89bb13830bb07f8afcd233223cb6e3de27a1884da463ad2e73ecc728568522f9",
+      "fileSha": "1dc83229afe58353418fa65837699c6371948435",
+      "fileSize": 30595
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WPKits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WPKits.cs",
+      "notifiedAt": "2025-11-04T17:17:54.009Z",
+      "contentHash": "c82c097b4640d32d92390c9c95377ae87b895a87654b2b65987c6b2387377a6d",
+      "fileSha": "01ef225ab573a559b0026bfade8bba75a85b97ed",
+      "fileSize": 39077
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ArenaInfected.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ArenaInfected.cs",
+      "notifiedAt": "2025-11-04T17:17:55.882Z",
+      "contentHash": "019770da25b8c6e5a7bf4521c99e7b25461852b721a4a57f6c5421b6c45fe740",
+      "fileSha": "037053eb67ac541b5e1626fe9b588505d8a939d3",
+      "fileSize": 11628
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ArenaCTF.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ArenaCTF.cs",
+      "notifiedAt": "2025-11-04T17:17:57.995Z",
+      "contentHash": "89bb1b79540f76bc4dec0862db029efd22b28cb73eacfefea0f251bcc9a65bf3",
+      "fileSha": "06b4d4c4a1408499db8f5eec53a3ee00be14d51d",
+      "fileSize": 30996
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BuriedTreasure.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BuriedTreasure.cs",
+      "notifiedAt": "2025-11-04T17:17:59.915Z",
+      "contentHash": "4d2a548f01e940b0f5c544c7f46097b7f2e58b4144d43e02e86c95e86d128b9c",
+      "fileSha": "00c2f4f18a7294324619dbbc9a11a555611689ad",
+      "fileSize": 49837
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ConsumableEffects.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ConsumableEffects.cs",
+      "notifiedAt": "2025-11-04T17:18:01.858Z",
+      "contentHash": "be45e4f67c51dc5235167c9ddd0aeda325926ec722f95ca6cc7e33dd16c75865",
+      "fileSha": "0bf004afa28a992b027d36147f85fdf032a5f0d4",
+      "fileSize": 25504
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/NameFix.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/NameFix.cs",
+      "notifiedAt": "2025-11-04T17:18:03.919Z",
+      "contentHash": "1461ae22ae46e3cc8bd4e72b44b2c990ed4116441b77dda65dfceecc6e5efb3c",
+      "fileSha": "31e3fe4da0d1c01656427f3f68bbb66a96b988a3",
+      "fileSize": 2028
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WaterBlock.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/WaterBlock.cs",
+      "notifiedAt": "2025-11-04T17:18:05.982Z",
+      "contentHash": "fae145940c55540c4729f395b50ea108d2eb72294b1068778f0a62132815ed04",
+      "fileSha": "426c8da1c8dd347a1873176f4f869ed4a2a7f096",
+      "fileSize": 8581
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AAlertRaidEN.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AAlertRaidEN.cs",
+      "notifiedAt": "2025-11-04T17:18:08.058Z",
+      "contentHash": "ea93f8ece6ca40896ef35f02ea314f2a4a4df1f5ab7e0950ca8984c444cc7321",
+      "fileSha": "2883134976c1bf8ad36ff6feda156ea22291df4c",
+      "fileSize": 107994
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SimpleKDR.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SimpleKDR.cs",
+      "notifiedAt": "2025-11-04T17:18:09.879Z",
+      "contentHash": "ef68816996cc0d7b9b11306b45e97925cab607b14960d2675641ebac832c90b0",
+      "fileSha": "16736b19c39ad8fe61261394aa47569adf1bc30f",
+      "fileSize": 29112
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AimTrain.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AimTrain.cs",
+      "notifiedAt": "2025-11-04T17:18:11.868Z",
+      "contentHash": "b3911801e4334dae4ccd8e8f319dbb2d6bf659fab1887de689bc1d30b71d334a",
+      "fileSha": "1fbf3410da8e664d286c31c25ae60e6460f90a19",
+      "fileSize": 56288
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminTCMarkers.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminTCMarkers.cs",
+      "notifiedAt": "2025-11-04T17:18:14.011Z",
+      "contentHash": "8e6e03e665005831c3b8227e1663f0f24c37547c795b1e96cdf7724ed2493c89",
+      "fileSha": "1bc4d70d0e2c5bbecfa5e5648e1ada2c5c4f69c5",
+      "fileSize": 45041
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Hud (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Hud (1).cs",
+      "notifiedAt": "2025-11-04T17:18:15.877Z",
+      "contentHash": "7fbd9b0ad3481ac0e83a6a215529609022cc9d66d9d16f08e638b38334830b25",
+      "fileSha": "1c079082669dfb9bf68af1d809c0afb2ed07fb0b",
+      "fileSize": 115719
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Cases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Cases.cs",
+      "notifiedAt": "2025-11-04T17:18:17.905Z",
+      "contentHash": "1c9c840b2aa00bbafc47a240cd728e1ca3a8a38cff9851c112e5f4bfe429630b",
+      "fileSha": "1b9495ac516ddf2ae04a251c14f1ee11326a89f3",
+      "fileSize": 154800
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/IQAlcoholFarm.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/IQAlcoholFarm.cs",
+      "notifiedAt": "2025-11-04T17:18:19.940Z",
+      "contentHash": "bbe1bcea51f1298560173c4cdb0d9cc1c8d4b713113b21c553d035464a532a7d",
+      "fileSha": "1ff81e13da717a813dd37fc605101bd0be222c5e",
+      "fileSize": 145347
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ServerInfoGui.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ServerInfoGui.cs",
+      "notifiedAt": "2025-11-04T17:18:21.996Z",
+      "contentHash": "f44e0addbf58f014db62e8d7c79dc0c4b019ead1dd2bf088493bda93d592ca1a",
+      "fileSha": "201ba8fa50b0140b069992151751cb5100ecec56",
+      "fileSize": 116444
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMap (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMap (1).cs",
+      "notifiedAt": "2025-11-04T17:18:24.019Z",
+      "contentHash": "867a1524b890ac46eaec4d7baa46cd92938ba86e55eb04b4488f67ac1bb0712b",
+      "fileSha": "19821b2b7b1407603dd0d98265786fc7c3260336",
+      "fileSize": 113053
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ZombieHorde (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ZombieHorde (1).cs",
+      "notifiedAt": "2025-11-04T17:18:25.863Z",
+      "contentHash": "095b8f739c3a72ba5e651a8ac654d9f11c08986dfa11bff835891c834eecbb50",
+      "fileSha": "1d1514535825b02d5cb2fa35c88d49412e097e46",
+      "fileSize": 191211
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TeleportMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TeleportMenu.cs",
+      "notifiedAt": "2025-11-04T17:18:27.919Z",
+      "contentHash": "614137a4529af21f9ff60c5598fd56b42d3105f948e3722033f75e2bb67d4a68",
+      "fileSha": "183e1f4ba05287a7939616d4feade21922720f18",
+      "fileSize": 21796
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PersonalNPC (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PersonalNPC (1).cs",
+      "notifiedAt": "2025-11-04T17:18:29.968Z",
+      "contentHash": "7730ec90b3ebb8a806167fbb96f193628f47fc942cd3166e95e5359023def738",
+      "fileSha": "1e06e80e097e0b796ef27842b6f231e5295150f5",
+      "fileSize": 238679
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RoamTasks.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RoamTasks.cs",
+      "notifiedAt": "2025-11-04T17:18:31.998Z",
+      "contentHash": "08dc16c9229cc54a438eaffe7fc4e41047fce0a486d115c46281e039ce583dc4",
+      "fileSha": "1b6de3528917e35f5f80d1e6b93f171eb543d46b",
+      "fileSize": 119061
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdvancedAlerts (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdvancedAlerts (1).cs",
+      "notifiedAt": "2025-11-04T17:18:33.953Z",
+      "contentHash": "ab28e5f443f6ce93823f2efea180fc54181c33773885d9dffee5667b7940ce94",
+      "fileSha": "0e905b7474cf36f15091d070726284196c9eeb7d",
+      "fileSize": 27663
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/KitController.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/KitController.cs",
+      "notifiedAt": "2025-11-04T17:18:36.162Z",
+      "contentHash": "98a286aadacee44d7d1f840898c6aa8793861e438c01db2897add342954631fd",
+      "fileSha": "0915a5126f6c92e8f0c25608f80c0f96fb3b327b",
+      "fileSize": 111975
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AutoRecycler.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AutoRecycler.cs",
+      "notifiedAt": "2025-11-04T17:18:37.938Z",
+      "contentHash": "35df3b4c045971e94a542fbd6728ae78ee27abda4cdc9c926458d6068e24ef06",
+      "fileSha": "038fb9575a62e5f567a41f5fb1a13e9a922bfd92",
+      "fileSize": 60458
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/XRate.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/XRate.cs",
+      "notifiedAt": "2025-11-04T17:18:39.866Z",
+      "contentHash": "8744c2e2050ec0d12f2d5a6fc7e90b5339a5152b7d7895fc39163557756b6247",
+      "fileSha": "07d11c2ea635c43f259a4c328bff7a9b5541b9ae",
+      "fileSize": 36986
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StackModifier (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StackModifier (1).cs",
+      "notifiedAt": "2025-11-04T17:18:41.931Z",
+      "contentHash": "769eea44fb84a1c3efd300bac65c8ac5c913d33783cb6478c14247b3dda03e1b",
+      "fileSha": "053c800d71de4daa7b4e153cb657fd80b5b6ba22",
+      "fileSize": 109841
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SoFriends.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SoFriends.cs",
+      "notifiedAt": "2025-11-04T17:18:43.971Z",
+      "contentHash": "5595e9717acb106ba91a627c8c36381739b03633aa4493481672a2b0947a2761",
+      "fileSha": "0101c3ed147affeab9b77ceeea6fa212d5f73562",
+      "fileSize": 79012
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AutoDemoRecord (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AutoDemoRecord (1).cs",
+      "notifiedAt": "2025-11-04T17:18:45.928Z",
+      "contentHash": "99cb91c20cf5335873b61e24cace0fd95396926c94a75cfa8eeb95c92b357e0d",
+      "fileSha": "04ee8ea7f954176fbc6776af3c0d2c44febf399b",
+      "fileSize": 72927
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TeamInfo.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TeamInfo.cs",
+      "notifiedAt": "2025-11-04T17:18:48.146Z",
+      "contentHash": "71dd610f4ba86634f2db597396eea67d292382b8cef1b04ac96d48b57743e2db",
+      "fileSha": "059a5787a32d6711d0c0ed65683b54e266085ec9",
+      "fileSize": 29157
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PanelSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PanelSystem.cs",
+      "notifiedAt": "2025-11-04T17:18:50.114Z",
+      "contentHash": "4304d7eb8063a294754666ba07962a1f9842715eec83842655a876f461e096b4",
+      "fileSha": "088d965db21d049fbe92cf9d09e9eb8cff3071bf",
+      "fileSize": 95637
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RecoilPatternGenerator.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RecoilPatternGenerator.cs",
+      "notifiedAt": "2025-11-04T17:18:52.118Z",
+      "contentHash": "dcc2674eb61106f51632f958a2f25547d1537ea0ca951937285716c46b235827",
+      "fileSha": "019f1555af93d4156d9dd371a19b60346ffd853b",
+      "fileSize": 8961
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena 2.0.29_upd_lts_oxide +RDP/Arena_Required_Dependencies_Plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena 2.0.29_upd_lts_oxide +RDP/Arena_Required_Dependencies_Plugins/Kits.cs",
+      "notifiedAt": "2025-11-04T17:18:54.338Z",
+      "contentHash": "8bb9a1f243878a5bd856ffab432005fc61adfe065a8b24daeeee80b49dbcc0d2",
+      "fileSha": "03da270d8288e40913c99c29e36ae6ebce5a0e85",
+      "fileSize": 150284
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RustArena.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/RustArena.cs",
+      "notifiedAt": "2025-11-04T17:18:55.964Z",
+      "contentHash": "5306466a5b7785d2e8b6152317bd3d5629d00362a7dd48544d3ed92d98f53b9c",
+      "fileSha": "04a7ab3d3dd01542e97231e18436dba76138d69e",
+      "fileSize": 296151
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SurvivalArena.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/SurvivalArena.cs",
+      "notifiedAt": "2025-11-04T17:18:58.037Z",
+      "contentHash": "30a1d4d896f3d8e408bbda21641c50c506b3e2ef8b89ac5abce4d160eb47f500",
+      "fileSha": "0447274191098706a47c31d5a33fe8cf9fd73c54",
+      "fileSize": 179500
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena/ArenaSlasher.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena/ArenaSlasher.cs",
+      "notifiedAt": "2025-11-04T17:18:59.913Z",
+      "contentHash": "17ca1315037816f7ea0a44c5c4a5820c4fb02417115af46ef7ef2c24de12bbd3",
+      "fileSha": "03b97365cb879f119ce7bc6f4fbfc3daa14f04df",
+      "fileSize": 25840
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HeliCrashEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HeliCrashEvent.cs",
+      "notifiedAt": "2025-11-04T17:19:01.952Z",
+      "contentHash": "b5e5763782376e78c1e1c77015abc5fa676c4b87993502ec160bbe46bc9180cf",
+      "fileSha": "059e039b72e2ffd2b99d5030c865118437e989c4",
+      "fileSize": 9052
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StackModifier (2).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/StackModifier (2).cs",
+      "notifiedAt": "2025-11-04T17:19:03.945Z",
+      "contentHash": "bded1e01a02de4dcddd482e4a98888da083d52cab3fdd8ffc53cc8364b0bc484",
+      "fileSha": "044364118ee43a820f8997e95b66ca8d7083cb77",
+      "fileSize": 110728
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CupboardSet.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CupboardSet.cs",
+      "notifiedAt": "2025-11-04T17:19:06.041Z",
+      "contentHash": "4f99c080888125536c23988298c372902176f03da3dd0dd1d9782cc7a4f182ae",
+      "fileSha": "1349cf6e1484f9f61e971ecd4bd46d2f10170b8e",
+      "fileSize": 10456
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/FoundationLimits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/FoundationLimits.cs",
+      "notifiedAt": "2025-11-04T17:19:07.930Z",
+      "contentHash": "17caf177d7426a3088824ef8bf590c8173090a667319bf71404417acf2d57615",
+      "fileSha": "04294113ba34427574ae10ab822a7692c539e7c0",
+      "fileSize": 9637
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/GatheringClothes.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/GatheringClothes.cs",
+      "notifiedAt": "2025-11-04T17:19:10.076Z",
+      "contentHash": "42b26b3578d762dda7b0b9b9e8585473c39de591c64fd1924728dcb7edd05eb9",
+      "fileSha": "20810f9bdc77020ce3ba9a2e2df8fd338ec32721",
+      "fileSize": 34023
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena 2.0.29_upd_lts_oxide +RDP/Arena_Required_Dependencies_Plugins/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Arena 2.0.29_upd_lts_oxide +RDP/Arena_Required_Dependencies_Plugins/ImageLibrary.cs",
+      "notifiedAt": "2025-11-04T17:19:11.969Z",
+      "contentHash": "1b22f13ddae8dec9cf77388bec07168f1091f48222f5199df58699772179190a",
+      "fileSha": "17d99b554cef26aa2a96c42d4bf9bb62c779f74a",
+      "fileSize": 54466
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EasyGather_SlivPlugin/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/EasyGather_SlivPlugin/ImageLibrary.cs",
+      "notifiedAt": "2025-11-04T17:19:14.249Z",
+      "contentHash": "1b22f13ddae8dec9cf77388bec07168f1091f48222f5199df58699772179190a",
+      "fileSha": "17d99b554cef26aa2a96c42d4bf9bb62c779f74a",
+      "fileSize": 54466
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/ImageLibrary.cs",
+      "notifiedAt": "2025-11-04T17:19:15.872Z",
+      "contentHash": "1b22f13ddae8dec9cf77388bec07168f1091f48222f5199df58699772179190a",
+      "fileSha": "17d99b554cef26aa2a96c42d4bf9bb62c779f74a",
+      "fileSize": 54466
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AnticheatPlus.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AnticheatPlus.cs",
+      "notifiedAt": "2025-11-04T17:19:17.938Z",
+      "contentHash": "cec2ab31a522380a6dc559199333ba56da7482814a6651364d196b775d91408f",
+      "fileSha": "14ad60b73bc69a2e0106a29e536e01ececa3f2a9",
+      "fileSize": 22738
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/ru/WaterEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/oxide/plugins/ru/WaterEvent.cs",
+      "notifiedAt": "2025-11-04T17:19:19.954Z",
+      "contentHash": "27a41eb308ada9118fb6f43740af31eb138a8569fbfc13f1b19617288f64319f",
+      "fileSha": "172771ca619b0ca443d29f5802940725ce5811d2",
+      "fileSize": 230214
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BuildingBlocked (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BuildingBlocked (1).cs",
+      "notifiedAt": "2025-11-04T17:19:21.969Z",
+      "contentHash": "76d3794b45c59e296d2e6ed0ab09ed79eee72652973c750459a079e6cd11fae9",
+      "fileSha": "1763384472fe61f3704a776e0bddcf836ce32878",
+      "fileSize": 15816
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MgPanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/MgPanel.cs",
+      "notifiedAt": "2025-11-04T17:19:24.094Z",
+      "contentHash": "25c3f23116992c1841dd9f0cb560fc6824d4013d6cab951a6d8891452627e143",
+      "fileSha": "1d83d1bfdc95bfe13c257c8f0887a1aab58ed566",
+      "fileSize": 69395
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PooBot.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PooBot.cs",
+      "notifiedAt": "2025-11-04T17:19:25.955Z",
+      "contentHash": "f175a627d090bd3fd6780fd96e977e87233551398579fe4e1ee45d1617eca000",
+      "fileSha": "1840c413cb9cb9922f3b4d44a6559b877d36fdd9",
+      "fileSize": 78686
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AirEvent-2.0.7/en/AirEvent.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AirEvent-2.0.7/en/AirEvent.cs",
+      "notifiedAt": "2025-11-04T17:19:28.019Z",
+      "contentHash": "354bfa95369a326b2b6b74ac493fbcb2877f3e5c4d3baea2207d4623e478e3bb",
+      "fileSha": "1bd40b5a45c966d340e06e7284eb0b24f2db204f",
+      "fileSize": 171999
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/kryChinookBalance.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/kryChinookBalance.cs",
+      "notifiedAt": "2025-11-04T17:19:29.919Z",
+      "contentHash": "cbed9e1ea4e8256d262c87dd2f6487ff6a7aa4f38b5523020cb4b2ccf73b3c08",
+      "fileSha": "1d9e4c7ecab53ae73f65e05805ef9966bcd9eaaa",
+      "fileSize": 22328
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CarbonAliasesDownloader.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CarbonAliasesDownloader.cs",
+      "notifiedAt": "2025-11-04T17:19:31.974Z",
+      "contentHash": "671916d2f051650f5e1eb32287022936fc424c6955412eaa125965a04cb1af49",
+      "fileSha": "0f563d90192cdcfc883a03dfe317e3d891d499cd",
+      "fileSize": 2764
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/LoadoutController.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/LoadoutController.cs",
+      "notifiedAt": "2025-11-04T17:19:33.888Z",
+      "contentHash": "652af22a0bc2aae0f39c327e91dfbe3714ecf0bdd8167fdf33d71f6b8429a6c7",
+      "fileSha": "0d66610f159103e3dd48229ef6eb84c255bf6f19",
+      "fileSize": 57417
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BotReSpawn (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/BotReSpawn (1).cs",
+      "notifiedAt": "2025-11-04T17:19:36.138Z",
+      "contentHash": "f1f3561c59255c22a9d972c857ab3da7f87e52011553f904abaa39a36a51ac27",
+      "fileSha": "0dd4a485f1729e6824dd1e8764b74f96c42bcb60",
+      "fileSize": 326692
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMenu (6).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AdminMenu (6).cs",
+      "notifiedAt": "2025-11-04T17:19:37.887Z",
+      "contentHash": "39cc90ad26884264fefbfdd9b69a1c9732ee46e57b8539a27a6464f79f3c10bb",
+      "fileSha": "1004ca081da87076c450c488e6aa14bdba1b4020",
+      "fileSize": 258729
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AutoBaseUpgrade.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/AutoBaseUpgrade.cs",
+      "notifiedAt": "2025-11-04T17:19:39.894Z",
+      "contentHash": "3da1f45047f23c02d8dc3d7e602e97f5772b0881af2823e590bb6b718ea1b1d5",
+      "fileSha": "0a60697fc6e9fb67fa11a07fe1e1518749ec55fd",
+      "fileSize": 21217
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Capsules.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Capsules.cs",
+      "notifiedAt": "2025-11-04T17:19:42.020Z",
+      "contentHash": "e53fa28a19ab76abb4bf00e9f81bf80467ae86dea3e66f2bbd227fa0a66c07ac",
+      "fileSha": "10412b44bae51fbbb11d73529d5de618bfe030c7",
+      "fileSize": 63697
+    },
+    "https://raw.githubusercontent.com/chucklenugget/imperium/master/src/Ui/ImageDownloader.cs": {
+      "key": "https://raw.githubusercontent.com/chucklenugget/imperium/master/src/Ui/ImageDownloader.cs",
+      "notifiedAt": "2025-11-04T17:19:43.902Z",
+      "contentHash": "0727be7f8e7d1866dcdbd117acec4425d77c6d51aad68880a0375be38fb6677f",
+      "fileSize": 1444
+    },
+    "https://raw.githubusercontent.com/RustWipeDay/RustWipeDay/main/plugins/SortButton.cs": {
+      "key": "https://raw.githubusercontent.com/RustWipeDay/RustWipeDay/main/plugins/SortButton.cs",
+      "notifiedAt": "2025-11-04T17:19:46.351Z",
+      "contentHash": "c0ce0b5b39897963d06d7b576484a1dc077ec11a1c182f32fa4374b88deb76bd",
+      "fileSize": 38830
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/BublikMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/BublikMenu.cs",
+      "notifiedAt": "2025-11-04T17:19:47.881Z",
+      "contentHash": "fcae65f9cdb47e486c8c29533e8dcaf2091e715627ad4325045ebb592738155a",
+      "fileSize": 13761
+    },
+    "https://raw.githubusercontent.com/KichDM/RustLegacyPlugins/main/Oxide-2.0/AdminPunishment.cs": {
+      "key": "https://raw.githubusercontent.com/KichDM/RustLegacyPlugins/main/Oxide-2.0/AdminPunishment.cs",
+      "notifiedAt": "2025-11-04T17:19:49.986Z",
+      "contentHash": "7a3a84aec5bb3aa89bf851f82fbb252d643b0b230041176243a2decb97471bf3",
+      "fileSize": 20118
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/P/PermsUI/PermsUI.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/P/PermsUI/PermsUI.cs",
+      "notifiedAt": "2025-11-04T17:19:53.083Z",
+      "contentHash": "15a3c850612f6dfdfb40698e515b1c177fd979089daa3886dc34b9164af6e9c8",
+      "fileSize": 11239
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/universal/CloudflareUpdater.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/universal/CloudflareUpdater.cs",
+      "notifiedAt": "2025-11-04T17:19:54.223Z",
+      "contentHash": "07343e0528eaef8a38be42e6678772089d76b1407c529eb27d98c90fa4771166",
+      "fileSize": 7808
+    },
+    "https://raw.githubusercontent.com/chucklenugget/imperium/master/src/Commands/Claim/ClaimHelp.cs": {
+      "key": "https://raw.githubusercontent.com/chucklenugget/imperium/master/src/Commands/Claim/ClaimHelp.cs",
+      "notifiedAt": "2025-11-04T17:19:55.961Z",
+      "contentHash": "afeb941436ae91d530062f03a887729f763bdadfc4fe9eb8bb44dcd33e05b89e",
+      "fileSize": 1700
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/N/NoServerCCTV/NoServerCCTV.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/N/NoServerCCTV/NoServerCCTV.cs",
+      "notifiedAt": "2025-11-04T17:19:57.870Z",
+      "contentHash": "494e0e0be79865a15ca699ca295a7e4804a1492d66611cc70dd8be83a31f7c58",
+      "fileSize": 1700
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/T/ToolBlocker/ToolBlocker.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/T/ToolBlocker/ToolBlocker.cs",
+      "notifiedAt": "2025-11-04T17:20:00.069Z",
+      "contentHash": "71d7ae4585a6e1ebad877738c96835b973b4314721a11abb363e3ad83b1263c8",
+      "fileSize": 2952
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/MenuHelp.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/MenuHelp.cs",
+      "notifiedAt": "2025-11-04T17:20:02.164Z",
+      "contentHash": "9ecb9747fba46f668e6968189a1e023d5fc9ad6949b3440265b2829962b2233b",
+      "fileSize": 19253
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/F/FarmTools/FarmTools.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/F/FarmTools/FarmTools.cs",
+      "notifiedAt": "2025-11-04T17:20:04.023Z",
+      "contentHash": "914a0a647c14b5e9919343abe9b2725ade223204e8c0c2c81edd162ae0d3a3fb",
+      "fileSize": 18566
+    },
+    "https://raw.githubusercontent.com/kus/rust-modded-server/master/custom/oxide/plugins/NoDecay.cs": {
+      "key": "https://raw.githubusercontent.com/kus/rust-modded-server/master/custom/oxide/plugins/NoDecay.cs",
+      "notifiedAt": "2025-11-04T17:20:05.981Z",
+      "contentHash": "310ed4815d6faf5ece4910a1e18e8c8dbdc1842f079e6e765f32cefc5ef0c007",
+      "fileSize": 25578
+    },
+    "https://raw.githubusercontent.com/Anus228331/promps/main/promps/Oxide.CSharp.txt": {
+      "key": "https://raw.githubusercontent.com/Anus228331/promps/main/promps/Oxide.CSharp.txt",
+      "notifiedAt": "2025-11-04T17:20:07.859Z",
+      "fileSha": "9d3054f7b3beced8c45cb9b4f5ac200101749774"
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/TimedEvents.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/by.kacatski/Жирный раст/oxide/plugins_old/TimedEvents.cs",
+      "notifiedAt": "2025-11-04T17:20:10.103Z",
+      "contentHash": "19f21f9ac09b3162bd4c9d24f6ac384cfe719fe599bdf7b97c831ab6001ab5b9",
+      "fileSize": 10654
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/Reactor Control System (Power Station Engineer)/PowerStationEngineer.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/Reactor Control System (Power Station Engineer)/PowerStationEngineer.cs",
+      "notifiedAt": "2025-11-04T17:20:12.129Z",
+      "contentHash": "da0e3ae2936edba3da113d205441ad00c7b9294866573497bcf02cd49e5c3140",
+      "fileSize": 24810
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BlueprintBlocker.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BlueprintBlocker.cs",
+      "notifiedAt": "2025-11-04T17:20:13.881Z",
+      "contentHash": "83f91a123e2573256d325d54c06cee26f1388df9b68f24ebd64df9a61df90585",
+      "fileSize": 17446
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TPWipeBlock.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TPWipeBlock.cs",
+      "notifiedAt": "2025-11-04T17:20:16.196Z",
+      "contentHash": "d8f8b660a9d2585cfbbee86cb28274453c7618069e2e10add008a493beccd542",
+      "fileSize": 25115
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/Vanish.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BASE RUST OXIDE Base_Rust/oxide/plugins/Vanish.cs",
+      "notifiedAt": "2025-11-04T17:20:17.973Z",
+      "contentHash": "96c1e9f97626716cb132b466fe97c172eb41d21a7757e83fbed30374d30c3a16",
+      "fileSize": 26398
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/StrikeSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/StrikeSystem.cs",
+      "notifiedAt": "2025-11-04T17:20:19.910Z",
+      "contentHash": "b457edcd6f3cc2b8efe64a2611da401f39b59489dfaba42c5041d24cb975b1f9",
+      "fileSize": 20909
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XInfoMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XInfoMenu.cs",
+      "notifiedAt": "2025-11-04T17:20:21.960Z",
+      "contentHash": "82a13249af309109967e237730f287126e92d95a21ae954eb76d2da3407fac96",
+      "fileSize": 24578
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/COS-Admin/COSAdmin.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/COS-Admin/COSAdmin.cs",
+      "notifiedAt": "2025-11-04T17:20:24.124Z",
+      "contentHash": "746f2609c3e734bc072cb8b9ae8fc504640997ae52268621f2e7ef9873e64219",
+      "fileSize": 5045
+    },
+    "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/AdminTeleportation.cs": {
+      "key": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/AdminTeleportation.cs",
+      "notifiedAt": "2025-11-04T17:20:25.937Z",
+      "contentHash": "79a9929b9e68df80eafcce615ec0d6d9141ec4ad1446377132f2cb13d1fabb27",
+      "fileSize": 19146
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/Autoclone/Autoclone.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/Autoclone/Autoclone.cs",
+      "notifiedAt": "2025-11-04T17:20:27.925Z",
+      "contentHash": "cd3fd2a689e916699001072b05990f20fc64c4daa7e1def5c7b8811a0e090db4",
+      "fileSize": 23999
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/RoamingScientist/RoamingScientists.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/RoamingScientist/RoamingScientists.cs",
+      "notifiedAt": "2025-11-04T17:20:29.911Z",
+      "contentHash": "a1c10bb5d5535a4ec90342170af3c2295c5135e4609e8fde6021935e358a1c31",
+      "fileSize": 20948
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/Bloodtracks/BloodTracks.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/Bloodtracks/BloodTracks.cs",
+      "notifiedAt": "2025-11-04T17:20:32.085Z",
+      "contentHash": "f9d7765d7a965db2c8f41a486b638e69ff14e1e3fbe7e2cc90bc25dd89b120d8",
+      "fileSize": 7096
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/Firewalk/Firewalk.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/Firewalk/Firewalk.cs",
+      "notifiedAt": "2025-11-04T17:20:33.891Z",
+      "contentHash": "d4af2eb24ea4199f98207c0dddef5f54c81680dd7760ac8fd2e7e4e7f9319ce9",
+      "fileSize": 5131
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/COS-GuiShop/COSGUIShop.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/COS-GuiShop/COSGUIShop.cs",
+      "notifiedAt": "2025-11-04T17:20:35.879Z",
+      "contentHash": "c2ae805202b184a9673a8d63fc6fc5f9f2a4c7d9479d72d96c0003b757c706ea",
+      "fileSize": 1018
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/Drop-deploy/Monudeploy.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/Drop-deploy/Monudeploy.cs",
+      "notifiedAt": "2025-11-04T17:20:37.890Z",
+      "contentHash": "b15d70c8e594faf5058a395f674d6db5f00a52c1257bbd075dac6b6e8b11aa1f",
+      "fileSize": 4825
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/Ninjutsu/Ninjutsu.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/Ninjutsu/Ninjutsu.cs",
+      "notifiedAt": "2025-11-04T17:20:39.914Z",
+      "contentHash": "8e91dead22443f4613618194c5527a0a091f2cb1cba84d442100b647ec60bd74",
+      "fileSize": 53595
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/Stacks.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/Stacks.cs",
+      "notifiedAt": "2025-11-04T17:20:41.988Z",
+      "contentHash": "f48ec59b34cefc105e2703ed1a3507f4152d64f968a16c91bf350955cdbfdaf1",
+      "fileSize": 20901
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HomeRecycler.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HomeRecycler.cs",
+      "notifiedAt": "2025-11-04T17:20:43.947Z",
+      "contentHash": "a1fa765f20f44fb23bdee6173aa471ca45aadfe92171e674446276447441ebf9",
+      "fileSize": 29204
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Moscow.OVH/oxide/plugins/NoEngineParts.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Moscow.OVH/oxide/plugins/NoEngineParts.cs",
+      "notifiedAt": "2025-11-04T17:20:45.836Z",
+      "contentHash": "62a996f7f37afc153cf5db6e68db9d2469033b40c3748cc9ca76a64f6ee77960",
+      "fileSize": 11841
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins/EnemyBar.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Жирный раст/Жирный раст/oxide/plugins/EnemyBar.cs",
+      "notifiedAt": "2025-11-04T17:20:48.020Z",
+      "contentHash": "3e3f0fe4f0b2a1f628ce107bc731b937615a367ea954cd67e3dd022ee670f894",
+      "fileSize": 12122
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/COS-ChatRoom/COSChatRoom.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/COS-ChatRoom/COSChatRoom.cs",
+      "notifiedAt": "2025-11-04T17:20:49.850Z",
+      "contentHash": "9507e84b206af89d4f73418740ddb452453a9efb09c41e60ac9d5ac05117d1bf",
+      "fileSize": 21249
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/Deploy Anywhere/DeployAnywhere.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/Deploy Anywhere/DeployAnywhere.cs",
+      "notifiedAt": "2025-11-04T17:20:51.957Z",
+      "contentHash": "52a47c5b7e1058a980a7ccf6f894a1fcb069d4d7b27221ff2df4e684fd73f09a",
+      "fileSize": 20170
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/P/PhantomSleepers/PhantomSleepers.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/P/PhantomSleepers/PhantomSleepers.cs",
+      "notifiedAt": "2025-11-04T17:20:53.938Z",
+      "contentHash": "4a49eedd72b676b7b2b2d8b522ea988e6ff9a46e2164019245086a2f102efe43",
+      "fileSize": 15018
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/PlayerChatter/PlayerChatter.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/PlayerChatter/PlayerChatter.cs",
+      "notifiedAt": "2025-11-04T17:20:55.931Z",
+      "contentHash": "78ea40964a9416a5c6b6fa0c215be1a0a427be9e1118ace3c8248fb1f8e37784",
+      "fileSize": 5023
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/SurvivalMods/SurvivalMods.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/SurvivalMods/SurvivalMods.cs",
+      "notifiedAt": "2025-11-04T17:20:57.860Z",
+      "contentHash": "6e0ab33dbb6f8896e5a4dc826a9be70f6e625f5282592f82d4d1f9e7a381af80",
+      "fileSize": 8634
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/PowerTransmission/PowerTransmission.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/PowerTransmission/PowerTransmission.cs",
+      "notifiedAt": "2025-11-04T17:21:00.102Z",
+      "contentHash": "ccfa06a6fb6c6c42f7eb69c9d58026eb717679a5bd05b11e0d90d037a3bbeffa",
+      "fileSize": 3871
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/NoEscape (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/NoEscape (1).cs",
+      "notifiedAt": "2025-11-04T17:21:01.927Z",
+      "contentHash": "03565f0b0b9513ee16a44a4bf981a26ee4705d35391e2ee6be2d1e34642152e0",
+      "fileSize": 48665
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/MinicopterSeating.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/hardrust/hardrust/plugins/MinicopterSeating.cs",
+      "notifiedAt": "2025-11-04T17:21:03.922Z",
+      "contentHash": "a409c7b933339954568ef2c50533a4a18ec7288a261e64a04b890ef64fd8f1c0",
+      "fileSize": 2246
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TimedNotifications.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TimedNotifications.cs",
+      "notifiedAt": "2025-11-04T17:21:05.922Z",
+      "contentHash": "3afb627d1a2d85bc4e45644b365636ddc6b5ece553182715a776796807c19126",
+      "fileSize": 18276
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrollTax.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrollTax.cs",
+      "notifiedAt": "2025-11-04T17:21:07.965Z",
+      "contentHash": "3998377bcbb73e08cde7bb82f480f4d1740a41a07cca4d98df4ae2fa9941ab03",
+      "fileSize": 20875
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BloodRust-fuuu/Mush.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BloodRust-fuuu/Mush.cs",
+      "notifiedAt": "2025-11-04T17:21:09.943Z",
+      "contentHash": "86e7ac5c991e253ddc2980eaed3b203ec1f5feef203941c6f8ad336f4b62b7f2",
+      "fileSize": 38019
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/TargetPractice.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/TargetPractice.cs",
+      "notifiedAt": "2025-11-04T17:21:11.860Z",
+      "contentHash": "6cfbf9206cef6259910480e54ad129dd42bd5dff9fd71cbe06e19b858ab38b09",
+      "fileSize": 22643
+    },
+    "https://raw.githubusercontent.com/PRISM-Servers/plugins_public/master/plugins/VoteDay.cs": {
+      "key": "https://raw.githubusercontent.com/PRISM-Servers/plugins_public/master/plugins/VoteDay.cs",
+      "notifiedAt": "2025-11-04T17:21:14.235Z",
+      "contentHash": "5a46e888a28293dd8a3bdb2ca89c11ff98202870deaa862c0647dac483fb321c",
+      "fileSize": 21954
     }
   },
   "version": 1,
-  "updatedAt": "2025-11-04T16:56:42.354Z"
+  "updatedAt": "2025-11-04T17:21:14.235Z"
 }
