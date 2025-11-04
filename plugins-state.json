@@ -16079,8 +16079,1617 @@
       "notifiedAt": "2025-11-04T17:49:24.372Z",
       "contentHash": "5f01169d6d4e67333ff87083e547e9ba15a39b815caec4ae89fce73dddfb1c18",
       "fileSize": 15948
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust legacy/TPR.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust legacy/TPR.cs",
+      "notifiedAt": "2025-11-04T18:20:56.196Z",
+      "contentHash": "6a439821bcb834e8ba45ea2d1ff0a9f9610e7f8fdb598e3c9e24c277eecab581",
+      "fileSha": "607c3507cc8cf8c26dee654de07f1a8b854bd34a",
+      "fileSize": 31936
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/LotterySystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/LotterySystem.cs",
+      "notifiedAt": "2025-11-04T18:20:56.649Z",
+      "contentHash": "7c85927781ce34f8deb1093895a721e6ea0abd768d5e8c9597666b2469338003",
+      "fileSize": 24220
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/ServerStatus .cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/ServerStatus .cs",
+      "notifiedAt": "2025-11-04T18:20:57.115Z",
+      "contentHash": "d2b1b706d5f334a0ed2e6ec9dd41bfd1b0c4c4b79c611e17cebcfed0e80da3f6",
+      "fileSize": 12723
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/ServerStatus-1.3.0.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/ServerStatus-1.3.0.cs",
+      "notifiedAt": "2025-11-04T18:20:57.607Z",
+      "contentHash": "d2b1b706d5f334a0ed2e6ec9dd41bfd1b0c4c4b79c611e17cebcfed0e80da3f6",
+      "fileSize": 12723
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/ServerStatus.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/FlashBack/FlashBack/plugins/ServerStatus.cs",
+      "notifiedAt": "2025-11-04T18:20:58.580Z",
+      "contentHash": "d2b1b706d5f334a0ed2e6ec9dd41bfd1b0c4c4b79c611e17cebcfed0e80da3f6",
+      "fileSize": 12723
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/Voting v1.3.1/Voting-1.3.1.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/Voting v1.3.1/Voting-1.3.1.cs",
+      "notifiedAt": "2025-11-04T18:20:58.999Z",
+      "contentHash": "d842489f0d76cbf8ecd8aa65dbd8d1a8fbd9e309b889344dbef75f9338005aa9",
+      "fileSize": 20799
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Scoreboards.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Scoreboards.cs",
+      "notifiedAt": "2025-11-04T18:20:59.558Z",
+      "contentHash": "53c6e475cb9a7f08ab9cbfb721662fdefa1436a50bc2439b8d2c2fbee96dfe2a",
+      "fileSize": 11590
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrapFloors.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrapFloors.cs",
+      "notifiedAt": "2025-11-04T18:21:00.406Z",
+      "contentHash": "52e4634b718ed71a4d967df29c73ded01b14a2a06dc5550cc475ff1c56ab1f21",
+      "fileSize": 11894
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeautyRestart.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeautyRestart.cs",
+      "notifiedAt": "2025-11-04T18:21:00.994Z",
+      "contentHash": "3fdb51089c878f0d2e3b9ed59f4c5fd770da64565bb08eef67ff72798adc8943",
+      "fileSize": 10859
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/CoverShop.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/CoverShop.cs",
+      "notifiedAt": "2025-11-04T18:21:01.586Z",
+      "contentHash": "64ab8e6206840a62ad722abdb198694c4217b502f08b9151cefbcb6a10a158ae",
+      "fileSize": 13722
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ClansUI (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ClansUI (1).cs",
+      "notifiedAt": "2025-11-04T18:21:02.364Z",
+      "contentHash": "ddeb1c280a57583c83c764d9befbc837d8331a966d7ff46c4fc31ac40c01377b",
+      "fileSize": 45758
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/TimedPermissions.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/TimedPermissions.cs",
+      "notifiedAt": "2025-11-04T18:21:03.098Z",
+      "contentHash": "5f8d4e51e90bbe47c17693c28265d39f4270cd8e0b2fe72ae47d60ec5cf2c024",
+      "fileSize": 30668
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/MachiningTools.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/MachiningTools.cs",
+      "notifiedAt": "2025-11-04T18:21:03.784Z",
+      "contentHash": "fe2a9aa4c06e205718824331c25f8faa9ef803d2a03d9c978f198263daa7c17b",
+      "fileSize": 37722
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XRate.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XRate.cs",
+      "notifiedAt": "2025-11-04T18:21:04.371Z",
+      "contentHash": "6a449d3813625810389591febcef6efce2500605ebc4eb028a879f381fcd21f9",
+      "fileSize": 39729
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AutoGrades.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AutoGrades.cs",
+      "notifiedAt": "2025-11-04T18:21:04.984Z",
+      "contentHash": "9683ba12f17a1616ad5359cac0ddc8b5174ed2c2f5087cd0855d9da8753d3575",
+      "fileSize": 20025
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XPShop.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XPShop.cs",
+      "notifiedAt": "2025-11-04T18:21:05.651Z",
+      "contentHash": "d43fb376011304b9153868b9acc090ec3b574e22cbea609c9eae87de9eae2e11",
+      "fileSize": 19864
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Vip TopPlugin/LotterySystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Vip TopPlugin/LotterySystem.cs",
+      "notifiedAt": "2025-11-04T18:21:06.346Z",
+      "contentHash": "7c85927781ce34f8deb1093895a721e6ea0abd768d5e8c9597666b2469338003",
+      "fileSize": 24220
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/AnimalSpawn.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/AnimalSpawn.cs",
+      "notifiedAt": "2025-11-04T18:21:06.749Z",
+      "contentHash": "7bc95accb6220b64aa01f71ddc19471d9c1fe24d231d8ef6b0bb98fdcc7ce64a",
+      "fileSize": 15354
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ZoneCommand.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ZoneCommand.cs",
+      "notifiedAt": "2025-11-04T18:21:07.276Z",
+      "contentHash": "c3b0e055622ba73dc23bf6370a34837e8b0da9099348905625deec46316851ba",
+      "fileSize": 22885
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/LabsLogo.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/LabsLogo.cs",
+      "notifiedAt": "2025-11-04T18:21:07.912Z",
+      "contentHash": "0778b3bc8d7fb7733402c5c10b66a8242cc42cb604769875d9f5359d6a668825",
+      "fileSize": 46310
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/CraftSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/CraftSystem.cs",
+      "notifiedAt": "2025-11-04T18:21:09.567Z",
+      "contentHash": "e444622cdaa15759c801f692bb8154fb89f519fbdd8ae59d28aa46ea33c31d39",
+      "fileSize": 26987
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/StalkerLite.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/StalkerLite.cs",
+      "notifiedAt": "2025-11-04T18:21:09.989Z",
+      "contentHash": "6de17bd3543934b3c8e964f3cae0887748c49ac02a5e0f2de1da489472081c78",
+      "fileSize": 10969
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/BlueprintManager.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/BlueprintManager.cs",
+      "notifiedAt": "2025-11-04T18:21:10.334Z",
+      "contentHash": "d601434e82efaf64cf3083377e89dbd83a26c572d69326946c30c3e715bf7693",
+      "fileSize": 11893
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ID.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ID.cs",
+      "notifiedAt": "2025-11-04T18:21:10.995Z",
+      "contentHash": "23acf4aad73d74acd12263df02988812763b0e5128b8620f82844902c4f898cf",
+      "fileSize": 2450
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XPSync.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XPSync.cs",
+      "notifiedAt": "2025-11-04T18:21:11.508Z",
+      "contentHash": "0ac40c05956e13728e5bc7bdcfe9ce6291adff2c650a37552fbe0158d8b48f86",
+      "fileSize": 3366
+    },
+    "https://raw.githubusercontent.com/hoppel/Bloodtrail/master/Bloodtrail.cs": {
+      "key": "https://raw.githubusercontent.com/hoppel/Bloodtrail/master/Bloodtrail.cs",
+      "notifiedAt": "2025-11-04T18:21:12.005Z",
+      "contentHash": "73e2ee377b1a673978012f5e63d45f4777c29c582d2d290b2d325816233af488",
+      "fileSha": "9daaf7d29e513fbe9d2c0db0e9b9ebbc7f9d84b0",
+      "fileSize": 3956
+    },
+    "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/rust/Bloodtrail.cs": {
+      "key": "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/rust/Bloodtrail.cs",
+      "notifiedAt": "2025-11-04T18:21:12.377Z",
+      "contentHash": "73e2ee377b1a673978012f5e63d45f4777c29c582d2d290b2d325816233af488",
+      "fileSize": 3956
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Bloodtrail.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Bloodtrail.cs",
+      "notifiedAt": "2025-11-04T18:21:12.858Z",
+      "contentHash": "73e2ee377b1a673978012f5e63d45f4777c29c582d2d290b2d325816233af488",
+      "fileSize": 3956
+    },
+    "https://raw.githubusercontent.com/PenisBlistashiq/Rust-plugins-236-240-dev/main/XNote v1.0.0/XNote-1.0.0.cs": {
+      "key": "https://raw.githubusercontent.com/PenisBlistashiq/Rust-plugins-236-240-dev/main/XNote v1.0.0/XNote-1.0.0.cs",
+      "notifiedAt": "2025-11-04T18:21:13.431Z",
+      "contentHash": "abba884de0fb4c6875719854ce886626d0321e66657a8b4de4ef826096d5b2ac",
+      "fileSize": 3554
+    },
+    "https://raw.githubusercontent.com/WheteThunger/DropBackpackInDynamicPVPZone/master/DropBackpackInDynamicPVPZone.cs": {
+      "key": "https://raw.githubusercontent.com/WheteThunger/DropBackpackInDynamicPVPZone/master/DropBackpackInDynamicPVPZone.cs",
+      "notifiedAt": "2025-11-04T18:21:13.914Z",
+      "contentHash": "4cf9e72d7a9ec4f80b97a175474007678edcf2c85243048993476f32eb525784",
+      "fileSha": "ec4e1a3f5c2ea53f201b18e4e32eaf33cd86705d",
+      "fileSize": 3771
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/P/PermaMap/PermaMap.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/P/PermaMap/PermaMap.cs",
+      "notifiedAt": "2025-11-04T18:21:14.440Z",
+      "contentHash": "584e6a66d43785049c6e2838e6ce86213462bf69dcd44e4f9472bbac6eddab25",
+      "fileSize": 4927
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/TPCases.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/TPCases.cs",
+      "notifiedAt": "2025-11-04T18:21:15.403Z",
+      "contentHash": "e00d831b7d8e0b7fe42f1e61e083f51ab288978cf11dca7b946f76a48f61cf97",
+      "fileSize": 57848
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Vip TopPlugin/ComponentBox.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Vip TopPlugin/ComponentBox.cs",
+      "notifiedAt": "2025-11-04T18:21:16.049Z",
+      "contentHash": "800f809968018904bf83bc5361de613afce4e1ba7f80a829022a925e6368297f",
+      "fileSize": 31123
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/universal/Slack.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/universal/Slack.cs",
+      "notifiedAt": "2025-11-04T18:21:16.608Z",
+      "contentHash": "c84af33f84e1fc4608d0b969fdb0345db8d04580d5908d5cf207ee72ad61a2e1",
+      "fileSize": 12432
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/UI Notify v1.0.7/UINotify-1.0.7.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/UI Notify v1.0.7/UINotify-1.0.7.cs",
+      "notifiedAt": "2025-11-04T18:21:17.495Z",
+      "contentHash": "e6213550c7b72db6401182e8e9f00d659b9bb3db9e754b556ed4b08829daae31",
+      "fileSize": 23593
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HudRust/SkinBox.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HudRust/SkinBox.cs",
+      "notifiedAt": "2025-11-04T18:21:17.904Z",
+      "contentHash": "55012ca252762b1d7677151beb181969409fe3821b11bc8676ba8ccec4acc192",
+      "fileSize": 39425
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/CovertAdmin (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/CovertAdmin (1).cs",
+      "notifiedAt": "2025-11-04T18:21:18.299Z",
+      "contentHash": "24478daf5f627ff962b2f1c82be2c352d2012793e782410b9d8afac3d5666801",
+      "fileSize": 11175
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Hookie.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Hookie.cs",
+      "notifiedAt": "2025-11-04T18:21:18.904Z",
+      "contentHash": "1aa03e4a06460fad781d12bcf656b794cdf72bf03c0175dcdb2735400a843a3a",
+      "fileSize": 16306
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/ServerStatus.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/ServerStatus.cs",
+      "notifiedAt": "2025-11-04T18:21:19.276Z",
+      "contentHash": "f9accffb29d2b775a2a366280e3d64510dfff1a5fb6c876225dd2d516e63f812",
+      "fileSize": 12402
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/FoundationDrop.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/FoundationDrop.cs",
+      "notifiedAt": "2025-11-04T18:21:20.021Z",
+      "contentHash": "d2d07563facc48a1f092bc73610de44e755a0422db2670f3b0b191626c0e4331",
+      "fileSize": 27178
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/CombatBlock.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/CombatBlock.cs",
+      "notifiedAt": "2025-11-04T18:21:20.432Z",
+      "contentHash": "2d50374fb2a0bb6c302c913f97d71364c831bb415be6310a4c4269aef79b2943",
+      "fileSize": 10467
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/HitAdvance.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/HitAdvance.cs",
+      "notifiedAt": "2025-11-04T18:21:20.937Z",
+      "contentHash": "836e9e7f9baad2cff0e2d4ea1720149a7230c2cef1b493c3e5a513cd7a57555b",
+      "fileSize": 30266
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Picklock.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Picklock.cs",
+      "notifiedAt": "2025-11-04T18:21:22.357Z",
+      "contentHash": "32ae5d4f28efdc996fc758ee92c6a5d6d622b85773e81a3864d19e39177a7ce8",
+      "fileSize": 17481
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/VehicleManager.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/VehicleManager.cs",
+      "notifiedAt": "2025-11-04T18:21:24.371Z",
+      "contentHash": "3087847fa6ad1c42b5bb86c37b6a3686e5816fb46d8a2c7b9295d881d4f5f344",
+      "fileSize": 14413
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XFireGloves.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XFireGloves.cs",
+      "notifiedAt": "2025-11-04T18:21:26.347Z",
+      "contentHash": "64b5b4f98f3fe0e5cf73563b9852b42749c02f94feb12966279e12f9a2862a8f",
+      "fileSize": 11160
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Give.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Give.cs",
+      "notifiedAt": "2025-11-04T18:21:28.348Z",
+      "contentHash": "5a535ae6a8a14606de9d93b5b05d7419d5b7959965cd002e99943eb6540ba1b2",
+      "fileSize": 19806
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/XMenu v1.0.804/XMenu-1.0.804.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/XMenu v1.0.804/XMenu-1.0.804.cs",
+      "notifiedAt": "2025-11-04T18:21:30.678Z",
+      "contentHash": "7c4d06e57bf3d3f89c95de53182730cb142af0dcc4144fff4b5045475a789632",
+      "fileSize": 25607
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HumanitySystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HumanitySystem.cs",
+      "notifiedAt": "2025-11-04T18:21:32.295Z",
+      "contentHash": "1baef45e4c4cf9ad5d1b261f9b0d0c177c2a4837893fee2fac4b617b4d1a65a2",
+      "fileSize": 18657
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/DiscordMessages.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/DiscordMessages.cs",
+      "notifiedAt": "2025-11-04T18:21:35.481Z",
+      "contentHash": "412b2da389f10f18a45870bdf8286929c93100613334fff822a8f6e2f8ac1177",
+      "fileSize": 41601
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/DiscordMessages.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/DiscordMessages.cs",
+      "notifiedAt": "2025-11-04T18:21:36.447Z",
+      "contentHash": "412b2da389f10f18a45870bdf8286929c93100613334fff822a8f6e2f8ac1177",
+      "fileSize": 41601
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/DiscordMessages.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/DiscordMessages.cs",
+      "notifiedAt": "2025-11-04T18:21:38.406Z",
+      "contentHash": "412b2da389f10f18a45870bdf8286929c93100613334fff822a8f6e2f8ac1177",
+      "fileSize": 41601
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/DiscordMessages.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/DiscordMessages.cs",
+      "notifiedAt": "2025-11-04T18:21:40.278Z",
+      "contentHash": "412b2da389f10f18a45870bdf8286929c93100613334fff822a8f6e2f8ac1177",
+      "fileSize": 41601
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/FurnaceSplitter.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/FurnaceSplitter.cs",
+      "notifiedAt": "2025-11-04T18:21:42.285Z",
+      "contentHash": "32aa744306902d095f116976cfb3ab059e8df43a536b55d14c0014503a06416f",
+      "fileSize": 23837
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/BolotoRust/TeamMarker.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/BolotoRust/TeamMarker.cs",
+      "notifiedAt": "2025-11-04T18:21:44.462Z",
+      "contentHash": "9e1603d45d43aeb8e7b95b0aa0ad0710ed9de08146b543b25a74f4e67c0b0e41",
+      "fileSize": 10755
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Broadcaster.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Broadcaster.cs",
+      "notifiedAt": "2025-11-04T18:21:46.360Z",
+      "contentHash": "a7f5c007c3986dedb5b82d26344519097e753dfb6983e55bbc59b0686e4c1612",
+      "fileSize": 17145
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XMenu.cs",
+      "notifiedAt": "2025-11-04T18:21:48.399Z",
+      "contentHash": "7c4d06e57bf3d3f89c95de53182730cb142af0dcc4144fff4b5045475a789632",
+      "fileSize": 25607
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/DeathMessages.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/DeathMessages.cs",
+      "notifiedAt": "2025-11-04T18:21:50.376Z",
+      "contentHash": "db29149fc0d5d6e606678ad196e5325d023fb42a5a811ee4e657dd10f2e53a9b",
+      "fileSize": 38795
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BanSystem1.0.8.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BanSystem1.0.8.cs",
+      "notifiedAt": "2025-11-04T18:21:52.443Z",
+      "contentHash": "1ab788ffe0785c5daf663e0ea7894c280fb61f3c746b7ec4be60a7491ae83052",
+      "fileSize": 38201
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Robbery.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Robbery.cs",
+      "notifiedAt": "2025-11-04T18:21:54.332Z",
+      "contentHash": "38278db7b1b775d0b3eb2a4d3b9ba032a7c06fbfbd73b3034421a14f2e858487",
+      "fileSize": 20129
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HeliRide.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HeliRide.cs",
+      "notifiedAt": "2025-11-04T18:21:56.419Z",
+      "contentHash": "6d569fe1e355ce145afe5fa1434b0ecb2a1368604a01567335e4035989e70d47",
+      "fileSize": 27205
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/FurnaceSplitter.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/FurnaceSplitter.cs",
+      "notifiedAt": "2025-11-04T18:21:58.348Z",
+      "contentHash": "32aa744306902d095f116976cfb3ab059e8df43a536b55d14c0014503a06416f",
+      "fileSize": 23837
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HudRust/DVBuildingUpgrade.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HudRust/DVBuildingUpgrade.cs",
+      "notifiedAt": "2025-11-04T18:22:00.421Z",
+      "contentHash": "19da28988c9afc07386ca84e61bd5e5b60aba224c65850b655c7433ec02459a6",
+      "fileSize": 28188
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BloodRust-fuuu/Farmer.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BloodRust-fuuu/Farmer.cs",
+      "notifiedAt": "2025-11-04T18:22:02.321Z",
+      "contentHash": "06fa3d67ac5f0d95d479f1eab37ce3d66ea118fbd585107076733a1000f136a1",
+      "fileSize": 36387
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RainOfFire.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RainOfFire.cs",
+      "notifiedAt": "2025-11-04T18:22:04.321Z",
+      "contentHash": "9a63160be16f0ecb1f290ef0437f4dfab1e2dc7a6d3d2e61af9e7038118837cd",
+      "fileSize": 25368
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/DVBuildingUpgrade.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/DVBuildingUpgrade.cs",
+      "notifiedAt": "2025-11-04T18:22:06.368Z",
+      "contentHash": "19da28988c9afc07386ca84e61bd5e5b60aba224c65850b655c7433ec02459a6",
+      "fileSize": 28188
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/TrollMines.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/TrollMines.cs",
+      "notifiedAt": "2025-11-04T18:22:08.329Z",
+      "contentHash": "243323c5245996fb32c8e74ba257d45d1a918ca9b84f47ab0cea04fe8eb39ce7",
+      "fileSize": 11417
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Vip TopPlugin/RandomSpawns.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Vip TopPlugin/RandomSpawns.cs",
+      "notifiedAt": "2025-11-04T18:22:10.433Z",
+      "contentHash": "461ee0a8abee0e3f98ed528ff3ff7810de3e7f8a1fe8a8ab04135d3a733bd651",
+      "fileSize": 12817
+    },
+    "https://raw.githubusercontent.com/WheteThunger/TargetableDrones/master/TargetableDrones.cs": {
+      "key": "https://raw.githubusercontent.com/WheteThunger/TargetableDrones/master/TargetableDrones.cs",
+      "notifiedAt": "2025-11-04T18:22:12.484Z",
+      "contentHash": "5672cbd443657ab42bd26db2e6ee71be7ab6f7ba12473a98fb76e02b74b4c9ff",
+      "fileSha": "bf8da69487a21b0954e214d79a54ffc03c82c417",
+      "fileSize": 35745
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/rustplugins/master/SuicideBomber.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/rustplugins/master/SuicideBomber.cs",
+      "notifiedAt": "2025-11-04T18:22:14.604Z",
+      "contentHash": "af032ce970f7684afb7536c44c2119a78f34069b5f0b7241931244bfeaaad36c",
+      "fileSize": 10054
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/T/TargetableDrones/TargetableDrones.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/T/TargetableDrones/TargetableDrones.cs",
+      "notifiedAt": "2025-11-04T18:22:16.406Z",
+      "contentHash": "5672cbd443657ab42bd26db2e6ee71be7ab6f7ba12473a98fb76e02b74b4c9ff",
+      "fileSize": 35745
+    },
+    "https://raw.githubusercontent.com/k1lly0u/Oxide/master/TeamBattlefield.cs": {
+      "key": "https://raw.githubusercontent.com/k1lly0u/Oxide/master/TeamBattlefield.cs",
+      "notifiedAt": "2025-11-04T18:22:18.489Z",
+      "contentHash": "045eef290e4d2573889e76470ae77f99730cf835389511726135f7211d97f670",
+      "fileSize": 45845
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/T/TellMeX/TellMeX.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/T/TellMeX/TellMeX.cs",
+      "notifiedAt": "2025-11-04T18:22:20.377Z",
+      "contentHash": "9536343bdcf8c9fec779597596981f1a6d393c2e5338bc1a9ec90bc7b66c62fc",
+      "fileSize": 28864
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/H/HeliVote/HeliVote.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/H/HeliVote/HeliVote.cs",
+      "notifiedAt": "2025-11-04T18:22:22.335Z",
+      "contentHash": "a65786063bdcd67e41b14a0509435d1d434854bdf7159e1e5762338258c27428",
+      "fileSize": 18421
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/SuicideBomber.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/SuicideBomber.cs",
+      "notifiedAt": "2025-11-04T18:22:24.426Z",
+      "contentHash": "af032ce970f7684afb7536c44c2119a78f34069b5f0b7241931244bfeaaad36c",
+      "fileSize": 10054
+    },
+    "https://raw.githubusercontent.com/OxideMod/oxidemod.org/jekyll/threads/ignore-chat.24771/page-2.html": {
+      "key": "https://raw.githubusercontent.com/OxideMod/oxidemod.org/jekyll/threads/ignore-chat.24771/page-2.html",
+      "notifiedAt": "2025-11-04T18:22:26.390Z",
+      "fileSha": "28948a68d991c92bf739559d500a248bd76905ff"
+    },
+    "https://raw.githubusercontent.com/MrBlue/oxidemod.org/master/threads/learning-to-make-plugins.17130/index.html": {
+      "key": "https://raw.githubusercontent.com/MrBlue/oxidemod.org/master/threads/learning-to-make-plugins.17130/index.html",
+      "notifiedAt": "2025-11-04T18:22:29.402Z",
+      "fileSha": "20bb7c1ba9da69f1ff77b4869a94014db56e68c4"
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/XDChinookEvent v3.2.3/XDChinookEvent-3.0.7-ru.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/XDChinookEvent v3.2.3/XDChinookEvent-3.0.7-ru.cs",
+      "notifiedAt": "2025-11-04T18:22:30.486Z",
+      "contentHash": "bd4c341a08186a317596975532160395ff374f6180f3592b06808ce20a520b10",
+      "fileSize": 68023
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/CobaltLaboratory-1.0.0.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/CobaltLaboratory-1.0.0.cs",
+      "notifiedAt": "2025-11-04T18:22:32.589Z",
+      "contentHash": "542539786ff9d141342e177a56a1fc45cdfab9ae7e63faaadbbde4b36a769025",
+      "fileSize": 71440
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/ShopSystemRevolution.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/ShopSystemRevolution.cs",
+      "notifiedAt": "2025-11-04T18:22:34.291Z",
+      "contentHash": "1800b6fb2331d7323d7200c4590bb67752ee1b8c12f8526a6779f68ebdd85831",
+      "fileSize": 87731
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/MonumentFinder.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/MonumentFinder.cs",
+      "notifiedAt": "2025-11-04T18:22:36.321Z",
+      "contentHash": "66653538f18ac2e5c3e6d5c9879f3288f03c5532798e859f57b271529502539c",
+      "fileSize": 60709
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/XDCobaltLaboratory v2.5.4/XDCobaltLaboratory-1.3.0.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/XDCobaltLaboratory v2.5.4/XDCobaltLaboratory-1.3.0.cs",
+      "notifiedAt": "2025-11-04T18:22:38.301Z",
+      "contentHash": "d6b5361a50dbc7389d2fea5947146b8b5544a3c592ee51d8f55146733edfe0bc",
+      "fileSize": 86790
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Vip TopPlugin/Achievements.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Vip TopPlugin/Achievements.cs",
+      "notifiedAt": "2025-11-04T18:22:40.486Z",
+      "contentHash": "22e711fec70860c6a726114728651786e830914dfe108dc426c45ccbc44aac3d",
+      "fileSize": 55319
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AdminRadar.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AdminRadar.cs",
+      "notifiedAt": "2025-11-04T18:22:42.323Z",
+      "contentHash": "264042cd2b9bb2a2aa9c1e92fdcfa3c041d61460f0995224a5405eab4412e8ca",
+      "fileSize": 53828
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/XL96Plus v1.0.1/XL96Plus-1.0.1.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/XL96Plus v1.0.1/XL96Plus-1.0.1.cs",
+      "notifiedAt": "2025-11-04T18:22:44.555Z",
+      "contentHash": "13c8ce2cab7e32cab5075232922ea3d992629062d4891b2059b785fb27ffb7da",
+      "fileSize": 6144
+    },
+    "https://raw.githubusercontent.com/KichDM/RustLegacyPlugins/main/Servidores Rust LEgacy/Oxides/Oxide v2.0/save/rust/oxide/plugins/FriendsDatabase.cs": {
+      "key": "https://raw.githubusercontent.com/KichDM/RustLegacyPlugins/main/Servidores Rust LEgacy/Oxides/Oxide v2.0/save/rust/oxide/plugins/FriendsDatabase.cs",
+      "notifiedAt": "2025-11-04T18:22:46.395Z",
+      "contentHash": "91b487927cc0b591de02fba89a860a1c7464c03936aed2310680ce520517156a",
+      "fileSize": 6427
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/P/Parachute/Parachute.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/P/Parachute/Parachute.cs",
+      "notifiedAt": "2025-11-04T18:22:48.405Z",
+      "contentHash": "e127f178233d128d4f0d67f623abf591a2e1cb13fab2aa5219df58811b0b86e5",
+      "fileSize": 9744
+    },
+    "https://raw.githubusercontent.com/KichDM/RustLegacyPlugins/main/Oxide-2.0/MagicPickaxe.cs": {
+      "key": "https://raw.githubusercontent.com/KichDM/RustLegacyPlugins/main/Oxide-2.0/MagicPickaxe.cs",
+      "notifiedAt": "2025-11-04T18:22:50.302Z",
+      "contentHash": "9c2835fa79a50af5e2a50b61a14a1e264d97c74a1eb0e7a6e655ac0f91e53723",
+      "fileSize": 5675
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Permadeath.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Permadeath.cs",
+      "notifiedAt": "2025-11-04T18:22:52.576Z",
+      "contentHash": "7dbc8606ce8ca065096adc372c3b5a02e61fd1a7268e39c01e403dff6f0268d7",
+      "fileSize": 5263
+    },
+    "https://raw.githubusercontent.com/KichDM/RustLegacyPlugins/main/Oxide-2.0/FriendsDatabase.cs": {
+      "key": "https://raw.githubusercontent.com/KichDM/RustLegacyPlugins/main/Oxide-2.0/FriendsDatabase.cs",
+      "notifiedAt": "2025-11-04T18:22:54.382Z",
+      "contentHash": "91b487927cc0b591de02fba89a860a1c7464c03936aed2310680ce520517156a",
+      "fileSize": 6427
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/LimitedLadders.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/LimitedLadders.cs",
+      "notifiedAt": "2025-11-04T18:22:56.379Z",
+      "contentHash": "c940f3f0e2f0b57f8fe8ffcf77a4d81a15b3868b90ee2b76be4b0a9ee3546676",
+      "fileSize": 2698
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Portgun.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Portgun.cs",
+      "notifiedAt": "2025-11-04T18:22:58.670Z",
+      "contentHash": "f85b2ed4fb65193b09c7c4cf32bec3329188a51aafdf10d85aeb735873e5d4d0",
+      "fileSize": 2525
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RATHealer.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RATHealer.cs",
+      "notifiedAt": "2025-11-04T18:23:00.334Z",
+      "contentHash": "2166bd406b449f6045c0ca3949a6639949a558612499e35a1795a9a59c402566",
+      "fileSize": 3345
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/GlowingEyes.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/GlowingEyes.cs",
+      "notifiedAt": "2025-11-04T18:23:02.469Z",
+      "contentHash": "7cffa5cd3efa14a52d0cd530fab020e3e300b1962d57f8f95b2a25d7656a0cea",
+      "fileSize": 3069
+    },
+    "https://raw.githubusercontent.com/openmailbox/RustMods/master/RustMods/HelloRust.cs": {
+      "key": "https://raw.githubusercontent.com/openmailbox/RustMods/master/RustMods/HelloRust.cs",
+      "notifiedAt": "2025-11-04T18:23:04.384Z",
+      "contentHash": "ca5dd486480708684f136e1c320125422ace970d2bd799070cfa038d9c525514",
+      "fileSize": 1833
+    },
+    "https://raw.githubusercontent.com/codeStev/Rust-Plugin-Basics/main/TheData/TheDataWONotes.cs": {
+      "key": "https://raw.githubusercontent.com/codeStev/Rust-Plugin-Basics/main/TheData/TheDataWONotes.cs",
+      "notifiedAt": "2025-11-04T18:23:06.395Z",
+      "contentHash": "5202d5d69551ef8e867e43fb29a8118c5bb50e038d5a3188eea2c0157920b0b3",
+      "fileSize": 3751
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/R/RealisticTorch/RealisticTorch.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/R/RealisticTorch/RealisticTorch.cs",
+      "notifiedAt": "2025-11-04T18:23:08.219Z",
+      "contentHash": "cb2bd4b0eeeb30634d252036ac7aa42656eadda911d33aede79fcc77bc528a4d",
+      "fileSize": 1822
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/L/LootProtection/LootProtection.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/L/LootProtection/LootProtection.cs",
+      "notifiedAt": "2025-11-04T18:23:10.620Z",
+      "contentHash": "4ba34fea7d73188f68738b1403d8455c3d7b5cbe09ca9fb6ae7243cdc9b6e1e2",
+      "fileSize": 3208
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/7 days to die/AvtoSaveWorld.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/7 days to die/AvtoSaveWorld.cs",
+      "notifiedAt": "2025-11-04T18:23:12.349Z",
+      "contentHash": "691430cb544ee95b7e726957887ae4f4986fa8fb6704d7434479208e8607fa06",
+      "fileSize": 1551
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/S/SleeperCount/SleeperCount.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/S/SleeperCount/SleeperCount.cs",
+      "notifiedAt": "2025-11-04T18:23:14.524Z",
+      "contentHash": "0d3fdbd8df21b95030852bad2666f70ef520c4dad0b781437615341017830409",
+      "fileSize": 1512
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/D/DMPlayers/DMPlayers.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/D/DMPlayers/DMPlayers.cs",
+      "notifiedAt": "2025-11-04T18:23:16.286Z",
+      "contentHash": "097c200c1ed7046404200cc87da23d97e233d23056ff3de54a40325a1ec77e1c",
+      "fileSize": 2016
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/BetterSay.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/BetterSay.cs",
+      "notifiedAt": "2025-11-04T18:23:18.411Z",
+      "contentHash": "d9a9f2dc6ea9c338810574054656fc46d9bb0670421ca2a288b1d2f915c96976",
+      "fileSize": 4402
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/NoSeedGrief.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/NoSeedGrief.cs",
+      "notifiedAt": "2025-11-04T18:23:20.463Z",
+      "contentHash": "692b163e25138db5444257c4be7fcf4bda82465dc0bac604f2e569e9e0bd80e1",
+      "fileSize": 1502
+    },
+    "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/other/HelloRust.cs": {
+      "key": "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/other/HelloRust.cs",
+      "notifiedAt": "2025-11-04T18:23:22.287Z",
+      "contentHash": "ca5dd486480708684f136e1c320125422ace970d2bd799070cfa038d9c525514",
+      "fileSize": 1833
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/TreePlanter.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/TreePlanter.cs",
+      "notifiedAt": "2025-11-04T18:23:24.414Z",
+      "contentHash": "1bb580a422a3eda94a2f5517f07829148e536091034f83d5470903d775920592",
+      "fileSize": 12132
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/GunGame.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/GunGame.cs",
+      "notifiedAt": "2025-11-04T18:23:26.365Z",
+      "contentHash": "ec5824d45b2b2ca2fd539a77b286693ae464625f330fb486c9aeaeed9187b5ba",
+      "fileSize": 47461
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Battlefield.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Battlefield.cs",
+      "notifiedAt": "2025-11-04T18:23:28.389Z",
+      "contentHash": "08a6c6ca40ccd8ad5f0c5e6a92c4dd6d0592a7697d6fa7310a788d5dbf53cfe8",
+      "fileSize": 24522
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/EnhancedBanSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/EnhancedBanSystem.cs",
+      "notifiedAt": "2025-11-04T18:23:30.348Z",
+      "contentHash": "8b3ae8a93e62e30ba7fa72b1ebe8f32ea7f80d324e366eb59fd458dabc7f7243",
+      "fileSize": 38963
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ReportVK.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ReportVK.cs",
+      "notifiedAt": "2025-11-04T18:23:32.312Z",
+      "contentHash": "5538803a566edfbdb15005af3e5a28ffd73974c397cd94b5275e9b835cc974a7",
+      "fileSize": 21933
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ImageLoader.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ImageLoader.cs",
+      "notifiedAt": "2025-11-04T18:23:34.442Z",
+      "contentHash": "6323a0c8f988d59e1ee082eed0a82cd7a9089b7beac963da44582f99747f7464",
+      "fileSize": 11948
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/W/WeaponDamageScaler/WeaponDamageScaler.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/W/WeaponDamageScaler/WeaponDamageScaler.cs",
+      "notifiedAt": "2025-11-04T18:23:36.278Z",
+      "contentHash": "aa456a281044c2937268a0dc000f0d4dfacf32e83db86304c1ff3393d396f916",
+      "fileSize": 26972
+    },
+    "https://raw.githubusercontent.com/KichDM/RustLegacyPlugins/main/Oxide-2.0/AntiCheat.cs": {
+      "key": "https://raw.githubusercontent.com/KichDM/RustLegacyPlugins/main/Oxide-2.0/AntiCheat.cs",
+      "notifiedAt": "2025-11-04T18:23:38.315Z",
+      "contentHash": "bb357110f537e60ef49ce9ee88a8429403c2ec4a457628fb62320c64d04a1263",
+      "fileSize": 45172
+    },
+    "https://raw.githubusercontent.com/strykes/Oxide2Plugins/master/Legacy/CopyPaste.cs": {
+      "key": "https://raw.githubusercontent.com/strykes/Oxide2Plugins/master/Legacy/CopyPaste.cs",
+      "notifiedAt": "2025-11-04T18:23:40.354Z",
+      "contentHash": "d883733470a9193c7f115e36219e1883624ffc84986d13db5c2c30b473343fdc",
+      "fileSize": 24902
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Fragments-1.0.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/all ready server plugins v1.0/Fragments-1.0.cs",
+      "notifiedAt": "2025-11-04T18:23:42.363Z",
+      "contentHash": "bf504595da2176b5085ce7d10fd2bb02196730da145615952e62977b1061ab64",
+      "fileSize": 21541
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/E/EffectsPanel/EffectsPanel.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/E/EffectsPanel/EffectsPanel.cs",
+      "notifiedAt": "2025-11-04T18:23:44.294Z",
+      "contentHash": "d9e56ee41b3359349180b0d9e43df6c82c7bf0c05aa40c289e3c8fa62fd9f332",
+      "fileSize": 18812
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/GradeDestroy.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/GradeDestroy.cs",
+      "notifiedAt": "2025-11-04T18:23:46.384Z",
+      "contentHash": "a4d12f92fa352e6dac688083e8eee6386c9861a444383109dd1b5fbc490cff72",
+      "fileSize": 27554
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/OreBonus.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/BRAWL_RUST/BRAWL RUST/oxide/plugins/OreBonus.cs",
+      "notifiedAt": "2025-11-04T18:23:48.278Z",
+      "contentHash": "ccde46b20e175ed3ed3cb8537c87448e4cbfd0a6758c276cbab8e273c4144a54",
+      "fileSize": 17954
+    },
+    "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/rust/AngryAuthlevel.cs": {
+      "key": "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/rust/AngryAuthlevel.cs",
+      "notifiedAt": "2025-11-04T18:23:50.271Z",
+      "contentHash": "12d0cad503b7f9c13276bdf6b0432387259ae7acc7a0e3e9b7c8233b98060020",
+      "fileSize": 13116
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/NoDecay.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/NoDecay.cs",
+      "notifiedAt": "2025-11-04T18:23:52.466Z",
+      "contentHash": "f84c7a6999c23b73b5dae1f02af1a688a3a0c4c6fc4e4c6b1c70973a3e1218d2",
+      "fileSize": 11535
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins/NoDecay.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins/NoDecay.cs",
+      "notifiedAt": "2025-11-04T18:23:54.361Z",
+      "contentHash": "f84c7a6999c23b73b5dae1f02af1a688a3a0c4c6fc4e4c6b1c70973a3e1218d2",
+      "fileSize": 11535
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/BrokenItemsCleaner.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/BrokenItemsCleaner.cs",
+      "notifiedAt": "2025-11-04T18:23:56.631Z",
+      "contentHash": "aa426f55be14b9315396c70d09e9be133d1d21adfba6b72f0ee7da0687b74102",
+      "fileSize": 10815
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/BrokenItemsCleaner.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/BrokenItemsCleaner.cs",
+      "notifiedAt": "2025-11-04T18:23:58.411Z",
+      "contentHash": "aa426f55be14b9315396c70d09e9be133d1d21adfba6b72f0ee7da0687b74102",
+      "fileSize": 10815
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/Vanish.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/RUSSIA_RUST/RUSSIA RUST/oxide/plugins/Vanish.cs",
+      "notifiedAt": "2025-11-04T18:24:00.383Z",
+      "contentHash": "55ac1ce3dc6a59ecb354faf548d7e5b1ad430e574312972d245cb556eb58823b",
+      "fileSize": 26518
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/BetterLoot.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/Rust_Plugins/Rust Plugins/plugins/plugins/BetterLoot.cs",
+      "notifiedAt": "2025-11-04T18:24:03.728Z",
+      "contentHash": "486089915b40dd9712c663175339d18050d4607802b829fa83237f4542228507",
+      "fileSize": 39804
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/NoDecay.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/NoDecay.cs",
+      "notifiedAt": "2025-11-04T18:24:04.307Z",
+      "contentHash": "f84c7a6999c23b73b5dae1f02af1a688a3a0c4c6fc4e4c6b1c70973a3e1218d2",
+      "fileSize": 11535
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XScan.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XScan.cs",
+      "notifiedAt": "2025-11-04T18:24:06.556Z",
+      "contentHash": "526235091e499ed885a85ce284312422e07036e9b1070eacad26af529e874f89",
+      "fileSize": 24346
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/UniqueCupboard.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/UniqueCupboard.cs",
+      "notifiedAt": "2025-11-04T18:24:08.303Z",
+      "contentHash": "4d801d39c3166f532592e05906b3708f405af533ec50aa31e436c003101aaf39",
+      "fileSize": 33443
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BrokenItemsCleaner.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BrokenItemsCleaner.cs",
+      "notifiedAt": "2025-11-04T18:24:10.827Z",
+      "contentHash": "aa426f55be14b9315396c70d09e9be133d1d21adfba6b72f0ee7da0687b74102",
+      "fileSize": 10815
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/InventoryViewer.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/InventoryViewer.cs",
+      "notifiedAt": "2025-11-04T18:24:12.330Z",
+      "contentHash": "3b6ece9b16c73e185b716143063d2d2bad37684e31d8194306f3d5b561916795",
+      "fileSize": 11568
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ShopSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ShopSystem.cs",
+      "notifiedAt": "2025-11-04T18:24:14.487Z",
+      "contentHash": "f880543282e919c347522ca8bf340e955f57eba8eb2927cb999579d96df580d3",
+      "fileSize": 22593
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/CustomBackpacks-2.1.4.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/CustomBackpacks-2.1.4.cs",
+      "notifiedAt": "2025-11-04T18:24:16.404Z",
+      "contentHash": "9c83aff80697fd59b90d05fa81ca1888eee8beed9415c0260681a2adaa81bd81",
+      "fileSize": 10941
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TwigsDecay.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TwigsDecay.cs",
+      "notifiedAt": "2025-11-04T18:24:18.424Z",
+      "contentHash": "aa69477bcd64e7bbf0c971733fa2913ee5459a691b41c0cf2ee767118709017a",
+      "fileSize": 11765
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RPSBattles.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RPSBattles.cs",
+      "notifiedAt": "2025-11-04T18:24:20.350Z",
+      "contentHash": "abb7375deea5f6508f9b64b2073949bad5c4a29130679e551d80aa5a5b007a01",
+      "fileSize": 21278
+    },
+    "https://raw.githubusercontent.com/strykes/Oxide2Plugins/master/Legacy/KickBan.cs": {
+      "key": "https://raw.githubusercontent.com/strykes/Oxide2Plugins/master/Legacy/KickBan.cs",
+      "notifiedAt": "2025-11-04T18:24:22.461Z",
+      "contentHash": "3c823d070b77f187038b72ca132f6d3863d121c961f501a0f22fa985a30b629a",
+      "fileSize": 12188
+    },
+    "https://raw.githubusercontent.com/manuelbpc/ALTF4-Rust/main/plugins/AntiSpam.cs": {
+      "key": "https://raw.githubusercontent.com/manuelbpc/ALTF4-Rust/main/plugins/AntiSpam.cs",
+      "notifiedAt": "2025-11-04T18:24:24.381Z",
+      "contentHash": "98e28b58af1dee05f84d8759c9a3720ce5ddb7760648988d2cabc28550e95dae",
+      "fileSize": 12795
+    },
+    "https://raw.githubusercontent.com/OxideMod/Oxide.CSharp/develop/src/DirectCallMethod.cs": {
+      "key": "https://raw.githubusercontent.com/OxideMod/Oxide.CSharp/develop/src/DirectCallMethod.cs",
+      "notifiedAt": "2025-11-04T18:24:26.287Z",
+      "contentHash": "3870f6c72767fbb02842f864c1baf90926359b8a5fb20419837e415ec9ff1ecd",
+      "fileSha": "ae9f2ce4f037bf0b986ce6bfbde973a97a6f7775",
+      "fileSize": 17886
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Godmode.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Godmode.cs",
+      "notifiedAt": "2025-11-04T18:24:28.512Z",
+      "contentHash": "118ee1876667b80ec231ec76a3582aca00303d02192d766e23ea3134368082ea",
+      "fileSize": 15980
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/SpawnToRoad.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/SpawnToRoad.cs",
+      "notifiedAt": "2025-11-04T18:24:30.286Z",
+      "contentHash": "2fa79109ff1fe4e038319b27217f31f4a2cd0f7b4ad8f038c6d9afb45d96867a",
+      "fileSize": 1786
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/AdminsOnline.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/AdminsOnline.cs",
+      "notifiedAt": "2025-11-04T18:24:32.428Z",
+      "contentHash": "66dab83845472ebc4630c50ade2c404b42bf5e13971e863f8904fda4720ebf2d",
+      "fileSize": 1022
+    },
+    "https://raw.githubusercontent.com/KichDM/RustLegacyPlugins/main/Oxide-2.0/FVKStatus.cs": {
+      "key": "https://raw.githubusercontent.com/KichDM/RustLegacyPlugins/main/Oxide-2.0/FVKStatus.cs",
+      "notifiedAt": "2025-11-04T18:24:34.328Z",
+      "contentHash": "1b267355e14ae718d20d087bc3b09f893daff4828e559601980ce8e5b68ce455",
+      "fileSize": 1909
+    },
+    "https://raw.githubusercontent.com/ZaeBallsa/oxideplugins/master/rust/ColouredNames.cs": {
+      "key": "https://raw.githubusercontent.com/ZaeBallsa/oxideplugins/master/rust/ColouredNames.cs",
+      "notifiedAt": "2025-11-04T18:24:36.316Z",
+      "contentHash": "b24080d6c8e8c77958459925f72635cadf7874ebd4b2b5b3061f7ddff11d0dd9",
+      "fileSize": 3549
+    },
+    "https://raw.githubusercontent.com/alexanderndev/oxideplugins/master/rust/ColouredNames.cs": {
+      "key": "https://raw.githubusercontent.com/alexanderndev/oxideplugins/master/rust/ColouredNames.cs",
+      "notifiedAt": "2025-11-04T18:24:38.320Z",
+      "contentHash": "b24080d6c8e8c77958459925f72635cadf7874ebd4b2b5b3061f7ddff11d0dd9",
+      "fileSize": 3549
+    },
+    "https://raw.githubusercontent.com/Hardcore-fs/oxideplugins/master/rust/ColouredNames.cs": {
+      "key": "https://raw.githubusercontent.com/Hardcore-fs/oxideplugins/master/rust/ColouredNames.cs",
+      "notifiedAt": "2025-11-04T18:24:40.299Z",
+      "contentHash": "b24080d6c8e8c77958459925f72635cadf7874ebd4b2b5b3061f7ddff11d0dd9",
+      "fileSize": 3549
+    },
+    "https://raw.githubusercontent.com/Willdiedog/oxideplugins/master/rust/ColouredNames.cs": {
+      "key": "https://raw.githubusercontent.com/Willdiedog/oxideplugins/master/rust/ColouredNames.cs",
+      "notifiedAt": "2025-11-04T18:24:42.406Z",
+      "contentHash": "b24080d6c8e8c77958459925f72635cadf7874ebd4b2b5b3061f7ddff11d0dd9",
+      "fileSize": 3549
+    },
+    "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/rust/ColouredNames.cs": {
+      "key": "https://raw.githubusercontent.com/Rahulsinghz/oxideplugins/master/rust/ColouredNames.cs",
+      "notifiedAt": "2025-11-04T18:24:44.377Z",
+      "contentHash": "b24080d6c8e8c77958459925f72635cadf7874ebd4b2b5b3061f7ddff11d0dd9",
+      "fileSize": 3549
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/StacksExtended.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/StacksExtended.cs",
+      "notifiedAt": "2025-11-04T18:24:46.375Z",
+      "contentHash": "99fd19a215a3c5d61ac0e899154157172ab8795c4ded5379bf83616d400b4469",
+      "fileSize": 23879
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/BigBox.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/BigBox.cs",
+      "notifiedAt": "2025-11-04T18:24:48.389Z",
+      "contentHash": "b33bf4e85a13addf1499102e2ba00fa88751f6144816f0a863e6d0290ad529bd",
+      "fileSize": 1100
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/BigBox.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/BigBox.cs",
+      "notifiedAt": "2025-11-04T18:24:50.772Z",
+      "contentHash": "b33bf4e85a13addf1499102e2ba00fa88751f6144816f0a863e6d0290ad529bd",
+      "fileSize": 1100
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BigBox.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BigBox.cs",
+      "notifiedAt": "2025-11-04T18:24:52.730Z",
+      "contentHash": "b33bf4e85a13addf1499102e2ba00fa88751f6144816f0a863e6d0290ad529bd",
+      "fileSize": 1100
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/PlayerInformations.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/PlayerInformations.cs",
+      "notifiedAt": "2025-11-04T18:24:54.379Z",
+      "contentHash": "f9af21a767ba8b62eb7255196a3d91793df05c419ef9375bdff020a029b4f9ca",
+      "fileSize": 29569
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Pets.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Pets.cs",
+      "notifiedAt": "2025-11-04T18:24:56.257Z",
+      "contentHash": "3db36efb4b384df3a65fe44179e9b3253adbb31aa67c38339472bdea563d6965",
+      "fileSize": 23777
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ESPBlocker.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ESPBlocker.cs",
+      "notifiedAt": "2025-11-04T18:24:58.398Z",
+      "contentHash": "33e85521e7273e594d923e19c5e35de70312cedbd83400630a1f4a33d5dd3c9d",
+      "fileSize": 13696
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RPGFarm.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RPGFarm.cs",
+      "notifiedAt": "2025-11-04T18:25:00.326Z",
+      "contentHash": "2152c706482e0fa66694443a0242a20a54c5faf6a5a31e7dd828713ae803f2b7",
+      "fileSize": 13073
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/XKamikazeFPVDrone.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/XKamikazeFPVDrone.cs",
+      "notifiedAt": "2025-11-04T18:25:02.471Z",
+      "contentHash": "9bf2e09657426635a07bb165e258dab7be3bac271c863c7bbeb5282df44d8a11",
+      "fileSize": 17761
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/BeeProtect.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/BeeProtect.cs",
+      "notifiedAt": "2025-11-04T18:25:04.316Z",
+      "contentHash": "edfc27226bd86894c3a4fcab95feb4b4233450b436ae627da9e6d9b97e42f363",
+      "fileSize": 10205
+    },
+    "https://raw.githubusercontent.com/MrBlue/oxidemod.org/master/threads/enhancedbansystem.18587/page-29.html": {
+      "key": "https://raw.githubusercontent.com/MrBlue/oxidemod.org/master/threads/enhancedbansystem.18587/page-29.html",
+      "notifiedAt": "2025-11-04T18:25:06.471Z",
+      "fileSha": "1fdf8889d5d23ce8923f035c1c264fbe76035fde"
+    },
+    "https://raw.githubusercontent.com/MrBlue/oxidemod.org/master/threads/array-issue-with-command-commands-for-python-and-c.7921/index.html": {
+      "key": "https://raw.githubusercontent.com/MrBlue/oxidemod.org/master/threads/array-issue-with-command-commands-for-python-and-c.7921/index.html",
+      "notifiedAt": "2025-11-04T18:25:08.360Z",
+      "fileSha": "1fae49f582a100d5dec32f5eaa3c6a18cade41d1"
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Achievements.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Achievements.cs",
+      "notifiedAt": "2025-11-04T18:25:10.388Z",
+      "contentHash": "2f8a99bd93454696afd51d874986c7aec97615e06add913f77bcc87d191b551e",
+      "fileSize": 55301
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Vip TopPlugin/SoFriends.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Vip TopPlugin/SoFriends.cs",
+      "notifiedAt": "2025-11-04T18:25:12.413Z",
+      "contentHash": "873655f881023ab1dc606088400c1f897ab799a25a270d8d5fa3d6030771e37b",
+      "fileSize": 77368
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/SignArtist.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/SignArtist.cs",
+      "notifiedAt": "2025-11-04T18:25:14.457Z",
+      "contentHash": "b11ad4edb19edde75f108004d10c92b9f57ce1a9c94e361c67efd2235eacdb25",
+      "fileSize": 74044
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Emote.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Emote.cs",
+      "notifiedAt": "2025-11-04T18:25:16.421Z",
+      "contentHash": "0119b172b7e0f2011501ad183e91e43b075706bdb83e7d1bd97a3e6688fce4c6",
+      "fileSize": 9017
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/FlashBang.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/FlashBang.cs",
+      "notifiedAt": "2025-11-04T18:25:18.270Z",
+      "contentHash": "7658d1a7a689ae4bad01d5d3984d0df8e442e70dac5d50193a180d3a4c56dbb8",
+      "fileSize": 5925
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/R/RealBearTraps/RealBearTraps.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/R/RealBearTraps/RealBearTraps.cs",
+      "notifiedAt": "2025-11-04T18:25:20.345Z",
+      "contentHash": "13904e4249e0ad62e49eaeb7ecd7bd4b4766076cbb1276cffb0361ed4e9917f9",
+      "fileSize": 7969
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/CapacityController.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/CapacityController.cs",
+      "notifiedAt": "2025-11-04T18:25:22.339Z",
+      "contentHash": "e8cc8cbeaff19594a009ce88787b611b3a28ac6bc0f140823cd69bb7fe1c90ef",
+      "fileSize": 6089
+    },
+    "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/rust/WipeKits.cs": {
+      "key": "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/rust/WipeKits.cs",
+      "notifiedAt": "2025-11-04T18:25:24.514Z",
+      "contentHash": "45365c663396e960f9ae03c41246cfc57726408237345b3024aaec33d7097a76",
+      "fileSize": 7048
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/Мои проекты/Turret.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/Мои проекты/Turret.cs",
+      "notifiedAt": "2025-11-04T18:25:26.510Z",
+      "contentHash": "a934e186f9152fd266a007c7769dcdb995bb3656cee683a88b72aa7b24330660",
+      "fileSize": 3035
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ChatHead.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ChatHead.cs",
+      "notifiedAt": "2025-11-04T18:25:28.300Z",
+      "contentHash": "ed55639dda9d03ea0a546be65aa40091aa61f89b5986428395cc1948b10eb3c8",
+      "fileSize": 1873
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ClearDoors.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ClearDoors.cs",
+      "notifiedAt": "2025-11-04T18:25:30.330Z",
+      "contentHash": "4de88843f85552c56e3d7c0cabe0069c5ab524127adb7d1d81c264e3847626f4",
+      "fileSize": 2222
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/BolotoRust/BAutoChat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/BolotoRust/BAutoChat.cs",
+      "notifiedAt": "2025-11-04T18:25:32.243Z",
+      "contentHash": "3a84132365187042e85aa56b55083afd9e54990cfb6110d09b1ce0f01c62cc72",
+      "fileSize": 3433
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/P/PlayerNames/PlayerNames.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/P/PlayerNames/PlayerNames.cs",
+      "notifiedAt": "2025-11-04T18:25:34.302Z",
+      "contentHash": "f25a0372ba88e3e1f962d2a61317c3eb031d5520e7816c479e8914c5dbe77c29",
+      "fileSize": 4439
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/C/CommitFeed/CommitFeed.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/C/CommitFeed/CommitFeed.cs",
+      "notifiedAt": "2025-11-04T18:25:36.372Z",
+      "contentHash": "a53cb6ddf11650363f2b0dac59c2a0c3449545888b7f3a55fe9aefb525230a67",
+      "fileSize": 4311
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/S/SlackChat/SlackChat.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/S/SlackChat/SlackChat.cs",
+      "notifiedAt": "2025-11-04T18:25:38.283Z",
+      "contentHash": "b78f0c6cfcbd14db0b776398259140809abf00d364e34ad553facf2ce499780a",
+      "fileSize": 1767
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/A/AntiNPC/AntiNPC.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/A/AntiNPC/AntiNPC.cs",
+      "notifiedAt": "2025-11-04T18:25:40.326Z",
+      "contentHash": "9c420e43e6d7ee3cebe46ee4d031f1fb2c0ad5f2d8390f29a96a6590578234d6",
+      "fileSize": 2349
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/MagicCarpet.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/MagicCarpet.cs",
+      "notifiedAt": "2025-11-04T18:25:42.493Z",
+      "contentHash": "ce934760592558eea66776428c2c8ec9b7318e0cc8ce502ae40233a3af99f0c9",
+      "fileSize": 3332
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/MagicTools.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/MagicTools.cs",
+      "notifiedAt": "2025-11-04T18:25:44.292Z",
+      "contentHash": "52f01d727d7c015e4781a4b95e5225d93976e5b6bdca9ea521bee9fb9bb540f5",
+      "fileSize": 2973
+    },
+    "https://raw.githubusercontent.com/Tacman1981/Rust-Plugins/main/CustomBlackBerryGather.cs": {
+      "key": "https://raw.githubusercontent.com/Tacman1981/Rust-Plugins/main/CustomBlackBerryGather.cs",
+      "notifiedAt": "2025-11-04T18:25:46.335Z",
+      "contentHash": "5cbfff427549261b68cc07becdfa81537f8b4e99beca7e01ff38632f6fcb1008",
+      "fileSize": 2518
+    },
+    "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/other/SteamReport.cs": {
+      "key": "https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/old/plugins/other/SteamReport.cs",
+      "notifiedAt": "2025-11-04T18:25:48.263Z",
+      "contentHash": "7e4528c4e18a756041c3b289be591c2891308336dfb79a1a23201ad41715fb8c",
+      "fileSize": 3402
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/LotterySystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/LotterySystem.cs",
+      "notifiedAt": "2025-11-04T18:25:50.273Z",
+      "contentHash": "f5cd8e1ca92726dd0bda3900d13a34c09445bd5e2014ac700c5da24f58f5b018",
+      "fileSize": 24600
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/TimedEvents.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/TimedEvents.cs",
+      "notifiedAt": "2025-11-04T18:25:52.286Z",
+      "contentHash": "a3464e8004705e6d694337958c0f6232af23d1e8f7f892f812ef161aa859674f",
+      "fileSize": 10341
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/MachiningTools.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/MachiningTools.cs",
+      "notifiedAt": "2025-11-04T18:25:54.335Z",
+      "contentHash": "2a81769a98245f42072547cda068ddde93e1abfcafef99cdeba6fc31940b02f9",
+      "fileSize": 29963
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RandomWarps.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RandomWarps.cs",
+      "notifiedAt": "2025-11-04T18:25:56.234Z",
+      "contentHash": "81c79bca299725b305e4ffe841e13c324fb841a0b59f0f6e0d4603daf700c513",
+      "fileSize": 10123
+    },
+    "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/XScan.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/RustPlugins/main/ragerust/oxide/plugins/XScan.cs",
+      "notifiedAt": "2025-11-04T18:25:58.301Z",
+      "contentHash": "c0ae1cd4c7e871d84a453ea6fdb61fcfd13adee76d0b9bd9e6aadb3faf910ec9",
+      "fileSize": 24919
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/MicroPanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/MicroPanel.cs",
+      "notifiedAt": "2025-11-04T18:26:00.362Z",
+      "contentHash": "c287f5226d999e5aa71dd2fbc3f925b4e121b11a50627f663486598805159ef1",
+      "fileSize": 43192
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/StackSizeController.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/StackSizeController.cs",
+      "notifiedAt": "2025-11-04T18:26:02.538Z",
+      "contentHash": "8584963d6e90e9edf4120164b59a31a9206a54dbbdd922a0a6ca230c540acbd2",
+      "fileSize": 32804
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/WipeBlock.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/WipeBlock.cs",
+      "notifiedAt": "2025-11-04T18:26:04.307Z",
+      "contentHash": "9af87f006541a385131987915f2653526f17f2d931494fb3e4044d00d48a3a51",
+      "fileSize": 44659
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/LogoMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/LogoMenu.cs",
+      "notifiedAt": "2025-11-04T18:26:08.137Z",
+      "contentHash": "1f31553878fb53b19d91348d4179c5762f286488b203ad3eac47874cbfaf99ff",
+      "fileSize": 17748
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Authentication.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Authentication.cs",
+      "notifiedAt": "2025-11-04T18:26:08.688Z",
+      "contentHash": "c7e0b9ff46a24eb83d3b1e69a45ca86d2adb9b04dfe1640d8e339df9ba6ab8aa",
+      "fileSize": 13836
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/LimeBench.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/LimeBench.cs",
+      "notifiedAt": "2025-11-04T18:26:10.382Z",
+      "contentHash": "2664d3da309cab264999d0cd71380dd862cd5290c616b5a55b6310889ccb0850",
+      "fileSize": 11754
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/StackSizeController.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/StackSizeController.cs",
+      "notifiedAt": "2025-11-04T18:26:12.622Z",
+      "contentHash": "8584963d6e90e9edf4120164b59a31a9206a54dbbdd922a0a6ca230c540acbd2",
+      "fileSize": 32804
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/FEconomy.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/FEconomy.cs",
+      "notifiedAt": "2025-11-04T18:26:14.632Z",
+      "contentHash": "cc1d14b40a0ef467e9fc486897803109e281fa5841c58dcb6f7405f7030e09fe",
+      "fileSize": 26816
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/BolotoRust/BMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/BolotoRust/BMenu.cs",
+      "notifiedAt": "2025-11-04T18:26:16.339Z",
+      "contentHash": "8b851684d5ac64c788cab87c61e26fe79bbc15fc4816f2611a50af2fdf0be20a",
+      "fileSize": 27735
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/MachiningTools.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/MachiningTools.cs",
+      "notifiedAt": "2025-11-04T18:26:18.389Z",
+      "contentHash": "b4c38f530243d2313ee90c45f6e51d33bfcc89238a3c8a2b1fcfa39b7d6e56c4",
+      "fileSize": 22851
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/ClearNight.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/ClearNight.cs",
+      "notifiedAt": "2025-11-04T18:26:20.402Z",
+      "contentHash": "e38ee7c72bdd1bfbc2ab1eb4299179108ae242bd28e0f4f28a49a6db3cd35ab0",
+      "fileSize": 20288
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/ClearNight.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/ClearNight.cs",
+      "notifiedAt": "2025-11-04T18:26:22.561Z",
+      "contentHash": "e38ee7c72bdd1bfbc2ab1eb4299179108ae242bd28e0f4f28a49a6db3cd35ab0",
+      "fileSize": 20288
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/ClearNight.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/ClearNight.cs",
+      "notifiedAt": "2025-11-04T18:26:24.335Z",
+      "contentHash": "e38ee7c72bdd1bfbc2ab1eb4299179108ae242bd28e0f4f28a49a6db3cd35ab0",
+      "fileSize": 20288
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/KillAwards.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/KillAwards.cs",
+      "notifiedAt": "2025-11-04T18:26:26.418Z",
+      "contentHash": "d8924123d7058d9233e7b9d4fd2dab9045db4b51229af277087deb69d9df28e1",
+      "fileSize": 16895
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Remove.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Remove.cs",
+      "notifiedAt": "2025-11-04T18:26:28.467Z",
+      "contentHash": "d2cde3bebc72952f0a9e069125e0abf66bbd04734738f6e182c03c03e1f28e71",
+      "fileSize": 27250
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AdminProtection.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AdminProtection.cs",
+      "notifiedAt": "2025-11-04T18:26:30.245Z",
+      "contentHash": "42920e0510c1a305fe1762106ea2cad18d2f6e74ae175432868cd110e97edfff",
+      "fileSize": 23442
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TimedPermissions.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TimedPermissions.cs",
+      "notifiedAt": "2025-11-04T18:26:32.308Z",
+      "contentHash": "60884839803786f40b9e25e421b913593413534c2a38370ea2cde0635a8ebaa0",
+      "fileSize": 20702
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/WarpSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/WarpSystem.cs",
+      "notifiedAt": "2025-11-04T18:26:34.361Z",
+      "contentHash": "cf34d56bb4d313d97b4c77e7e6377bf740847f4c151351991b6d0ffe15a5d560",
+      "fileSize": 28638
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/MagicVariables.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/MagicVariables.cs",
+      "notifiedAt": "2025-11-04T18:26:37.848Z",
+      "contentHash": "f7b9fdb77001f22c03442bbc6c2b25af57e8593c026eca16b31abcb2a3b97e08",
+      "fileSize": 10437
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/HitMarker.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/HitMarker.cs",
+      "notifiedAt": "2025-11-04T18:26:39.588Z",
+      "contentHash": "4665e2d01e46d2ccfa32b98c05a9eddfeb874344c63efcc73b162ccaa2cab4e8",
+      "fileSize": 23409
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/StartProtection.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/StartProtection.cs",
+      "notifiedAt": "2025-11-04T18:26:40.821Z",
+      "contentHash": "3cae43a004c3217bf7d79bc9b7dd21ba035ba3036609b0465582f8f5e93ed5e7",
+      "fileSize": 22060
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TeamGuard.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TeamGuard.cs",
+      "notifiedAt": "2025-11-04T18:26:42.515Z",
+      "contentHash": "7140d4f3a659f2d77182601db38f56e65decafe93824dd47a7ad78435a34779a",
+      "fileSize": 38566
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/InfoPanel.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/InfoPanel.cs",
+      "notifiedAt": "2025-11-04T18:26:44.567Z",
+      "contentHash": "50621f5fe7bee21c378bb6f70cdbd3d2a57c21a8affc5e99dc4099d41b83b6aa",
+      "fileSize": 24155
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/SQLStats.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/SQLStats.cs",
+      "notifiedAt": "2025-11-04T18:26:46.330Z",
+      "contentHash": "c095bbd6762bef0a22ca2949bd6fcab9111ed7eaf4ce49d00f17dbbd9e1ac1b3",
+      "fileSize": 16051
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/LastManStanding.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/LastManStanding.cs",
+      "notifiedAt": "2025-11-04T18:26:48.301Z",
+      "contentHash": "0dcbc07340c24c074b2a2f2b9bc5e65d0a0d217879dff0e0a635fb293caa249c",
+      "fileSize": 24166
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/PlayerChallenges.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/PlayerChallenges.cs",
+      "notifiedAt": "2025-11-04T18:26:50.436Z",
+      "contentHash": "f8de8e88a088a25291f1a2dc3b557235e01f9a0bd40e7d2cabf3260b60b02970",
+      "fileSize": 40261
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/MagixLogo-1.0.0.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/MagixLogo-1.0.0.cs",
+      "notifiedAt": "2025-11-04T18:26:54.918Z",
+      "contentHash": "4c5c2f63fb19e444d73601870e089d013c87eb9a18b626a2bfa0485d71126345",
+      "fileSize": 40746
+    },
+    "https://raw.githubusercontent.com/RustWipeDay/RustWipeDay/main/plugins/PlayerDatabase.cs": {
+      "key": "https://raw.githubusercontent.com/RustWipeDay/RustWipeDay/main/plugins/PlayerDatabase.cs",
+      "notifiedAt": "2025-11-04T18:26:55.251Z",
+      "contentHash": "991b066c81c038dac1dfb4c2d86b0abd94ee89ac7799964c9c8872cdd461c761",
+      "fileSize": 22288
+    },
+    "https://raw.githubusercontent.com/PRISM-Servers/plugins_public/master/plugins/CorpseTP.cs": {
+      "key": "https://raw.githubusercontent.com/PRISM-Servers/plugins_public/master/plugins/CorpseTP.cs",
+      "notifiedAt": "2025-11-04T18:26:56.249Z",
+      "contentHash": "983f6e69d5bc22215fdebd5ed492f0ca185e8513cf26322ad849dcfde7fdeaf9",
+      "fileSize": 11278
+    },
+    "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/C/Cornucopia/Cornucopia.cs": {
+      "key": "https://raw.githubusercontent.com/publicrust/umod-pluigns-dataset/main/plugins/C/Cornucopia/Cornucopia.cs",
+      "notifiedAt": "2025-11-04T18:26:58.364Z",
+      "contentHash": "92ad413bdbef67eedf15203b988f93f187ab1db8068b610289c1fcead535b5b5",
+      "fileSize": 20986
+    },
+    "https://raw.githubusercontent.com/PRISM-Servers/plugins_public/master/plugins/AntiStashESP.cs": {
+      "key": "https://raw.githubusercontent.com/PRISM-Servers/plugins_public/master/plugins/AntiStashESP.cs",
+      "notifiedAt": "2025-11-04T18:27:00.362Z",
+      "contentHash": "acd24a7e5f29cceb5e1e942e3b927288f33bde457dc0d9afcd1824d92da9d529",
+      "fileSize": 15910
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/DespawnConfig.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/DespawnConfig.cs",
+      "notifiedAt": "2025-11-04T18:27:02.424Z",
+      "contentHash": "ad483818ea07c0499c278760fce0ab0ec9ff61611dea76c6da8fd6011208429e",
+      "fileSize": 20845
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/GUIShop.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/GUIShop.cs",
+      "notifiedAt": "2025-11-04T18:27:04.495Z",
+      "contentHash": "d3afb3d5ff0457a3d719a989ff9a6d4d9d5d1eb817ce91e345300a9fcb8a30d0",
+      "fileSize": 47783
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Underworld.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/Underworld.cs",
+      "notifiedAt": "2025-11-04T18:27:06.368Z",
+      "contentHash": "25b189636a851db78fba6a755eea0a2880f70be75f0cf77937462dd3829a0a8e",
+      "fileSize": 24933
+    },
+    "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/TrollTax.cs": {
+      "key": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/rust/TrollTax.cs",
+      "notifiedAt": "2025-11-04T18:27:08.478Z",
+      "contentHash": "3ac9019287621ffc463bd30dedd5dd3fcb114bbcf698eeebfb1adcdc00dee834",
+      "fileSize": 23895
+    },
+    "https://raw.githubusercontent.com/Tacman1981/Rust-Plugins/main/FurnaceNoOreStop.cs": {
+      "key": "https://raw.githubusercontent.com/Tacman1981/Rust-Plugins/main/FurnaceNoOreStop.cs",
+      "notifiedAt": "2025-11-04T18:27:10.311Z",
+      "contentHash": "cfd5cbdf090d7b595eca45ce4967151c403c6d76cd987b3f0695cf8b6ec197bd",
+      "fileSize": 6467
+    },
+    "https://raw.githubusercontent.com/PenisBlistashiq/Rust-plugins-236-240-dev/main/plugins1/XDWipeReward.cs": {
+      "key": "https://raw.githubusercontent.com/PenisBlistashiq/Rust-plugins-236-240-dev/main/plugins1/XDWipeReward.cs",
+      "notifiedAt": "2025-11-04T18:27:12.364Z",
+      "contentHash": "98a3c4aed37434f6fee95c4e5588d14308a6115b686070c5433d66d43a2f2950",
+      "fileSize": 9847
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/Trade.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/Trade.cs",
+      "notifiedAt": "2025-11-04T18:27:14.280Z",
+      "contentHash": "0c154d443f7e649e91c42510479098a4b08a02959a9f2ed31ab126eabe453c93",
+      "fileSize": 32867
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/QuarryLocks.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/QuarryLocks.cs",
+      "notifiedAt": "2025-11-04T18:27:16.389Z",
+      "contentHash": "7fed96d0967c120c8f3104207f166cda355097f52ec6cb010d5251f1e27296c4",
+      "fileSize": 43247
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/Kits.cs",
+      "notifiedAt": "2025-11-04T18:27:18.461Z",
+      "contentHash": "80163c0680dc437b3b0014acd9f4a85c2d9ae2f2f02a501cf5c2d28e73fc3c1a",
+      "fileSize": 33751
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins/Kits.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins/Kits.cs",
+      "notifiedAt": "2025-11-04T18:27:20.347Z",
+      "contentHash": "80163c0680dc437b3b0014acd9f4a85c2d9ae2f2f02a501cf5c2d28e73fc3c1a",
+      "fileSize": 33751
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/RFTeleports.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/RFTeleports.cs",
+      "notifiedAt": "2025-11-04T18:27:22.530Z",
+      "contentHash": "ce77192a93da80716dd0e2a8cc233d5a26de26b29787e467de2944fd21783930",
+      "fileSize": 39791
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/RFTeleports.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/RFTeleports.cs",
+      "notifiedAt": "2025-11-04T18:27:24.358Z",
+      "contentHash": "ce77192a93da80716dd0e2a8cc233d5a26de26b29787e467de2944fd21783930",
+      "fileSize": 39791
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RFTeleports.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RFTeleports.cs",
+      "notifiedAt": "2025-11-04T18:27:26.635Z",
+      "contentHash": "ce77192a93da80716dd0e2a8cc233d5a26de26b29787e467de2944fd21783930",
+      "fileSize": 39791
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/SignArtist.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/SignArtist.cs",
+      "notifiedAt": "2025-11-04T18:27:28.453Z",
+      "contentHash": "c5aca77be43e36c2c22bb5b33ddbd89ec2bd0638ce13e8cfe7e4fc8844d666f5",
+      "fileSize": 13990
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/MercuryUtilites.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/MercuryUtilites.cs",
+      "notifiedAt": "2025-11-04T18:27:30.411Z",
+      "contentHash": "30ca9dade959fb5a072423a6ec715e8e02bc00311773e42a70ea319577d73770",
+      "fileSize": 228398
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/Arkan.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/Arkan.cs",
+      "notifiedAt": "2025-11-04T18:27:32.392Z",
+      "contentHash": "2b4e556e0d44d07f27da80a1ffa6f39b3b7e3d4c8c8b5bfdf82bedbd146e6c69",
+      "fileSize": 260694
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/IQChat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/IQChat.cs",
+      "notifiedAt": "2025-11-04T18:27:34.484Z",
+      "contentHash": "c8490b7c5f75b9d2971a4d814460d60d5668948d414ec5ef839ce5bb77605eb2",
+      "fileSize": 318130
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/Clans.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/Clans.cs",
+      "notifiedAt": "2025-11-04T18:27:38.002Z",
+      "contentHash": "10f941554019ba77b640fed341c7fbcd5557a0f97e36a1a8b06c4dae4b9cc5bb",
+      "fileSize": 329899
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Clans (10).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Clans (10).cs",
+      "notifiedAt": "2025-11-04T18:27:38.463Z",
+      "contentHash": "b1d94105cd2b4ac781fd59f85e34abbe4a47cf609ffd3c2327f123459d3e6b2e",
+      "fileSize": 334988
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/XDStatistics v2.3.3/XDStatistics-2.3.3.(fix).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/XDStatistics v2.3.3/XDStatistics-2.3.3.(fix).cs",
+      "notifiedAt": "2025-11-04T18:27:40.329Z",
+      "contentHash": "1fab20b17710eade95d3ea14290b3893520da35fc555a8985380aad061ea2d3b",
+      "fileSize": 203043
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/AdminToggle.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/AdminToggle.cs",
+      "notifiedAt": "2025-11-04T18:27:42.362Z",
+      "contentHash": "f18331207f548133aa4f98bc59dd37090d41f3c4c2b47c37ae0296cb38b4b4bc",
+      "fileSize": 202690
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/MercuryUtilites.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/MercuryUtilites.cs",
+      "notifiedAt": "2025-11-04T18:27:44.402Z",
+      "contentHash": "30ca9dade959fb5a072423a6ec715e8e02bc00311773e42a70ea319577d73770",
+      "fileSize": 228398
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/IQReportSystem-2.23.90.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/IQReportSystem-2.23.90.cs",
+      "notifiedAt": "2025-11-04T18:27:46.526Z",
+      "contentHash": "1f3735d8b0f8c3b9f75c43674c2672f059ce10feeb9cf16e7c1bb41840b750be",
+      "fileSize": 280986
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/Backpacks.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/Backpacks.cs",
+      "notifiedAt": "2025-11-04T18:27:48.293Z",
+      "contentHash": "3b54fd68e221ad1910ca63d819bd65ede3781cf2167f935d8b7eaab161a7a4a8",
+      "fileSize": 291672
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AbsolutMarket.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AbsolutMarket.cs",
+      "notifiedAt": "2025-11-04T18:27:50.369Z",
+      "contentHash": "74adfa2141386f141e59925c283c48d8bcf8691fdadfda4a33783112d2cdb9bc",
+      "fileSize": 228679
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Kits3.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Kits3.cs",
+      "notifiedAt": "2025-11-04T18:27:52.715Z",
+      "contentHash": "3fd3fd401319579001eefe79adba5ed94c8ebfb0caec7970b9b8d241133a1f71",
+      "fileSize": 249220
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AdminMenu-1.1.11.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AdminMenu-1.1.11.cs",
+      "notifiedAt": "2025-11-04T18:27:54.412Z",
+      "contentHash": "63595b3c478fce8b62335833253019b251ec85eb917c7e037970400f2d721356",
+      "fileSize": 334058
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/IQChat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/IQChat.cs",
+      "notifiedAt": "2025-11-04T18:27:57.237Z",
+      "contentHash": "d8c2a83741481e7643cde6ae7c95d83528c28cf452c63c4792674332be55a363",
+      "fileSize": 318126
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins/IQChat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins/IQChat.cs",
+      "notifiedAt": "2025-11-04T18:28:01.034Z",
+      "contentHash": "d8c2a83741481e7643cde6ae7c95d83528c28cf452c63c4792674332be55a363",
+      "fileSize": 318126
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/IQReportSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/IQReportSystem.cs",
+      "notifiedAt": "2025-11-04T18:28:01.499Z",
+      "contentHash": "9a9171b8dd068219ef0a4c41c06bb6b54482d46436c20672bd8c8cd627287d54",
+      "fileSize": 151255
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HudRust/IQReportSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HudRust/IQReportSystem.cs",
+      "notifiedAt": "2025-11-04T18:28:02.499Z",
+      "contentHash": "9a9171b8dd068219ef0a4c41c06bb6b54482d46436c20672bd8c8cd627287d54",
+      "fileSize": 151255
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AAlertRaidEN.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AAlertRaidEN.cs",
+      "notifiedAt": "2025-11-04T18:28:04.365Z",
+      "contentHash": "763e46880a2a30fc883201e7c991d547c86b2a252749892141e2770b7e87ac74",
+      "fileSize": 106444
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AAlertRaidEN-2.0.1.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/AAlertRaidEN-2.0.1.cs",
+      "notifiedAt": "2025-11-04T18:28:06.547Z",
+      "contentHash": "8d6857c5f9c865e9f70b49812080e96cce6d2126755256b7266b011dcef73145",
+      "fileSize": 106107
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Clans (3).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Clans (3).cs",
+      "notifiedAt": "2025-11-04T18:28:08.458Z",
+      "contentHash": "273fda4f745eed29b80b2d2a63bc0f936d6c8fad7730a51af529d7b04a716494",
+      "fileSize": 188374
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/DeepWater.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/DeepWater.cs",
+      "notifiedAt": "2025-11-04T18:28:10.305Z",
+      "contentHash": "ca16bf328ca955b6e4c5f8f26e9d7f4d1ffd0914a1312893ac425976503e0973",
+      "fileSize": 124897
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RustySheriffAlertSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/RustySheriffAlertSystem.cs",
+      "notifiedAt": "2025-11-04T18:28:12.381Z",
+      "contentHash": "7abc7572c8ce7e7c157a25e0f133412b1bccf6dbd8ff329529b6697fb98eff24",
+      "fileSize": 168778
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/AdminMenu.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/AdminMenu.cs",
+      "notifiedAt": "2025-11-04T18:28:14.366Z",
+      "contentHash": "78072c7142490861777a08047c2a95d07e00c0f5b34b457ea8d02bedb115b385",
+      "fileSize": 139392
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Clans (2).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Clans (2).cs",
+      "notifiedAt": "2025-11-04T18:28:16.559Z",
+      "contentHash": "273fda4f745eed29b80b2d2a63bc0f936d6c8fad7730a51af529d7b04a716494",
+      "fileSize": 188374
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/RatesController.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/RatesController.cs",
+      "notifiedAt": "2025-11-04T18:28:18.397Z",
+      "contentHash": "3867b44d60a61fc0fa7f9c27915d20ecc1b199b372859fb068dd67c612a9df09",
+      "fileSize": 101658
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/RoamTasks.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/RUSTMODS/RoamTasks.cs",
+      "notifiedAt": "2025-11-04T18:28:20.338Z",
+      "contentHash": "4dec800a8677204eac8a6f6bfa3f238170afaf7e9a15bb5c9ca3f2e4703e0e5d",
+      "fileSize": 121704
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/EnhancedBanSystem.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BeeRust/EnhancedBanSystem.cs",
+      "notifiedAt": "2025-11-04T18:28:22.369Z",
+      "contentHash": "8668b5837ceb3b825d1d247f4b40d5729e15fbd4eab8c529b1cff27b7b2f2ddf",
+      "fileSize": 103180
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ServerRewards.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ServerRewards.cs",
+      "notifiedAt": "2025-11-04T18:28:24.373Z",
+      "contentHash": "724071cf25f018550b64e244269083ff585dcc3b743b80bf8180fe17c0368e9a",
+      "fileSize": 149583
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TPTeleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TPTeleportation.cs",
+      "notifiedAt": "2025-11-04T18:28:26.339Z",
+      "contentHash": "48e660cef9f78f94e7b9b7a9236b5e92a3e41460ae798f6f24fa6551efa21d31",
+      "fileSize": 118031
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Statistics.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/Statistics.cs",
+      "notifiedAt": "2025-11-04T18:28:28.306Z",
+      "contentHash": "653521a5006e72ef563877d3bc37fd5fd9cd921254117316aed9b2382d1e2305",
+      "fileSize": 111745
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/НЕ РАБОЧИЕ/XDQuest.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/НЕ РАБОЧИЕ/XDQuest.cs",
+      "notifiedAt": "2025-11-04T18:28:30.595Z",
+      "contentHash": "28cc2d3c55c608ae6b6140dd508feaa3cfcc88815c94f017d8e650b4e6efc34d",
+      "fileSize": 127124
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/IQBearRide.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/IQBearRide.cs",
+      "notifiedAt": "2025-11-04T18:28:32.342Z",
+      "contentHash": "4525f47a361437dfda5882338ae70230edc12dc2596ffaa79b1279f698c6b739",
+      "fileSize": 102939
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/IQBearRide.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/IQBearRide.cs",
+      "notifiedAt": "2025-11-04T18:28:34.310Z",
+      "contentHash": "4525f47a361437dfda5882338ae70230edc12dc2596ffaa79b1279f698c6b739",
+      "fileSize": 102939
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ZoneManager.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/ZoneManager.cs",
+      "notifiedAt": "2025-11-04T18:28:36.452Z",
+      "contentHash": "b5667e344ff1548951be00b1a992cf29d3a4a5d143732243476b1133c66087fb",
+      "fileSize": 124749
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XDQuest.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/XDQuest.cs",
+      "notifiedAt": "2025-11-04T18:28:38.338Z",
+      "contentHash": "28cc2d3c55c608ae6b6140dd508feaa3cfcc88815c94f017d8e650b4e6efc34d",
+      "fileSize": 127124
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/XDShop v1.3.5/XDShop-1.2.2.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/XDShop v1.3.5/XDShop-1.2.2.cs",
+      "notifiedAt": "2025-11-04T18:28:40.389Z",
+      "contentHash": "593c7dc75c090261d4159c828d98c9ebf7f2a14d073b5ec110fc4c9f46581f15",
+      "fileSize": 153333
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/IQChat.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/TrashRust/IQChat.cs",
+      "notifiedAt": "2025-11-04T18:28:42.455Z",
+      "contentHash": "34db545e2f5ba4adffe599a7ad5e87d66c305cdc9854963c02fcd691d807e8e7",
+      "fileSize": 154286
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BotSpawn.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/BotSpawn.cs",
+      "notifiedAt": "2025-11-04T18:28:44.316Z",
+      "contentHash": "f5c257a8c9b04beed70fcb1fce66a06f0804a6799ea430880f331a2a5f94fbc6",
+      "fileSize": 103589
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/IQBearRide.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/IQBearRide.cs",
+      "notifiedAt": "2025-11-04T18:28:46.295Z",
+      "contentHash": "4525f47a361437dfda5882338ae70230edc12dc2596ffaa79b1279f698c6b739",
+      "fileSize": 102939
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/WeatherEvents.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/WeatherEvents.cs",
+      "notifiedAt": "2025-11-04T18:28:48.348Z",
+      "contentHash": "c012fc09d3244d32bdddaee0fdce46c2237e0d5a1c0cc01018320818e90c832c",
+      "fileSize": 151886
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/AdminRadar.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/KualaRust/AdminRadar.cs",
+      "notifiedAt": "2025-11-04T18:28:50.375Z",
+      "contentHash": "9da98e82f1b94e4c12c0c9296d4630a076c3d0524a384e694f963f784a7d10ae",
+      "fileSize": 162929
+    },
+    "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HudRust/DVTeleportation.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/https-slivrust-plugin.ru-/main/https-slivrust-plugin.ru/Ебнутая база/HudRust/DVTeleportation.cs",
+      "notifiedAt": "2025-11-04T18:28:52.362Z",
+      "contentHash": "a906e43f6dce4b2debc1e1dbc40f574bcb789beb0366dac2df0460e287c21dff",
+      "fileSize": 103871
     }
   },
   "version": 1,
-  "updatedAt": "2025-11-04T17:49:24.373Z"
+  "updatedAt": "2025-11-04T18:28:52.363Z"
 }
