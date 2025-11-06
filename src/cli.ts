@@ -104,6 +104,16 @@ export async function processAllPluginsSequentially(
       }
     }
 
+    // CHANGE: Skip plugins when file download fails to avoid Discord spam.
+    // WHY: If file can't be downloaded, there's no point in sending a notification.
+    // QUOTE(TЗ): "Ошибка 404 и тд просто скип"
+    // REF: User request to skip failed downloads
+    // SOURCE: User feedback on webhook handling
+    if (allowsAttachment && !attachmentBuffer) {
+      info(`Skipping ${rawUrl}: unable to download plugin file`);
+      continue;
+    }
+
     const candidateName = plugin.file.path
       ? plugin.file.path.split("/").pop() ?? "plugin"
       : plugin.plugin_name ?? "plugin";
