@@ -254896,8 +254896,195 @@
       "notifiedAt": "2026-01-19T07:50:35.485Z",
       "contentHash": "83d270cb5a6029b078dd016f593f0f6d3af233d0673071c52fbd72428cb02f87",
       "fileSize": 166205
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/hurtworld/AntigriefJail.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/hurtworld/AntigriefJail.cs",
+      "notifiedAt": "2026-01-27T11:43:35.761Z",
+      "contentHash": "8d677296c316af82686d092dc4fd7cc7938198b55ee285328eb0bf15328460bc",
+      "fileSha": "bc57345b41d1d11e8a043d8495c2a57234cc15d7",
+      "fileSize": 10975
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/CustomResourceSpawns.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/CustomResourceSpawns.cs",
+      "notifiedAt": "2026-01-27T11:43:36.812Z",
+      "contentHash": "4aeb58e05614bf79a14c5b58011b33e1ab12ba25f6a2652b0ce524e676ebb0b4",
+      "fileSha": "f453f5403763c3fe58326f4acc4c7377c0391743",
+      "fileSize": 22014
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/PoliticalSurvival.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/PoliticalSurvival.cs",
+      "notifiedAt": "2026-01-27T11:43:37.482Z",
+      "contentHash": "a530c43d56732bbec28d2919a0068ec9c0a3b4e57823939cf67c31828096031a",
+      "fileSha": "c81f47abe97e36626f27c54b45827041790653b0",
+      "fileSize": 21159
+    },
+    "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Covalence/IPlayer.cs": {
+      "key": "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Covalence/IPlayer.cs",
+      "notifiedAt": "2026-01-27T11:43:38.502Z",
+      "contentHash": "3e26e175c3ba07395f42900cfa9d5784401c19c1cc403cdcd898335bf8b5990a",
+      "fileSha": "db71c88fd73f75b7d0ca7c2647d315f32d211a55",
+      "fileSize": 9664
+    },
+    "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/ServerRewards.cs": {
+      "key": "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/ServerRewards.cs",
+      "notifiedAt": "2026-01-27T11:43:39.305Z",
+      "contentHash": "71d69dd010210f91fa0fffc5ed557a01486b11b5686e2d64ba7422bb662e6b45",
+      "fileSize": 210191
+    },
+    "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/ZombieHorde.cs": {
+      "key": "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/ZombieHorde.cs",
+      "notifiedAt": "2026-01-27T11:43:40.307Z",
+      "contentHash": "d6bf9baf697841654a8141f5cf6dc52e8955263fb6ae0117bd274a67e4b57ebc",
+      "fileSize": 196145
+    },
+    "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/XStatistics.cs": {
+      "key": "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/XStatistics.cs",
+      "notifiedAt": "2026-01-27T11:43:41.278Z",
+      "contentHash": "dde34f69c4f2dde3f6d401bf2416331e76b0f339cffbaa3f24f112a9f497bf5f",
+      "fileSize": 204063
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Spawns.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Spawns.cs",
+      "notifiedAt": "2026-01-27T11:43:42.082Z",
+      "contentHash": "9a52fd13ba696dcfde74bddd074ef6c91bbd4057cc14a71c6b31813da01ea34f",
+      "fileSha": "fd30e834d47a8c2f66d503a9a6d5aaedee79a89b",
+      "fileSize": 18429
+    },
+    "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Carbon/Modules/AdminModule/AdminModule.Tabs.Plugins.cs": {
+      "key": "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Carbon/Modules/AdminModule/AdminModule.Tabs.Plugins.cs",
+      "notifiedAt": "2026-01-27T11:43:42.965Z",
+      "contentHash": "efdc3dbb58d0894cb6b1c65138a5880bcc21ebadad32624c74f5a36cf391ef07",
+      "fileSha": "c204a392fad2af277594bb177e3969fdcd8ae461",
+      "fileSize": 98911
+    },
+    "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Carbon/Modules/ImageDatabaseModule/ImageDatabaseModule.cs": {
+      "key": "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Carbon/Modules/ImageDatabaseModule/ImageDatabaseModule.cs",
+      "notifiedAt": "2026-01-27T11:43:44.204Z",
+      "contentHash": "432640a78a733733e0ab4f70283897db58c4f66e0dce1344e0367ce931077779",
+      "fileSha": "74b08c682710adb90da3258e8f34dd0b50cbee10",
+      "fileSize": 16394
+    },
+    "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Carbon/CorePlugin/Core.Commands.Hooks.cs": {
+      "key": "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Carbon/CorePlugin/Core.Commands.Hooks.cs",
+      "notifiedAt": "2026-01-27T11:43:45.285Z",
+      "contentHash": "7b2f7876afe69c8700c50e25eaa6b4f1a0cd20cf4e2b69e5edebcc03e7abd5da",
+      "fileSha": "bca13b3891fea9dad0e8f87fb0e3c8c2f661c663",
+      "fileSize": 13899
+    },
+    "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/RustExtensionMethods.cs": {
+      "key": "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/RustExtensionMethods.cs",
+      "notifiedAt": "2026-01-27T11:43:46.112Z",
+      "contentHash": "f9d5b1d424af8c73811e358550b2c4382e48bd5f475fff87bc11559a736d5cbd",
+      "fileSize": 177
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/PlayerList.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/PlayerList.cs",
+      "notifiedAt": "2026-01-27T11:43:46.914Z",
+      "contentHash": "b1bcfbab4b6df89cc0f0851ee1546d5325dc8f89e62f0c6f2a99a19599f48dcd",
+      "fileSha": "aafefaadb74f7a698a0f4948421b7e99b6e27eee",
+      "fileSize": 3981
+    },
+    "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Covalence/CovalencePlugin.cs": {
+      "key": "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Covalence/CovalencePlugin.cs",
+      "notifiedAt": "2026-01-27T11:43:47.746Z",
+      "contentHash": "83c0339c1311db328086efc5d6ccc52a976b7674ca57de36b3323ad81615ac5b",
+      "fileSize": 6138
+    },
+    "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Core/CSharpPluginLoader.cs": {
+      "key": "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Core/CSharpPluginLoader.cs",
+      "notifiedAt": "2026-01-27T11:43:48.587Z",
+      "contentHash": "fd55905d9b054fb87058484cd670a766f21089d1b82627215cd39750823edf02",
+      "fileSize": 77
+    },
+    "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Core/CSharpPlugin.cs": {
+      "key": "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Core/CSharpPlugin.cs",
+      "notifiedAt": "2026-01-27T11:43:49.544Z",
+      "contentHash": "629d8903e7b6355c72ecaea54dc7bb5035b509280b7701c2be30e73be6cc89cd",
+      "fileSize": 67
+    },
+    "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Libraries/Rust.cs": {
+      "key": "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Libraries/Rust.cs",
+      "notifiedAt": "2026-01-27T11:43:50.533Z",
+      "contentHash": "0d06267fbf0a6732bdc994fd0718a759c42a40c0c76e810f97d9e6b85b389129",
+      "fileSha": "d7e28a7e3e692d907c7ef4a83386afbedbc6625d",
+      "fileSize": 840
+    },
+    "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Libraries/Timer.cs": {
+      "key": "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Libraries/Timer.cs",
+      "notifiedAt": "2026-01-27T11:43:51.239Z",
+      "contentHash": "cced259f15da2a7e189d4cf05c9cb630f362428d334fa72c270893ea1b81daea",
+      "fileSize": 4677
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CarVendor.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CarVendor.cs",
+      "notifiedAt": "2026-01-27T11:43:53.722Z",
+      "contentHash": "5f5a1551fd6f36e3fc06ad2cbb0a3c307c6b239516ca77b693955aca5d733443",
+      "fileSha": "fbedffc47fc42d589a4c6802d9264f833d67a399",
+      "fileSize": 43329
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomDrop.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/CustomDrop.cs",
+      "notifiedAt": "2026-01-27T11:43:54.801Z",
+      "contentHash": "d7a6815a20b552e39a20957e6ff2246ebc8864f95dea1e38da834d2f9e5ed195",
+      "fileSha": "f6eed60be58fe3ebe180649079355510e8275d9a",
+      "fileSize": 21026
+    },
+    "https://raw.githubusercontent.com/K4TFJ/DynamicPVP/master/DynamicPVP.cs": {
+      "key": "https://raw.githubusercontent.com/K4TFJ/DynamicPVP/master/DynamicPVP.cs",
+      "notifiedAt": "2026-01-27T11:43:55.817Z",
+      "contentHash": "fe63ff77f10db8a914ec1aba8d8a35e966d9806362815452ccce7dd6e2ebe2f6",
+      "fileSize": 108343
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/universal/AdminLeaveJoin.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/universal/AdminLeaveJoin.cs",
+      "notifiedAt": "2026-01-27T11:43:57.004Z",
+      "contentHash": "6056a51e4366a17470a35b281a426327baa5e28a1ed98b54a2eb2f8555cf02bd",
+      "fileSha": "d1eabd6ad656d0f735d8989b55382b0740fda63d",
+      "fileSize": 7580
+    },
+    "https://raw.githubusercontent.com/fuflik52/rustt/main/CustomLoot.cs": {
+      "key": "https://raw.githubusercontent.com/fuflik52/rustt/main/CustomLoot.cs",
+      "notifiedAt": "2026-01-27T11:51:29.227Z",
+      "contentHash": "c02f3c2e0073c37e8f00a6a21403dfeb1cf68d99e07a6049a9a7b15fd5442a68",
+      "fileSize": 10331
+    },
+    "https://raw.githubusercontent.com/fuflik52/rustt/main/SimpleStackSize.cs": {
+      "key": "https://raw.githubusercontent.com/fuflik52/rustt/main/SimpleStackSize.cs",
+      "notifiedAt": "2026-01-27T11:51:30.356Z",
+      "contentHash": "3ab3b89da1e4bd8667248be3deecb986edf435b69b5127f775babea5a4cf36a3",
+      "fileSize": 4918
+    },
+    "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Extensions/ExtensionMethods.cs": {
+      "key": "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/Extensions/ExtensionMethods.cs",
+      "notifiedAt": "2026-01-27T11:51:31.360Z",
+      "contentHash": "825b1f4d6d174341d98cd0381425ff3ed28772784af720d0858905e8bb4fd8f6",
+      "fileSize": 6487
+    },
+    "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/RustPlugin.cs": {
+      "key": "https://raw.githubusercontent.com/puttydotexe/Carbon.Common/develop/src/Oxide/RustPlugin.cs",
+      "notifiedAt": "2026-01-27T11:51:32.144Z",
+      "contentHash": "38802b59278521312b3abf9e05fa378bb9a44784a46df87a6957c9fabc45d943",
+      "fileSize": 14214
+    },
+    "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/ImageLibrary.cs": {
+      "key": "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/ImageLibrary.cs",
+      "notifiedAt": "2026-01-27T11:51:32.896Z",
+      "contentHash": "1b22f13ddae8dec9cf77388bec07168f1091f48222f5199df58699772179190a",
+      "fileSize": 54466
+    },
+    "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/RaidableBases.cs": {
+      "key": "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/RaidableBases.cs",
+      "notifiedAt": "2026-01-27T11:51:35.744Z",
+      "contentHash": "8a73985f83a4998d783d8b2d6bd8a50025b73972db98020e5ac33bf9af6e437d",
+      "fileSize": 1282158
+    },
+    "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/Shop.cs": {
+      "key": "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/Shop.cs",
+      "notifiedAt": "2026-01-27T11:51:36.717Z",
+      "contentHash": "ba86ea6253ec47f0656d8b4e3967263c407f5b13985b0a87b72e103f033ebc6f",
+      "fileSize": 729397
     }
   },
   "version": 1,
-  "updatedAt": "2026-01-27T11:24:11.523Z"
+  "updatedAt": "2026-01-27T11:51:36.740Z"
 }
