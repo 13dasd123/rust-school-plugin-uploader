@@ -255083,8 +255083,292 @@
       "notifiedAt": "2026-01-27T11:51:36.717Z",
       "contentHash": "ba86ea6253ec47f0656d8b4e3967263c407f5b13985b0a87b72e103f033ebc6f",
       "fileSize": 729397
+    },
+    "https://raw.githubusercontent.com/VisEntities/CustomGatherRates/master/CustomGatherRates.cs": {
+      "key": "https://raw.githubusercontent.com/VisEntities/CustomGatherRates/master/CustomGatherRates.cs",
+      "notifiedAt": "2026-02-06T12:43:36.438Z",
+      "contentHash": "e77579f059de0cf157f001b7b674d5aae9345946b6dd3c4f38464fc301bc42fc",
+      "fileSha": "51862210fa1d5e1eb387ee401ff22c5b7f38235a",
+      "fileSize": 21673
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/RemoverTool.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/RemoverTool.cs",
+      "notifiedAt": "2026-02-06T12:43:37.134Z",
+      "contentHash": "b20e261821b2965c6675988fd5a32ebfa55436e47a35a4754ae08f04290ca939",
+      "fileSha": "bff46be0d431abb6b76d8746fa3c21dfdc139e91",
+      "fileSize": 16825
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/AntiLootDespawn.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/AntiLootDespawn.cs",
+      "notifiedAt": "2026-02-06T12:43:37.736Z",
+      "contentHash": "4c7ad6a3d9b744b9d7a2b4fbcc647c879f26d7147c23eb70e736a65dfca67a12",
+      "fileSha": "b742f12646f94a7a0480a29595d0da523481003f",
+      "fileSize": 4660
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Harvester.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/Harvester.cs",
+      "notifiedAt": "2026-02-06T12:43:38.505Z",
+      "contentHash": "6268f315b4921887649f5ac1faf8daac4c7aa7eec9b80e8684370cf43e6eb74d",
+      "fileSha": "f1ed66259770e2ec0d8dfcc1726ab036a3b9f500",
+      "fileSize": 40493
+    },
+    "https://raw.githubusercontent.com/CarbonCommunity/Carbon.Common/develop/src/Carbon/Modules/HammerModule/HammerModule.cs": {
+      "key": "https://raw.githubusercontent.com/CarbonCommunity/Carbon.Common/develop/src/Carbon/Modules/HammerModule/HammerModule.cs",
+      "notifiedAt": "2026-02-06T12:43:39.176Z",
+      "contentHash": "c07a0d6714e78684d33cade6043db0457bb0207dc30df02ce011167facb8954d",
+      "fileSha": "43f5ef23618ac6167161666a451a84dfabcc7bd0",
+      "fileSize": 37441
+    },
+    "https://raw.githubusercontent.com/VisEntities/RocketDamageModifier/master/RocketDamageModifier.cs": {
+      "key": "https://raw.githubusercontent.com/VisEntities/RocketDamageModifier/master/RocketDamageModifier.cs",
+      "notifiedAt": "2026-02-06T12:43:40.116Z",
+      "contentHash": "cc58e02b5117b735ff9093b45cdbea0a60256c7c1abdd4a08e86b9d4f7b88a8a",
+      "fileSize": 7490
+    },
+    "https://raw.githubusercontent.com/VisEntities/ForeverRipe/master/ForeverRipe.cs": {
+      "key": "https://raw.githubusercontent.com/VisEntities/ForeverRipe/master/ForeverRipe.cs",
+      "notifiedAt": "2026-02-06T12:43:40.735Z",
+      "contentHash": "da0ab37eeba29df037ba473acc499009ffc48de776fd42914ce010e602116e70",
+      "fileSha": "2167b3989e243df74d575220f08436f292c93dc5",
+      "fileSize": 4502
+    },
+    "https://raw.githubusercontent.com/Koltou/rust-donation-plugin-tip4serv/main/Tip4serv.cs": {
+      "key": "https://raw.githubusercontent.com/Koltou/rust-donation-plugin-tip4serv/main/Tip4serv.cs",
+      "notifiedAt": "2026-02-06T12:43:41.463Z",
+      "contentHash": "09b8322e422752601fc9f43e68d5729861ee7b1cb87c1cae5291292aae71c26d",
+      "fileSize": 10780
+    },
+    "https://raw.githubusercontent.com/HunterZ/rustmods/main/KillHeliVote.cs": {
+      "key": "https://raw.githubusercontent.com/HunterZ/rustmods/main/KillHeliVote.cs",
+      "notifiedAt": "2026-02-06T12:43:42.078Z",
+      "contentHash": "10cb839485813653c2019cb7f849cd723f5dd8ba6f64b12ff215a05560113098",
+      "fileSha": "5f6cd609d142746238f5b49552bb3deaf22bc618",
+      "fileSize": 22197
+    },
+    "https://raw.githubusercontent.com/mbedda/Oxide.Rust/develop/src/RustHooks.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/Oxide.Rust/develop/src/RustHooks.cs",
+      "notifiedAt": "2026-02-06T12:43:42.975Z",
+      "contentHash": "5875683739c0c06cb150d6a29b24d25cf935057e8a69e396e4866c6570afd1d8",
+      "fileSha": "d2d9374e31cab4982def46bb9045b4b646996181",
+      "fileSize": 24004
+    },
+    "https://raw.githubusercontent.com/mbedda/Oxide.Rust/develop/src/RustExtension.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/Oxide.Rust/develop/src/RustExtension.cs",
+      "notifiedAt": "2026-02-06T12:43:43.701Z",
+      "contentHash": "1c46b2b30700259d78096bc0036a9a9b52762b6af15fcb0614f2ca1729288162",
+      "fileSha": "41e79771c236138a0a75f658c757e3762196ba12",
+      "fileSize": 9287
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/PurifierConfig.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/PurifierConfig.cs",
+      "notifiedAt": "2026-02-06T12:43:44.571Z",
+      "contentHash": "85bb509d55c7f21eb756755f9688a6341b67eedbb699c2b15a0b2200341f0d87",
+      "fileSha": "bc2b9f60bc00cf34f9afa32230b397071bdc6ca3",
+      "fileSize": 2671
+    },
+    "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/AchievementsUltimate.cs": {
+      "key": "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/AchievementsUltimate.cs",
+      "notifiedAt": "2026-02-06T12:43:45.450Z",
+      "contentHash": "df9809af0f8602f85bcc30ea94e558e8dcadca2ca6743f42d30afd34df51eedc",
+      "fileSha": "3a933d7ed84e81c5ed24dfd813c36f57bd0f4e74",
+      "fileSize": 70425
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ArenaSlasher.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/ArenaSlasher.cs",
+      "notifiedAt": "2026-02-06T12:43:46.227Z",
+      "contentHash": "a2c586c749fbdd58218aeea81387a261464d8088bc1d3a92de58d176452a6f97",
+      "fileSha": "c8455c50593242bbff1abe8926d4ab516baa15c1",
+      "fileSize": 25259
+    },
+    "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/XDQuest.cs": {
+      "key": "https://raw.githubusercontent.com/baotien2019nb-afk/achive/main/XDQuest.cs",
+      "notifiedAt": "2026-02-06T12:43:47.154Z",
+      "contentHash": "3b2d29d733d334aa07f4a2bb30257d1e1d82ed6db3067136acf9769018323692",
+      "fileSha": "9b026da6e1f44eff97a5d686ce45bb9b66b2c694",
+      "fileSize": 139589
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PhoneCore/Code/3x4Multi/PhoneCoreMulti3x4.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/PhoneCore/Code/3x4Multi/PhoneCoreMulti3x4.cs",
+      "notifiedAt": "2026-02-06T12:43:47.871Z",
+      "contentHash": "8971b09a2872acbc14de16e5368d23d40bff01d7483dbac23c3280084160da0f",
+      "fileSha": "c674eea9109f046ae0c779110ccb3cae3db9b274",
+      "fileSize": 73152
+    },
+    "https://raw.githubusercontent.com/Rust-Haus/OpenAI-Rust-Plugin/main/OpenAI.cs": {
+      "key": "https://raw.githubusercontent.com/Rust-Haus/OpenAI-Rust-Plugin/main/OpenAI.cs",
+      "notifiedAt": "2026-02-06T12:47:21.076Z",
+      "contentHash": "ed53e5d9e11a4f8497d0ef6326c9fc837fb8010ac6dea1ca3a3d7af629536d2f",
+      "fileSize": 157325
+    },
+    "https://raw.githubusercontent.com/fuflik52/maptest/main/LiveMapPlayers.cs": {
+      "key": "https://raw.githubusercontent.com/fuflik52/maptest/main/LiveMapPlayers.cs",
+      "notifiedAt": "2026-02-06T12:47:22.501Z",
+      "contentHash": "f95946479e887f14d2b481be1515f196ae84c9b620ec64900df031b8f8fa2fa8",
+      "fileSize": 7545
+    },
+    "https://raw.githubusercontent.com/fuflik52/maptest/main/SimpleMapUrl.cs": {
+      "key": "https://raw.githubusercontent.com/fuflik52/maptest/main/SimpleMapUrl.cs",
+      "notifiedAt": "2026-02-06T12:47:23.460Z",
+      "contentHash": "99ab2414401d5b9350530fbf2ae5c96ecea97f8b5fde7e0adf5e96111b7c67e9",
+      "fileSize": 949
+    },
+    "https://raw.githubusercontent.com/mbedda/Oxide.Rust/develop/src/RustPlugin.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/Oxide.Rust/develop/src/RustPlugin.cs",
+      "notifiedAt": "2026-02-06T12:47:24.986Z",
+      "contentHash": "93e21661fe57546f85b70563f5ad77dcc3d3fd17837091d9b9bb6e33f8ecf9f5",
+      "fileSize": 10233
+    },
+    "https://raw.githubusercontent.com/mbedda/PirateNPCs/main/PirateNPC.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/PirateNPCs/main/PirateNPC.cs",
+      "notifiedAt": "2026-02-06T12:47:26.617Z",
+      "contentHash": "928a118ba797d4984dc23249f433dc9444ea3e40c15cf15ac1eee35c255534c5",
+      "fileSize": 301263
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/BloodUI/BloodUI.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/BloodUI/BloodUI.cs",
+      "notifiedAt": "2026-02-06T12:47:27.402Z",
+      "contentHash": "1816ca5c9658467dab39a59710943e93ee24f94a9aaeeb0f1f4ee28c030cfd04",
+      "fileSize": 19637
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/PrivateBuyday/PrivateBuyday.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/PrivateBuyday/PrivateBuyday.cs",
+      "notifiedAt": "2026-02-06T12:47:28.324Z",
+      "contentHash": "0d893cebc7749b0c257d02dbf4b1390ebe9b246982595bab97b6fea57a494958",
+      "fileSize": 19286
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/SimpleInfoNote/SimpleInfoNote.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/SimpleInfoNote/SimpleInfoNote.cs",
+      "notifiedAt": "2026-02-06T12:47:29.038Z",
+      "contentHash": "d2f9623c8768af01d0bf8fca71fed2adcc765296a1efcd372c352f072be55696",
+      "fileSize": 4073
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/TimedRewards/TimedRewards.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/TimedRewards/TimedRewards.cs",
+      "notifiedAt": "2026-02-06T12:47:29.785Z",
+      "contentHash": "20fe572a1dd338f967636a02092d289693eb806714df4625fba1afb3c0f8e5a9",
+      "fileSize": 28319
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/TradeUI/TradeUI.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/TradeUI/TradeUI.cs",
+      "notifiedAt": "2026-02-06T12:47:30.546Z",
+      "contentHash": "ac7e3222dbac3eb70eeb615f386e98abba38e5eb752652dfb983b8bcd7a14ea6",
+      "fileSize": 88869
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/VirtualSmelter/VirtualSmelter.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/VirtualSmelter/VirtualSmelter.cs",
+      "notifiedAt": "2026-02-06T12:47:31.596Z",
+      "contentHash": "79b8aa33fc50ba0c1bf934cd75f6471ab78b4ef97a4a1ecd29f83d6d54d27535",
+      "fileSize": 85787
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/AdmTools.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/AdmTools.cs",
+      "notifiedAt": "2026-02-06T12:47:32.279Z",
+      "contentHash": "c7d26895e6bd5772e62d1b29d141d4e869223817b984c3c61fbe4c96a73af0fd",
+      "fileSize": 17887
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/BradleyFromHell.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/BradleyFromHell.cs",
+      "notifiedAt": "2026-02-06T12:47:33.361Z",
+      "contentHash": "77664645ec8fab5aef6e41d9677f271235a7ebee97d0d728b86e3177be638460",
+      "fileSize": 76431
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/BuildManager.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/BuildManager.cs",
+      "notifiedAt": "2026-02-06T12:47:33.971Z",
+      "contentHash": "c35e7afc05679e2fc3c8854e98aeb6e42063df5b8d227c1c9cb6303e0c942224",
+      "fileSize": 58860
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/HeliFromHell.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/HeliFromHell.cs",
+      "notifiedAt": "2026-02-06T12:47:34.682Z",
+      "contentHash": "1fb2757f3ae9b30a5cbc91676df855a6324ff027710d0c7bafab68090ed4c170",
+      "fileSize": 71484
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/HomeCommander.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/HomeCommander.cs",
+      "notifiedAt": "2026-02-06T12:47:35.924Z",
+      "contentHash": "16ea153c9b637335a7aefbb8e98a999c5299b3cc0b2eee871cd103f27b2937bc",
+      "fileSize": 18443
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/InfinityVendor.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/InfinityVendor.cs",
+      "notifiedAt": "2026-02-06T12:47:36.602Z",
+      "contentHash": "97254791a3a70734f3fcfe09bdce11db8895c1c69eedf7fb04114e5aed6b0ed8",
+      "fileSize": 9671
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/InfoAPI.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/InfoAPI.cs",
+      "notifiedAt": "2026-02-06T12:47:37.290Z",
+      "contentHash": "1cd61c21d399bb682684e01daad53431c945bd8048a5271a987e5215f457f805",
+      "fileSize": 3116
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/LootBoxSpawner.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/LootBoxSpawner.cs",
+      "notifiedAt": "2026-02-06T12:47:38.061Z",
+      "contentHash": "f4f7b44cf9f5c691501a0abbcbd4404340a8b6fffe7c0805f00b4236476eb9d6",
+      "fileSize": 31031
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/OilrigFromHell.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/OilrigFromHell.cs",
+      "notifiedAt": "2026-02-06T12:47:38.836Z",
+      "contentHash": "9928a831e0b7e29aa57ffd36dd8bb011ce52370b82365554e86d89d7f23b9661",
+      "fileSize": 14505
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/ScavengerHunt.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/ScavengerHunt.cs",
+      "notifiedAt": "2026-02-06T12:47:39.541Z",
+      "contentHash": "7a02f04aa92799bb51fab5789b8c197aafd3a9ac0f65374bb3c41decd22cbd96",
+      "fileSize": 76815
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/TurretCommander.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/TurretCommander.cs",
+      "notifiedAt": "2026-02-06T12:47:40.314Z",
+      "contentHash": "d7034aa0e07a2f36322cf2f2c60a008b113c2fd6b50e2f535353b44fcfdf8a6a",
+      "fileSize": 33996
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/UsrTools.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/UsrTools.cs",
+      "notifiedAt": "2026-02-06T12:47:40.951Z",
+      "contentHash": "83ea5e8d5b278d4aea5d643286b2cb8c09af8705cd6e1e9ed5d7a6ffeec45a63",
+      "fileSize": 20192
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/VirtualQuarries.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/VirtualQuarries.cs",
+      "notifiedAt": "2026-02-06T12:47:41.772Z",
+      "contentHash": "afed70398f87db9aed5c8da6c6c3dcaed47ae2a5f0f489a829a73bbe86a843e9",
+      "fileSize": 62207
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/ZNExperience.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/ZNExperience.cs",
+      "notifiedAt": "2026-02-06T12:47:42.751Z",
+      "contentHash": "9845753398851b5ae648e7d179b9662bdb476dd0a73fbab7481cf27d96296cd1",
+      "fileSize": 148523
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/ZNFarming.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/ZNFarming.cs",
+      "notifiedAt": "2026-02-06T12:47:43.499Z",
+      "contentHash": "2a89bcf5236cad6043cdeec7961dba5cab7887fba55ba6eaa1b692670f7ff35c",
+      "fileSize": 31787
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/ZNQuests.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/ZNQuests.cs",
+      "notifiedAt": "2026-02-06T12:47:44.259Z",
+      "contentHash": "3857fe4a6aacf186788245507a74328a4c4c445148e1332ebb0a2ef1e857f3ba",
+      "fileSize": 107018
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/ZNTitleManager.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/ZNTitleManager.cs",
+      "notifiedAt": "2026-02-06T12:47:45.182Z",
+      "contentHash": "4622427eb82af0edf2dfbe56d491f9e22ffa7d5f28313db5c9b39311773fc55b",
+      "fileSize": 41319
+    },
+    "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/ZombieHunt.cs": {
+      "key": "https://raw.githubusercontent.com/mbedda/rust-plugins/main/x_UnpolishedPlugins/ZombieHunt.cs",
+      "notifiedAt": "2026-02-06T12:47:45.912Z",
+      "contentHash": "b209de3594d883e606a657c7ceaab178fee1162570e7c1efe895efb85e6bfc57",
+      "fileSize": 89416
     }
   },
   "version": 1,
-  "updatedAt": "2026-02-06T11:57:15.152Z"
+  "updatedAt": "2026-02-06T12:47:45.934Z"
 }
