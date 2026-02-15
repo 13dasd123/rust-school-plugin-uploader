@@ -267984,8 +267984,680 @@
       "notifiedAt": "2026-02-15T11:01:59.916Z",
       "contentHash": "35730d70143ce1ae02deef89c605fb2f5773c703a8d749d1af9cd9dc55c1a510",
       "fileSize": 10907
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LifeSupport/LifeSupport.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LifeSupport/LifeSupport.cs",
+      "notifiedAt": "2026-02-15T11:25:07.941Z",
+      "contentHash": "7c17f2af077dac02a8eb235c6daefaccd31154c50e3e395726da12c71afbf920",
+      "fileSize": 21022
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LifeVest/LifeVest.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LifeVest/LifeVest.cs",
+      "notifiedAt": "2026-02-15T11:25:08.847Z",
+      "contentHash": "42987cc56f385014fb89f2a00b70310ed599d5c6124f74641fbe4c4c1102593b",
+      "fileSize": 14341
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LightControl/LightControl.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LightControl/LightControl.cs",
+      "notifiedAt": "2026-02-15T11:25:09.612Z",
+      "contentHash": "d27090846d66ab15f4069d48cbf919571db332691190f4298610596b30962349",
+      "fileSize": 4226
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LighthouseBeacon/LighthouseBeacon.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LighthouseBeacon/LighthouseBeacon.cs",
+      "notifiedAt": "2026-02-15T11:25:10.354Z",
+      "contentHash": "c9987541405ae1b0062c2cfb17fc1be62632292d7f4d7ba4e785e8478363b8c4",
+      "fileSize": 2910
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LightsOn/LightsOn.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LightsOn/LightsOn.cs",
+      "notifiedAt": "2026-02-15T11:25:11.160Z",
+      "contentHash": "93331c6332636bf779b40bcc2664f4401de67fb71b50d90f6a975855b1711970",
+      "fileSize": 93090
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LimitRCON/LimitRCON.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LimitRCON/LimitRCON.cs",
+      "notifiedAt": "2026-02-15T11:25:11.923Z",
+      "contentHash": "8b7cc3c45e0c7686a60bbad9e15aac0abc977f8ec8154d2040d3ed0f66d80e64",
+      "fileSize": 3121
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LimitedAdmin/LimitedAdmin.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LimitedAdmin/LimitedAdmin.cs",
+      "notifiedAt": "2026-02-15T11:25:12.791Z",
+      "contentHash": "d6d0cf3d7cfd4cd8bcb87982b15e1c819af0dc9735d79a9eda6ba6e47fde25c7",
+      "fileSize": 18800
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LimitedDroneHeight/LimitedDroneHeight.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LimitedDroneHeight/LimitedDroneHeight.cs",
+      "notifiedAt": "2026-02-15T11:25:13.583Z",
+      "contentHash": "a85590c6ac5174fa0d6d85557ff529b4d85abebfd7b05b742640e0955d57eccd",
+      "fileSize": 13255
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LimitedDroneRange/LimitedDroneRange.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LimitedDroneRange/LimitedDroneRange.cs",
+      "notifiedAt": "2026-02-15T11:25:15.823Z",
+      "contentHash": "f437e398093ec73f32a8eab9c4a59fb8994eb4a3ca7236b371915939db3ff1ab",
+      "fileSize": 21864
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LimitedLadders/LimitedLadders.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LimitedLadders/LimitedLadders.cs",
+      "notifiedAt": "2026-02-15T11:25:16.504Z",
+      "contentHash": "3e3ebb787a8e710d65ea703264a3020273145ebf331e84bb0c945131168d26ce",
+      "fileSize": 665
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LimitedSmokeGrenade/LimitedSmokeGrenade.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LimitedSmokeGrenade/LimitedSmokeGrenade.cs",
+      "notifiedAt": "2026-02-15T11:25:17.237Z",
+      "contentHash": "274f1249cde4b0809d6ee211906454fc26a3042bd985529554af5e0d84376aaa",
+      "fileSize": 1971
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LoadingMessages/LoadingMessages.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LoadingMessages/LoadingMessages.cs",
+      "notifiedAt": "2026-02-15T11:25:17.955Z",
+      "contentHash": "3d3d6af991175069f71e2e352e4a7987ee71b7f5b21f22642a000ae1a027df44",
+      "fileSize": 9996
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/Loadoutless/Loadoutless.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/Loadoutless/Loadoutless.cs",
+      "notifiedAt": "2026-02-15T11:25:18.672Z",
+      "contentHash": "33267f0bec112a322fa60dc52f32b6c2efd6406b0198641e6f7c1690799fd6e8",
+      "fileSize": 39406
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LocalTimeDamageControl/LocalTimeDamageControl.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LocalTimeDamageControl/LocalTimeDamageControl.cs",
+      "notifiedAt": "2026-02-15T11:25:19.513Z",
+      "contentHash": "4fdbeec1a80084ee0defb9e92c3e81f48a71c7f240ed5b8ecc7676e64c7b20fd",
+      "fileSize": 17255
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/Localize/Localize.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/Localize/Localize.cs",
+      "notifiedAt": "2026-02-15T11:25:20.264Z",
+      "contentHash": "32da62bb60370d10eac0ac648aaca13d7aa39d44964c1c9299f82d7376cf66f9",
+      "fileSize": 8058
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LockMaster/LockMaster.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LockMaster/LockMaster.cs",
+      "notifiedAt": "2026-02-15T11:25:21.171Z",
+      "contentHash": "4592913c6b9e090d907f26c3d35ead9e2706d2da03b4165270ca2bd8ce5a9d05",
+      "fileSize": 36350
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LockableShutters/LockableShutters.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LockableShutters/LockableShutters.cs",
+      "notifiedAt": "2026-02-15T11:25:22.001Z",
+      "contentHash": "6405e2e5dcd394aa396d283437379f061f921913e3c6802fd2909c14e0f9ab00",
+      "fileSize": 1536
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LockedCrateTimer/LockedCrateTimer.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LockedCrateTimer/LockedCrateTimer.cs",
+      "notifiedAt": "2026-02-15T11:25:22.658Z",
+      "contentHash": "c442e3483449c0afdc44de06083d710729d67c4b4317dbb5dc83239d039b508d",
+      "fileSize": 4241
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/Logger/Logger.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/Logger/Logger.cs",
+      "notifiedAt": "2026-02-15T11:25:23.592Z",
+      "contentHash": "663a0e931f1ba0de276aa76a1c4f32b9759038f1e45ae2b0e0e7b9aa02195435",
+      "fileSize": 12769
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootBouncer/LootBouncer.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootBouncer/LootBouncer.cs",
+      "notifiedAt": "2026-02-15T11:25:24.454Z",
+      "contentHash": "3a6810eafc54a6feb707c8f7745260362d3c99a71ddb1de02e5075e0db3e899a",
+      "fileSize": 16660
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootChecker/LootChecker.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootChecker/LootChecker.cs",
+      "notifiedAt": "2026-02-15T11:25:25.167Z",
+      "contentHash": "6738280b471808edcffe66e001a157d42564cd8c8887a42554d45d0309b548fd",
+      "fileSize": 8708
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootDefender/LootDefender.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootDefender/LootDefender.cs",
+      "notifiedAt": "2026-02-15T11:25:25.909Z",
+      "contentHash": "c4c7b36ad1bdea05f9ede7995af8f022704546cb3587edcaed5227b4a9620b69",
+      "fileSize": 138514
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootDespawn/LootDespawn.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootDespawn/LootDespawn.cs",
+      "notifiedAt": "2026-02-15T11:25:26.684Z",
+      "contentHash": "f4023bc80889f69744fa67010dcd060bb1e44e3c0c2a8b405eaa4454314fab12",
+      "fileSize": 2931
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootHacker/LootHacker.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootHacker/LootHacker.cs",
+      "notifiedAt": "2026-02-15T11:25:27.588Z",
+      "contentHash": "efa9d844b5e57aca2c11cd2b44fbaff829bc0c5d10f7db3c2b811550798f1745",
+      "fileSize": 6445
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootLogs/LootLogs.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootLogs/LootLogs.cs",
+      "notifiedAt": "2026-02-15T11:25:28.561Z",
+      "contentHash": "ca25e756e07ae4d1baf21b033135f763f7ea5c253e3f236facb9794206d3ae5d",
+      "fileSize": 12391
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootMultiplier/LootMultiplier.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootMultiplier/LootMultiplier.cs",
+      "notifiedAt": "2026-02-15T11:25:29.432Z",
+      "contentHash": "99781847ce0e6a8bb4ea049d1b59832ffb474d28af74f3b2b1afb3e2b56009f9",
+      "fileSize": 9518
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootPlus/LootPlus.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootPlus/LootPlus.cs",
+      "notifiedAt": "2026-02-15T11:25:30.254Z",
+      "contentHash": "14cbccfd293b4ced6a1671fe9c4d8e07d1a0f974e09070729b83e85a4ae7038d",
+      "fileSize": 54769
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootProtection/LootProtection.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootProtection/LootProtection.cs",
+      "notifiedAt": "2026-02-15T11:25:31.088Z",
+      "contentHash": "4ba34fea7d73188f68738b1403d8455c3d7b5cbe09ca9fb6ae7243cdc9b6e1e2",
+      "fileSize": 3208
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootScaling/LootScaling.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootScaling/LootScaling.cs",
+      "notifiedAt": "2026-02-15T11:25:31.948Z",
+      "contentHash": "333739b9a2a8d3ec41c4622be094317f627b21a2a08524c3b61d264763f916f4",
+      "fileSize": 3291
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootScanner/LootScanner.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootScanner/LootScanner.cs",
+      "notifiedAt": "2026-02-15T11:25:32.821Z",
+      "contentHash": "978f5a1602051a1471f820ace2cd9515537e4c81d15081fcd9ed992886aedd59",
+      "fileSize": 28032
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootSnitch/LootSnitch.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootSnitch/LootSnitch.cs",
+      "notifiedAt": "2026-02-15T11:25:33.522Z",
+      "contentHash": "673ed19cc8b32a99d716548c7ac44f6c5727576d8606991105fef90378a12168",
+      "fileSize": 5372
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootSpawnpoints/LootSpawnpoints.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LootSpawnpoints/LootSpawnpoints.cs",
+      "notifiedAt": "2026-02-15T11:25:34.583Z",
+      "contentHash": "8e80e87d252ef2aa80dc69731642b778940ebfe4ab8035a917ba7cba38414ceb",
+      "fileSize": 7444
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/Lottery/Lottery.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/Lottery/Lottery.cs",
+      "notifiedAt": "2026-02-15T11:25:35.333Z",
+      "contentHash": "84991c1d82327ee4765c32318be59d1646e7ca17e853713b80c05aff0d4cc280",
+      "fileSize": 77792
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LustyMap/LustyMap.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/L/LustyMap/LustyMap.cs",
+      "notifiedAt": "2026-02-15T11:25:36.439Z",
+      "contentHash": "ea5ad1b29a7af0e4d76bce5830e75cd944a2cd459184e6af3421e55ebbe697e9",
+      "fileSize": 110713
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MLRSFixer/MLRSFixer.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MLRSFixer/MLRSFixer.cs",
+      "notifiedAt": "2026-02-15T11:25:37.216Z",
+      "contentHash": "030987eaf10577a327b311066e3b8ac39849e2813d1403b61d0fb972a428a4b8",
+      "fileSize": 1869
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MLRSHellfire/MLRSHellfire.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MLRSHellfire/MLRSHellfire.cs",
+      "notifiedAt": "2026-02-15T11:25:38.215Z",
+      "contentHash": "b38953ed605ae78f50415c0da4083158b2d8dd938f46db040efe88e01d649234",
+      "fileSize": 52427
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MLRSWipeBlock/MLRSWipeBlock.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MLRSWipeBlock/MLRSWipeBlock.cs",
+      "notifiedAt": "2026-02-15T11:25:39.130Z",
+      "contentHash": "80cac4292cc7df0e02a45df437fa0d5d66f9eb0fd74f91ef51c5bbb96211c7b8",
+      "fileSize": 3151
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagazinBoost/MagazinBoost.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagazinBoost/MagazinBoost.cs",
+      "notifiedAt": "2026-02-15T11:25:40.139Z",
+      "contentHash": "5ce38cd733a6a4e1314678509c7f3e5c6b3c02ebda8d5581ffe315f5407236dc",
+      "fileSize": 16661
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicAirStrikePanel/MagicAirStrikePanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicAirStrikePanel/MagicAirStrikePanel.cs",
+      "notifiedAt": "2026-02-15T11:25:40.895Z",
+      "contentHash": "ed2f8a0bdbf8635c2914992827a2eaf6124e3348e5c09d2123962ed82bc9d0a1",
+      "fileSize": 9114
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicAirdropPanel/MagicAirdropPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicAirdropPanel/MagicAirdropPanel.cs",
+      "notifiedAt": "2026-02-15T11:25:41.683Z",
+      "contentHash": "b297f700ff28a9a9050505fb001c4224ed2b9e3d96cc065563d7eff615c8db8f",
+      "fileSize": 9253
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicArea/MagicArea.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicArea/MagicArea.cs",
+      "notifiedAt": "2026-02-15T11:25:42.451Z",
+      "contentHash": "73b70e273f1c7aec284969833ac2cfba34ce0be753eb268993e3744ddbded03a",
+      "fileSize": 20173
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicBradleyPanel/MagicBradleyPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicBradleyPanel/MagicBradleyPanel.cs",
+      "notifiedAt": "2026-02-15T11:25:43.284Z",
+      "contentHash": "4e4d0a03c1efdc251f799f1539731727f55c62b990b7aaea6a22cfe0a45b1c03",
+      "fileSize": 8787
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCargoShipPanel/MagicCargoShipPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCargoShipPanel/MagicCargoShipPanel.cs",
+      "notifiedAt": "2026-02-15T11:25:44.026Z",
+      "contentHash": "59beb1c88d78018284465bacc1c08e1eda804292abbe8b0d292bb4088781d5f2",
+      "fileSize": 8962
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCarpet/MagicCarpet.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCarpet/MagicCarpet.cs",
+      "notifiedAt": "2026-02-15T11:25:44.951Z",
+      "contentHash": "47ec2d85f4b8b4155724075b86728a0d3b0a957ff210bfb3e1e1e62b99dc1fe5",
+      "fileSize": 5696
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCashSystemPanel/MagicCashSystemPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCashSystemPanel/MagicCashSystemPanel.cs",
+      "notifiedAt": "2026-02-15T11:25:45.683Z",
+      "contentHash": "83f227a06e236d21fe2753baef0b36c2d74ab74c9cf53024ef30a1c026c0cd7e",
+      "fileSize": 10943
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCh47Panel/MagicCh47Panel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCh47Panel/MagicCh47Panel.cs",
+      "notifiedAt": "2026-02-15T11:25:46.457Z",
+      "contentHash": "08c1cf7e536c47599d346bf5e3554dab79a479b6fa9421db2b7c70dca302e3a9",
+      "fileSize": 8704
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicChat/MagicChat.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicChat/MagicChat.cs",
+      "notifiedAt": "2026-02-15T11:25:47.227Z",
+      "contentHash": "0f77c1914a86394dd8a2ebc5dbec9918199b6d42bb323cb93c78a83161ce2bfb",
+      "fileSize": 31111
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicClockPanel/MagicClockPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicClockPanel/MagicClockPanel.cs",
+      "notifiedAt": "2026-02-15T11:25:49.433Z",
+      "contentHash": "489c01b147dd32d1231206e825806b4da78dca294763fd4bec803a83c75352de",
+      "fileSize": 8630
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCoordinatesPanel/MagicCoordinatesPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCoordinatesPanel/MagicCoordinatesPanel.cs",
+      "notifiedAt": "2026-02-15T11:25:50.654Z",
+      "contentHash": "b289f4cc61dd56f63a104ab226f2b100e1987358f04c9b4fb7b80950d1633100",
+      "fileSize": 10615
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCraft/MagicCraft.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCraft/MagicCraft.cs",
+      "notifiedAt": "2026-02-15T11:25:51.474Z",
+      "contentHash": "429a51af905c85d146d5836fe7173b8fbb7aacd168f1da070a4a4dc9bfb3f6ac",
+      "fileSize": 7752
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCrashPanel/MagicCrashPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicCrashPanel/MagicCrashPanel.cs",
+      "notifiedAt": "2026-02-15T11:25:52.266Z",
+      "contentHash": "5d521db0e6d5ac25c605c785a6dd0e78d6fe68fb2c96b8a3dd96ab0c00219d68",
+      "fileSize": 9688
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicDangerousTreasuresPanel/MagicDangerousTreasuresPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicDangerousTreasuresPanel/MagicDangerousTreasuresPanel.cs",
+      "notifiedAt": "2026-02-15T11:25:53.233Z",
+      "contentHash": "1721f09fda637fcfa87beffc7f7114abf23a86e05e6097f2d36699574d41adf0",
+      "fileSize": 9275
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicDeathNotesPanel/MagicDeathNotesPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicDeathNotesPanel/MagicDeathNotesPanel.cs",
+      "notifiedAt": "2026-02-15T11:25:53.883Z",
+      "contentHash": "392ae20581a32649df233d8b1dace89c5b56e8da4f8667e8ebb601cd6a68c196",
+      "fileSize": 10407
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicDescription/MagicDescription.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicDescription/MagicDescription.cs",
+      "notifiedAt": "2026-02-15T11:25:55.821Z",
+      "contentHash": "e9c5a37922735aaa6e5361fe7d774b1f49dc220385c1441843481146491abf36",
+      "fileSize": 6997
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicDirectionPanel/MagicDirectionPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicDirectionPanel/MagicDirectionPanel.cs",
+      "notifiedAt": "2026-02-15T11:25:57.856Z",
+      "contentHash": "b2c65200029e99765133bb75a8788a592d3b26d478bc79229e4316ff3d8341fd",
+      "fileSize": 13280
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicEarthquakePanel/MagicEarthquakePanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicEarthquakePanel/MagicEarthquakePanel.cs",
+      "notifiedAt": "2026-02-15T11:26:01.896Z",
+      "contentHash": "da55d819da6dfe50ca35c18db7aa0a33a7eb80f291a539b56bd73a211ed747ce",
+      "fileSize": 8003
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicEasterPanel/MagicEasterPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicEasterPanel/MagicEasterPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:02.588Z",
+      "contentHash": "6a8f5a59e45fb5186a3a7b51c479a215d7d5da642e6223b75ff0955f85ee1a06",
+      "fileSize": 8783
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicEconomicsPanel/MagicEconomicsPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicEconomicsPanel/MagicEconomicsPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:03.834Z",
+      "contentHash": "03024ca23bf92224b57388e9fad4796a0b25df2aa79c1a35f6ec4e8b1897ba06",
+      "fileSize": 8067
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicFpsPanel/MagicFpsPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicFpsPanel/MagicFpsPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:06.279Z",
+      "contentHash": "3153b5cd42610805ed8aa250c011758671e3c24eb001c9ba7556d9fb58312e9f",
+      "fileSize": 8787
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicGatherPanel/MagicGatherPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicGatherPanel/MagicGatherPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:07.977Z",
+      "contentHash": "c19327a73a7d99da5e6cad7402f56bba975fe94e80038350ba8a24a83c4347d6",
+      "fileSize": 9514
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicGridPanel/MagicGridPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicGridPanel/MagicGridPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:09.867Z",
+      "contentHash": "6f6fdfbc16463a603953b52762254d7d5a1b491f9e30ead866d802c63ef18141",
+      "fileSize": 9476
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicHalloweenPanel/MagicHalloweenPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicHalloweenPanel/MagicHalloweenPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:11.781Z",
+      "contentHash": "2285132b00ff7214806da1a842a5fff60b0916d50543285c888bb5f4ccf81d6a",
+      "fileSize": 8730
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicHeliPanel/MagicHeliPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicHeliPanel/MagicHeliPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:13.744Z",
+      "contentHash": "50f83b14c001d0f620d35ee789b853f4d4450f400a1b531ac5f629e713f2d855",
+      "fileSize": 8959
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicHostilePanel/MagicHostilePanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicHostilePanel/MagicHostilePanel.cs",
+      "notifiedAt": "2026-02-15T11:26:17.239Z",
+      "contentHash": "e7f42f4a820268a1692d2f6ebf5e22403750f5a4a852f72083306f00543b3483",
+      "fileSize": 12663
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicImagesPanel/MagicImagesPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicImagesPanel/MagicImagesPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:18.043Z",
+      "contentHash": "e41f3b63ca5da3d14e287e36cd6d8deba16a9c4365c7d3b74d480b25b44c6a9a",
+      "fileSize": 8002
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicJoiningPanel/MagicJoiningPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicJoiningPanel/MagicJoiningPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:20.327Z",
+      "contentHash": "84bfee87b3a57356d3afc315ef217d9604730c556d808367e7d9ca7d5927a2e7",
+      "fileSize": 9236
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicLastWipePanel/MagicLastWipePanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicLastWipePanel/MagicLastWipePanel.cs",
+      "notifiedAt": "2026-02-15T11:26:23.623Z",
+      "contentHash": "5b820103b9a0a08dc60b37cac83282181d643903576fc540fb7b22142adc84d7",
+      "fileSize": 8133
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicLoot/MagicLoot.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicLoot/MagicLoot.cs",
+      "notifiedAt": "2026-02-15T11:26:24.433Z",
+      "contentHash": "2d346825c2522dfaf31ad212704c2eabb26941c43fdc66a489cf38120cb57dc0",
+      "fileSize": 31259
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicMessagePanel/MagicMessagePanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicMessagePanel/MagicMessagePanel.cs",
+      "notifiedAt": "2026-02-15T11:26:25.763Z",
+      "contentHash": "19a63a131ef1acba5684fc5628dee3c981742958eebbafa2bdb92b716168ff54",
+      "fileSize": 15075
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicOilRigPanel/MagicOilRigPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicOilRigPanel/MagicOilRigPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:28.286Z",
+      "contentHash": "211bf3d952b8344dac5e1be09190827cc80c3c7666371f1a323912d5e5462c78",
+      "fileSize": 14103
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicPanel/MagicPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicPanel/MagicPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:29.884Z",
+      "contentHash": "9d409ed537e34b96f715fa920ad3601964a318c73bda379b6e9b7e8830e39b45",
+      "fileSize": 47170
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicParatroopersPanel/MagicParatroopersPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicParatroopersPanel/MagicParatroopersPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:31.875Z",
+      "contentHash": "95bcd47bf8068e9d55a0d573c90fa8f8113842a67b8df56bb64906203b8c515a",
+      "fileSize": 9163
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicPingPanel/MagicPingPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicPingPanel/MagicPingPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:33.987Z",
+      "contentHash": "90dd139b129282a0f73120e28db30f27983c9d0084eaa47bf707602aad63d590",
+      "fileSize": 11942
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicPlayersPanel/MagicPlayersPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicPlayersPanel/MagicPlayersPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:35.911Z",
+      "contentHash": "0b60af0216599f0b11324afcb89571792cf2e0e752bd73ae1da14f94ddfa4630",
+      "fileSize": 8915
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicQueuePanel/MagicQueuePanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicQueuePanel/MagicQueuePanel.cs",
+      "notifiedAt": "2026-02-15T11:26:38.062Z",
+      "contentHash": "b639f602ef27ac1cbc6f12e822b39ddbcb3bc5ddd30a3a4c169e2e4a41479111",
+      "fileSize": 9208
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicRadiationInfoPanel/MagicRadiationInfoPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicRadiationInfoPanel/MagicRadiationInfoPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:39.785Z",
+      "contentHash": "64d87a9ee13e33959bb32f078e7482c0bc6b762314780b4c41580facfd821b1d",
+      "fileSize": 12259
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicRadiationPanel/MagicRadiationPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicRadiationPanel/MagicRadiationPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:41.784Z",
+      "contentHash": "dc5149a907cce18b2a6847ec6a323c0ea180520889e23c437cafdee099d5424c",
+      "fileSize": 8137
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicRainOfFirePanel/MagicRainOfFirePanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicRainOfFirePanel/MagicRainOfFirePanel.cs",
+      "notifiedAt": "2026-02-15T11:26:43.969Z",
+      "contentHash": "6377a497f6f39e0bcba60f118592e9db4c38cf733db1ae06cb8d7ec90e69a172",
+      "fileSize": 8966
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicSantaPanel/MagicSantaPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicSantaPanel/MagicSantaPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:45.736Z",
+      "contentHash": "80296635268bbbadac35911304342c8b929d9eccd353f86baf5179e66711bcd4",
+      "fileSize": 8768
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicServerRewardsPanel/MagicServerRewardsPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicServerRewardsPanel/MagicServerRewardsPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:47.812Z",
+      "contentHash": "8b62de21c40f111ac243f7014ec859e555b8d22d5b300a34c8dbbdc199dcaf02",
+      "fileSize": 11264
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicServerTimePanel/MagicServerTimePanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicServerTimePanel/MagicServerTimePanel.cs",
+      "notifiedAt": "2026-02-15T11:26:49.714Z",
+      "contentHash": "17f6d81cb3c93c8d01045258f10772ab1a1e041726d9e7d6394f191bfde1e9e7",
+      "fileSize": 9034
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicSets/MagicSets.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicSets/MagicSets.cs",
+      "notifiedAt": "2026-02-15T11:26:51.772Z",
+      "contentHash": "2f1f921d4c9c8ae18b00d194001e1e3cffaf9c0ab79f1352f3725079d3ca6295",
+      "fileSize": 25342
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicSleepersPanel/MagicSleepersPanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicSleepersPanel/MagicSleepersPanel.cs",
+      "notifiedAt": "2026-02-15T11:26:54.102Z",
+      "contentHash": "85f9e36e0bd8040c6879fc947a1148a0d8e6cfe956850f7bec617524642c479d",
+      "fileSize": 8576
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicTeleportation/MagicTeleportation.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicTeleportation/MagicTeleportation.cs",
+      "notifiedAt": "2026-02-15T11:26:55.822Z",
+      "contentHash": "40f315511a5c6cdc68ac05f71eb1a8f739fc4b6864c721ae3d43a3f30328ae8c",
+      "fileSize": 63976
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicTools/MagicTools.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicTools/MagicTools.cs",
+      "notifiedAt": "2026-02-15T11:26:57.856Z",
+      "contentHash": "1094536ca2dae55346fd0ed54310245c34ad7962090df5454bec9f6bce5faf48",
+      "fileSize": 4661
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicVariables/MagicVariables.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicVariables/MagicVariables.cs",
+      "notifiedAt": "2026-02-15T11:26:59.755Z",
+      "contentHash": "781a360fdd98684a5d8339850165c4933ce4476e2bdcc0a5c481bbef59611a8f",
+      "fileSize": 10691
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicWipePanel/MagicWipePanel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MagicWipePanel/MagicWipePanel.cs",
+      "notifiedAt": "2026-02-15T11:27:01.844Z",
+      "contentHash": "9a7e89cc08a7b8d34646c3ca085033d96c0492daae3a908e8848825bd02b7e64",
+      "fileSize": 9862
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/ManageMini/ManageMini.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/ManageMini/ManageMini.cs",
+      "notifiedAt": "2026-02-15T11:27:03.981Z",
+      "contentHash": "19534ff37db8ae3e890fff34f9de67745367f95d5735bb422b5cc583717d0dab",
+      "fileSize": 64911
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapBlock/MapBlock.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapBlock/MapBlock.cs",
+      "notifiedAt": "2026-02-15T11:27:05.770Z",
+      "contentHash": "14b7de2b60698922a283040325874f2b8152efeaa4c2303e7d1624a9c0a8b88e",
+      "fileSize": 918
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapMyAirDrop/MapMyAirDrop.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapMyAirDrop/MapMyAirDrop.cs",
+      "notifiedAt": "2026-02-15T11:27:07.810Z",
+      "contentHash": "77c88932867bc34ad51ad0ffb2e59a008df2e45f083c19c75316307bcb75fc27",
+      "fileSize": 25480
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapMyDeath/MapMyDeath.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapMyDeath/MapMyDeath.cs",
+      "notifiedAt": "2026-02-15T11:27:09.799Z",
+      "contentHash": "df0829f9c8ee4f2690ecb6961914f7cc85f683bf3a7544629afd7c2eb56a05b7",
+      "fileSize": 11816
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapMyPatrol/MapMyPatrol.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapMyPatrol/MapMyPatrol.cs",
+      "notifiedAt": "2026-02-15T11:27:11.932Z",
+      "contentHash": "d2febb5930e63295c4e9b8dd0141db6a7118a50fdde287d71fcff9e386c252c0",
+      "fileSize": 17505
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapMyPlayers/MapMyPlayers.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapMyPlayers/MapMyPlayers.cs",
+      "notifiedAt": "2026-02-15T11:27:14.026Z",
+      "contentHash": "1c605a6366467a757eb104c11332d549dfe456dbabb235badb6ea12ed317ecdb",
+      "fileSize": 12233
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapNameChanger/MapNameChanger.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapNameChanger/MapNameChanger.cs",
+      "notifiedAt": "2026-02-15T11:27:15.926Z",
+      "contentHash": "693c44f2e943679da1b3a4470449f6846fc6c6fbf43a312b97972d0e22b6a752",
+      "fileSize": 3557
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapNoteTeleport/MapNoteTeleport.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MapNoteTeleport/MapNoteTeleport.cs",
+      "notifiedAt": "2026-02-15T11:27:17.923Z",
+      "contentHash": "560052dadb2e535475ea0f21003299784d1d4672eacbbc0d7834113705bd841c",
+      "fileSize": 18111
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MarkerDistance/MarkerDistance.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MarkerDistance/MarkerDistance.cs",
+      "notifiedAt": "2026-02-15T11:27:19.803Z",
+      "contentHash": "86753691833fb5afa73e9f003cc1e35a045e816eff270c7035de10bff02793d7",
+      "fileSize": 6542
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MarkerManager/MarkerManager.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MarkerManager/MarkerManager.cs",
+      "notifiedAt": "2026-02-15T11:27:21.726Z",
+      "contentHash": "8d084f0a73358bf8adc4f95c36b1806cc7c438a55abc1c6e27a0f8a212afd100",
+      "fileSize": 16067
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/Martyrdom/Martyrdom.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/Martyrdom/Martyrdom.cs",
+      "notifiedAt": "2026-02-15T11:27:24.208Z",
+      "contentHash": "e8d667a00538b3d0646f7f52dd214d68d84b4924dc974521d8ef23491ead1d16",
+      "fileSize": 11001
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MassGenocide/MassGenocide.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MassGenocide/MassGenocide.cs",
+      "notifiedAt": "2026-02-15T11:27:25.879Z",
+      "contentHash": "70cb63420f33503d2be236a70d9d76e776d88d42ce50994c7a2844a8177f13e7",
+      "fileSize": 2433
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MasterKey/MasterKey.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MasterKey/MasterKey.cs",
+      "notifiedAt": "2026-02-15T11:27:27.839Z",
+      "contentHash": "0f465149d7e83ea78b3b85b2f711e4b652d1f98bf347429bd3c0206db523ffbb",
+      "fileSize": 11948
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MasterLock/MasterLock.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MasterLock/MasterLock.cs",
+      "notifiedAt": "2026-02-15T11:27:30.014Z",
+      "contentHash": "94419a0628d3bab969c4372c33ee07021d4a514be4b37fa129ad1009313b5dcf",
+      "fileSize": 21965
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MasterSwitch/MasterSwitch.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MasterSwitch/MasterSwitch.cs",
+      "notifiedAt": "2026-02-15T11:27:31.876Z",
+      "contentHash": "d26154809d12adcb47aa3615f7b665a8199d9d64edd21c2b26ecb39864aca12c",
+      "fileSize": 22446
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MaxCupboardAuths/MaxCupboardAuths.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MaxCupboardAuths/MaxCupboardAuths.cs",
+      "notifiedAt": "2026-02-15T11:27:33.786Z",
+      "contentHash": "e1b48f0dbbaa4e110e2e32e6a4e27cf0e3fee8c0e1bbcc2b8e72ab3a12f926be",
+      "fileSize": 10743
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MazeGen/MazeGen.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MazeGen/MazeGen.cs",
+      "notifiedAt": "2026-02-15T11:27:35.894Z",
+      "contentHash": "2fbaf4ac99fdf04f58bc2f6d4a629437c4be6a557938ee6fc31f868dd645e037",
+      "fileSize": 18175
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MedicRevive/MedicRevive.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MedicRevive/MedicRevive.cs",
+      "notifiedAt": "2026-02-15T11:27:37.760Z",
+      "contentHash": "e6bf3676ac783cb60d20bfb535ad1aeb8a7caa0cfa3926f5427a6fe329b901da",
+      "fileSize": 712
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MedicalToolTweaker/MedicalToolTweaker.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MedicalToolTweaker/MedicalToolTweaker.cs",
+      "notifiedAt": "2026-02-15T11:27:39.781Z",
+      "contentHash": "f530aa2f04e6ac4b9e4a79431da3a16e951472d89921df8e620a8583e8ca1998",
+      "fileSize": 3335
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MegaDrones/MegaDrones.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MegaDrones/MegaDrones.cs",
+      "notifiedAt": "2026-02-15T11:27:41.973Z",
+      "contentHash": "a724e8b7773513aa19519cd1e5338b660032a3bcc567e01ce5b209d5027b70be",
+      "fileSize": 70905
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MemoryCache/MemoryCache.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MemoryCache/MemoryCache.cs",
+      "notifiedAt": "2026-02-15T11:27:43.919Z",
+      "contentHash": "f0672572d92566b0d0a881a33be5ac54605cf930638a977d773d22c5b6c73964",
+      "fileSize": 9444
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/Metabolism/Metabolism.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/Metabolism/Metabolism.cs",
+      "notifiedAt": "2026-02-15T11:27:45.800Z",
+      "contentHash": "1222495f51d4f7ad1d56047320a6ea5c1b4a670ebc5b81ba740e05149d705e6a",
+      "fileSize": 5985
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MiniCopterEject/MiniCopterEject.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MiniCopterEject/MiniCopterEject.cs",
+      "notifiedAt": "2026-02-15T11:27:47.796Z",
+      "contentHash": "582405665fc62d16ba38aa80e8d7567ee8264d8587d16e239eaf2bdc98b7c6a0",
+      "fileSize": 6874
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MiniCopterLock/MiniCopterLock.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MiniCopterLock/MiniCopterLock.cs",
+      "notifiedAt": "2026-02-15T11:27:49.831Z",
+      "contentHash": "a380e987228137a9a9e44c8d7aa6290b8faac1db59f056b74080349deb6048ff",
+      "fileSize": 27291
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MiniCopterOptions/MiniCopterOptions.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MiniCopterOptions/MiniCopterOptions.cs",
+      "notifiedAt": "2026-02-15T11:27:51.857Z",
+      "contentHash": "452bc0811418de0fc59a7d3f88f705a3dc6110753b3fe5d7259e2914e12c8e4a",
+      "fileSize": 37617
     }
   },
   "version": 1,
-  "updatedAt": "2026-02-15T11:01:59.936Z"
+  "updatedAt": "2026-02-15T11:27:51.878Z"
 }
