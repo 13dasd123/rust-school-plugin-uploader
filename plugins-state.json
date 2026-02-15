@@ -262680,8 +262680,716 @@
       "notifiedAt": "2026-02-15T08:36:19.586Z",
       "contentHash": "2a55cd9b4638b8db44c089f9e1ec2288c8efbbfb111e6b3a67b3a20349d4d564",
       "fileSize": 5106
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RepairTool.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RepairTool.cs",
+      "notifiedAt": "2026-02-15T09:04:14.635Z",
+      "contentHash": "c7f02fffdede92e9acef2a7273bd3530dec1995f04bcd06b922805efb47103fe",
+      "fileSize": 13584
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Report.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Report.cs",
+      "notifiedAt": "2026-02-15T09:04:15.369Z",
+      "contentHash": "f6a000aee91d0c48b581d12315a2716289d486f0e8f6a687f38d3050ea0d9333",
+      "fileSize": 37016
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ReportBot.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ReportBot.cs",
+      "notifiedAt": "2026-02-15T09:04:16.208Z",
+      "contentHash": "45ff39fa847f4b214481deedc55918f17e439d08bff1fc6ef65424f7a66df1b5",
+      "fileSize": 4863
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ReportVK.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ReportVK.cs",
+      "notifiedAt": "2026-02-15T09:04:16.944Z",
+      "contentHash": "f5e6a63721ae0ffd60bc39d938a7cee4be9c5e9ad97f97c7f0cba0c7488af86f",
+      "fileSize": 22396
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RespawnMessages.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RespawnMessages.cs",
+      "notifiedAt": "2026-02-15T09:04:17.981Z",
+      "contentHash": "ee1dd2babe7098289894f1776e5b5cf473af1a50da7afe9d47e47eb6b6510797",
+      "fileSize": 1718
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RestoreUponDeath.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RestoreUponDeath.cs",
+      "notifiedAt": "2026-02-15T09:04:18.774Z",
+      "contentHash": "6fae817d67245da55d8f42d9f67f222e3f3323d28160258635e2dce4ab2b088d",
+      "fileSize": 15077
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Rewards.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Rewards.cs",
+      "notifiedAt": "2026-02-15T09:04:19.828Z",
+      "contentHash": "561e00afb58519f3d1f1d09198f3d4bd743396bfd80c7a12656a2fccc8a37c0f",
+      "fileSize": 45650
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Robbery.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Robbery.cs",
+      "notifiedAt": "2026-02-15T09:04:21.068Z",
+      "contentHash": "249f0b28c6487f7b6b9ba35b7f27334660859ed3ff97137167218ddf59ff3d1d",
+      "fileSize": 20543
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RockEvent.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RockEvent.cs",
+      "notifiedAt": "2026-02-15T09:04:21.927Z",
+      "contentHash": "d8676bd875f810258a2fcffe7f636ff7e7c055abf84aeed98505019e5b812a80",
+      "fileSize": 30297
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RotatingBillboards.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RotatingBillboards.cs",
+      "notifiedAt": "2026-02-15T09:04:22.836Z",
+      "contentHash": "01e44a6cc00224392d71454c6c57cd129463f0e31c2eb9a58d937a7a3091110b",
+      "fileSize": 14147
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RustKits.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RustKits.cs",
+      "notifiedAt": "2026-02-15T09:04:23.596Z",
+      "contentHash": "f4d3944d4020502c427e95e2edbd868723f32b57356b3a6e06844e93ce63bcbf",
+      "fileSize": 41199
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RustMenu.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RustMenu.cs",
+      "notifiedAt": "2026-02-15T09:04:24.379Z",
+      "contentHash": "55843fb3e6306e166b7934ac051e95cb0d7463c17ab8da9f48640c5469d29b09",
+      "fileSize": 29127
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RustTanic.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/RustTanic.cs",
+      "notifiedAt": "2026-02-15T09:04:25.170Z",
+      "contentHash": "e22b49ba78895422e783504c1e09319762f6a96a36d690d0d3b3197d6666b616",
+      "fileSize": 37274
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SAMSiteAuth.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SAMSiteAuth.cs",
+      "notifiedAt": "2026-02-15T09:04:26.485Z",
+      "contentHash": "52535296705e23200990219383145b97ff00ff9f5be271352e400b997f2f640c",
+      "fileSize": 2598
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SQLStatistics.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SQLStatistics.cs",
+      "notifiedAt": "2026-02-15T09:04:27.210Z",
+      "contentHash": "17cb50304b1b083268dec2daa574c4d12b00c53a38846f00faa0164b94f7cc57",
+      "fileSize": 12071
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SQLStats.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SQLStats.cs",
+      "notifiedAt": "2026-02-15T09:04:28.144Z",
+      "contentHash": "29eba821e8630b255bce1ebadc5ccd7c910bb66b5b53461df4ea6281f8d66d0b",
+      "fileSize": 16417
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SaveMyMap.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SaveMyMap.cs",
+      "notifiedAt": "2026-02-15T09:04:29.009Z",
+      "contentHash": "92564930c634bdbc9d3cc47ef890c572cbf24541005df24242ced5f72712aa9e",
+      "fileSize": 9638
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SchedShutdown.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SchedShutdown.cs",
+      "notifiedAt": "2026-02-15T09:04:30.174Z",
+      "contentHash": "14a7dc33c69aa6092b1d87852ab3152dd54be1ee6601bc921fff3aa73184b522",
+      "fileSize": 7185
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Scoreboards.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Scoreboards.cs",
+      "notifiedAt": "2026-02-15T09:04:31.301Z",
+      "contentHash": "53923c7987e6e473a93082106d9577e9f5eedb9afbf3fee208972b2156d42d06",
+      "fileSize": 11963
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ScrapVendingExchange.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ScrapVendingExchange.cs",
+      "notifiedAt": "2026-02-15T09:04:32.086Z",
+      "contentHash": "319a4646d543f7d3d5977bb3e76fd51ff23c84615e783d9554c69b34cea286ba",
+      "fileSize": 20296
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ScubaSteve.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ScubaSteve.cs",
+      "notifiedAt": "2026-02-15T09:04:32.926Z",
+      "contentHash": "17d7726fe4d4d88f97862be957a06121dfadf1376f92f6ffd1aebd0517a703e9",
+      "fileSize": 8486
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SecureAdmin.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SecureAdmin.cs",
+      "notifiedAt": "2026-02-15T09:04:33.633Z",
+      "contentHash": "5a769c4c337be360421a7eefe03c7483b8cb6452df2a8ca0919d4a5a6896d8fb",
+      "fileSize": 10440
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SeedEvent.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SeedEvent.cs",
+      "notifiedAt": "2026-02-15T09:04:34.396Z",
+      "contentHash": "322586856e973cd01c4bfac378036720d0ef84a9b7f0247f9fe0c52eb340c5d4",
+      "fileSize": 9657
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SentryTurrets.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SentryTurrets.cs",
+      "notifiedAt": "2026-02-15T09:04:35.228Z",
+      "contentHash": "0106f6e73fc17a8411d3363860d24d64fdb751b718431bead5de86d28e4cbb38",
+      "fileSize": 11713
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ServerPanelAvatars.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ServerPanelAvatars.cs",
+      "notifiedAt": "2026-02-15T09:04:35.976Z",
+      "contentHash": "ab63c8b863e575389038a6e38175ff9a3a6a26f51602357e5616e52e9e8dc527",
+      "fileSize": 2684
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ServerPop.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ServerPop.cs",
+      "notifiedAt": "2026-02-15T09:04:36.898Z",
+      "contentHash": "229b98a4563b32601225b009162a0c358b9639d64c80d7c1d8d3350e6fd1515a",
+      "fileSize": 28800
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Settings.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Settings.cs",
+      "notifiedAt": "2026-02-15T09:04:37.847Z",
+      "contentHash": "676397addf1eab87111a1c3ae6ec3886b8944054b20dfceba97836038dfc7158",
+      "fileSize": 24986
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SharkBait.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SharkBait.cs",
+      "notifiedAt": "2026-02-15T09:04:38.727Z",
+      "contentHash": "e88658063e559ccf53276e506f2a1afdd4abcc964b5cec33758f65d02ea6076a",
+      "fileSize": 24984
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ShiningSeed.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ShiningSeed.cs",
+      "notifiedAt": "2026-02-15T09:04:39.644Z",
+      "contentHash": "f55a36c5336a21a5d641f3801a94f1e357cafe509946a9355714c5436959fe01",
+      "fileSize": 20209
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ShipControl.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ShipControl.cs",
+      "notifiedAt": "2026-02-15T09:04:40.467Z",
+      "contentHash": "e75f9447501332a86e2e24949a6c6875445fee3e04a269267119add058f60fd6",
+      "fileSize": 14186
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Shop.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Shop.cs",
+      "notifiedAt": "2026-02-15T09:04:41.377Z",
+      "contentHash": "f2e48005155bf0ad975facf5197af746571cc6893b5b97539d39f27777577564",
+      "fileSize": 430234
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ShowCrosshair.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ShowCrosshair.cs",
+      "notifiedAt": "2026-02-15T09:04:42.309Z",
+      "contentHash": "c67ef5ec757a0f3ad6a4963abd1f6908765793eb6fc7ccc18f530627f45def7d",
+      "fileSize": 49891
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ShowHealth.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ShowHealth.cs",
+      "notifiedAt": "2026-02-15T09:04:43.354Z",
+      "contentHash": "52e1686dbdadb30139337930cd5461d8bad2054a922153636317d76eb493da70",
+      "fileSize": 1758
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SightsSystem.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SightsSystem.cs",
+      "notifiedAt": "2026-02-15T09:04:44.171Z",
+      "contentHash": "c5a298ff627b259e4a30d4ed6d8bcb61759393f3e6771f33de1c069ca58df332",
+      "fileSize": 10228
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SignManager.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SignManager.cs",
+      "notifiedAt": "2026-02-15T09:04:46.596Z",
+      "contentHash": "b80bfce77fde09bc148477814e3c1aa35b21aa697059608ee45cb906895f41ff",
+      "fileSize": 41044
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SimpleColouredNameAndChat.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SimpleColouredNameAndChat.cs",
+      "notifiedAt": "2026-02-15T09:04:47.341Z",
+      "contentHash": "63bd3e6dd5ba2f2e3800c08d3f2db291f6fb7d57574a28095d131c4149b04fda",
+      "fileSize": 1360
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SimpleKDR.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SimpleKDR.cs",
+      "notifiedAt": "2026-02-15T09:04:48.364Z",
+      "contentHash": "f59360434bd74dcd4fc5f954c5812d0a11042b30f8fa36f30c721ddd8ed6aa86",
+      "fileSize": 28338
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SimpleKillFeed.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SimpleKillFeed.cs",
+      "notifiedAt": "2026-02-15T09:04:49.297Z",
+      "contentHash": "0ac9690e7f9f78a16356eb574eeffbc6ea51ae56f635c2947c07c99cc7489ad2",
+      "fileSize": 45702
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkillSystem (1).cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkillSystem (1).cs",
+      "notifiedAt": "2026-02-15T09:04:50.071Z",
+      "contentHash": "8339a7e83c29381c4513ddd4d1eb624ee25e0815e91469003264dab322c37852",
+      "fileSize": 24867
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkillTree.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkillTree.cs",
+      "notifiedAt": "2026-02-15T09:04:51.307Z",
+      "contentHash": "53f22e50a918a3598a74c6b6634f5188889f8fa94f18e260e2174e721ce31c52",
+      "fileSize": 1149998
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkinBox.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkinBox.cs",
+      "notifiedAt": "2026-02-15T09:04:52.323Z",
+      "contentHash": "eafae3c45faf7c582abce47ec4dced68db8e517fc0368f375470c1d694574b87",
+      "fileSize": 92880
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkinChanger.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkinChanger.cs",
+      "notifiedAt": "2026-02-15T09:04:53.066Z",
+      "contentHash": "52b15e460a9675db18a0f6a6b9dd2f9f9cd398edd4238dc33bfee3d8499ae621",
+      "fileSize": 1720
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkipNight.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkipNight.cs",
+      "notifiedAt": "2026-02-15T09:04:53.840Z",
+      "contentHash": "5b4548419e8d4ea4c15fbedaa09265f41877c39c505eef34848f8303b6844731",
+      "fileSize": 9602
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkipNightVote.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkipNightVote.cs",
+      "notifiedAt": "2026-02-15T09:04:56.210Z",
+      "contentHash": "c581f6671cd59443f1bd9488fd84b1dabc68ae4cb244524cbe2d008eb439867f",
+      "fileSize": 10507
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkyCraftSystem.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkyCraftSystem.cs",
+      "notifiedAt": "2026-02-15T09:04:57.218Z",
+      "contentHash": "cec29820c978920eb4de5beb3d4c1e42145f11f8b23f44d4c540deef5d11106a",
+      "fileSize": 36025
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkyReportSystem.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SkyReportSystem.cs",
+      "notifiedAt": "2026-02-15T09:04:58.245Z",
+      "contentHash": "221443dcb8e9c8f2a1bd260384a9e4c0b10564a0a803ed379ec315d13bdb760c",
+      "fileSize": 72350
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Slasher.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Slasher.cs",
+      "notifiedAt": "2026-02-15T09:04:59.080Z",
+      "contentHash": "2b9832958ffcf790cff961f92f330e53d03411aecbf7f082260dc065fafdd227",
+      "fileSize": 40783
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SleeperAnimalProtection.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SleeperAnimalProtection.cs",
+      "notifiedAt": "2026-02-15T09:05:00.001Z",
+      "contentHash": "cbafd40fa8d6bdf1867e6da4a0f6e374b42df88d7ec192b7288ac153f6d83a7c",
+      "fileSize": 3144
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SlidingDoors.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SlidingDoors.cs",
+      "notifiedAt": "2026-02-15T09:05:01.149Z",
+      "contentHash": "94ff9c12186c61696ccbba1219ed029b5022c573f3f47ab62ff1870e7d60f069",
+      "fileSize": 25698
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SmallDecay.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SmallDecay.cs",
+      "notifiedAt": "2026-02-15T09:05:03.727Z",
+      "contentHash": "d4127031887de2cea56d5dfe9ac9769195efd64fedfb932f4b5480462f4a7239",
+      "fileSize": 4207
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SmartHomes.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SmartHomes.cs",
+      "notifiedAt": "2026-02-15T09:05:04.954Z",
+      "contentHash": "ab5261445dfc15b180997574413809e40d3c1151e333357b48ce6294c3ce0a54",
+      "fileSize": 84204
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SoInfo.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SoInfo.cs",
+      "notifiedAt": "2026-02-15T09:05:06.013Z",
+      "contentHash": "8080b6f59298268c11a1b0d2a6e9ba0bef0b2174d1ef0bb698bd44ab6bda8a34",
+      "fileSize": 17823
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SoReport.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SoReport.cs",
+      "notifiedAt": "2026-02-15T09:05:06.889Z",
+      "contentHash": "12c4383f41a2e2572f9dff4c0d4c714181c28dfd92b44fbe2634eae645dd3f68",
+      "fileSize": 60562
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SpawnControl.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SpawnControl.cs",
+      "notifiedAt": "2026-02-15T09:05:08.125Z",
+      "contentHash": "2fd05ea5bd52e23fb3e6174b1f317f0b05faa673f178a8dde40acd4172504e5a",
+      "fileSize": 96522
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SpawnHeli.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SpawnHeli.cs",
+      "notifiedAt": "2026-02-15T09:05:09.081Z",
+      "contentHash": "0eb8bdecbdc2b0733396c2bbd44f0f693d6cffb6d86ff916658b8d26cdb9743a",
+      "fileSize": 77198
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SpectatorPlus.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SpectatorPlus.cs",
+      "notifiedAt": "2026-02-15T09:05:09.920Z",
+      "contentHash": "8e21c4bdd2bd5d3300958062ee68e1fce3a02ffa6ce07d09bb2d912034cc1d16",
+      "fileSize": 33124
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StacksExtended.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StacksExtended.cs",
+      "notifiedAt": "2026-02-15T09:05:10.736Z",
+      "contentHash": "0abe642e0cd904e125e3928037a30bb94648273e097bf59cb2b1582edc79c4ba",
+      "fileSize": 24654
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StalkerLite.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StalkerLite.cs",
+      "notifiedAt": "2026-02-15T09:05:11.455Z",
+      "contentHash": "8f0f9f6bdf61c1ff684222a9c04cb44412b33f8c24c678c4a7e23b3c10197be3",
+      "fileSize": 11250
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StashControl.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StashControl.cs",
+      "notifiedAt": "2026-02-15T09:05:12.310Z",
+      "contentHash": "b1e1da74da75ad8b664a245394bf7cea20e7791bdc3f52d0648d7e6ea3ac7071",
+      "fileSize": 5242
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Stats.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Stats.cs",
+      "notifiedAt": "2026-02-15T09:05:13.526Z",
+      "contentHash": "92c944f39875795e7c530434e96bd6bbfb0cb71b711d94dcd2a167b146c65673",
+      "fileSize": 17215
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StatsSystem.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StatsSystem.cs",
+      "notifiedAt": "2026-02-15T09:05:15.750Z",
+      "contentHash": "8c51d62d2c20d4daad3a581d7db419a84d86ff92cfc389ffa280d28e8c704ba9",
+      "fileSize": 38269
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StickyChat.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StickyChat.cs",
+      "notifiedAt": "2026-02-15T09:05:17.671Z",
+      "contentHash": "07c15bb72cb09ae7e605866f9e7eb3527a7efb521d0ef1215b0bc18e4a9a5732",
+      "fileSize": 4903
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StopDamageMan.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StopDamageMan.cs",
+      "notifiedAt": "2026-02-15T09:05:19.734Z",
+      "contentHash": "4462d3761e1e6f75a5f240f4a8039e328ca6177dd2b1fa5e816129d111c06d10",
+      "fileSize": 5808
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StoreBonus.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StoreBonus.cs",
+      "notifiedAt": "2026-02-15T09:05:21.510Z",
+      "contentHash": "56be2aa7ba6285eda60ef24bc6db1d6f0a26fc11ea5a42df87eb60399660a796",
+      "fileSize": 45850
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StrikeSystem.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StrikeSystem.cs",
+      "notifiedAt": "2026-02-15T09:05:23.460Z",
+      "contentHash": "f79f4521573ae9d44a97a2df30f7b1fcb5353fb84d3fc762192b29c0f36881cc",
+      "fileSize": 21478
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StructureRefund.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StructureRefund.cs",
+      "notifiedAt": "2026-02-15T09:05:25.472Z",
+      "contentHash": "4767120ab07fb766980718ac8e53258bfaf51bd60ea171fd7b2837740e62892f",
+      "fileSize": 2939
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StructureWhitelist.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/StructureWhitelist.cs",
+      "notifiedAt": "2026-02-15T09:05:27.527Z",
+      "contentHash": "2385e544d55b28d6238066f23b53c04abdf650126fd397165a29e603e0715234",
+      "fileSize": 2944
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SuicideBomber.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SuicideBomber.cs",
+      "notifiedAt": "2026-02-15T09:05:29.623Z",
+      "contentHash": "8eed4bbea984831afd3eee6d85c1666814a9f55bac20fd8c1b1acee840a611a7",
+      "fileSize": 10051
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SuicideNerf.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SuicideNerf.cs",
+      "notifiedAt": "2026-02-15T09:05:31.766Z",
+      "contentHash": "d7b851e3b393678d813cabb726c9eebeec22639dd51c7fd3e301cb737507cd04",
+      "fileSize": 2557
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SuperGame.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SuperGame.cs",
+      "notifiedAt": "2026-02-15T09:05:33.728Z",
+      "contentHash": "50e16b71e66aa1475cd921409d696fffe273c2a6a2e35fc77416fa105c835c60",
+      "fileSize": 14001
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SuperMedkit-1.0.0.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SuperMedkit-1.0.0.cs",
+      "notifiedAt": "2026-02-15T09:05:35.690Z",
+      "contentHash": "254e7708039e245f44556cf1fba546cdbabb56e03e78cb03cc234593869b8182",
+      "fileSize": 7935
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SupplyDropDestroyer.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SupplyDropDestroyer.cs",
+      "notifiedAt": "2026-02-15T09:05:37.572Z",
+      "contentHash": "48905a7862012e6abefd183afe60d3eca021df0198b9dab75fc71757a8a55779",
+      "fileSize": 1709
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SupplySpeed.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/SupplySpeed.cs",
+      "notifiedAt": "2026-02-15T09:05:41.174Z",
+      "contentHash": "dd38ed6d0be14804c7411842b34a6c398df33024ca7a3b43b3be4a8b70afbe08",
+      "fileSize": 3423
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPApi.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPApi.cs",
+      "notifiedAt": "2026-02-15T09:05:42.520Z",
+      "contentHash": "00dc3d8af5ecf10bed577a451586129d6c2fc27197ca26a16366bf6ab1a49997",
+      "fileSize": 3982
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPBattlePass.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPBattlePass.cs",
+      "notifiedAt": "2026-02-15T09:05:43.818Z",
+      "contentHash": "d9c71e750533319ebe76c06f6c9ad559088b487065304ce7930dc124b2dbbf9d",
+      "fileSize": 36510
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPBotbonus.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPBotbonus.cs",
+      "notifiedAt": "2026-02-15T09:05:45.519Z",
+      "contentHash": "3e0d31e08e34ca9eb26cb69bc705f20bde413e580c74249c24f96e694c4ce6b8",
+      "fileSize": 99205
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPChat.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPChat.cs",
+      "notifiedAt": "2026-02-15T09:05:47.568Z",
+      "contentHash": "2541df0db94624892e91ab878e306c4767abcc4c00001dc08afa1f9fabfcad6b",
+      "fileSize": 72197
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPEconomic.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPEconomic.cs",
+      "notifiedAt": "2026-02-15T09:05:49.734Z",
+      "contentHash": "eb41d93ebed0dedc1841a04e8550a202fe84a0a53a3bdc58a37d0215e2c37655",
+      "fileSize": 2894
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPKits.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPKits.cs",
+      "notifiedAt": "2026-02-15T09:05:51.726Z",
+      "contentHash": "2f02053a2f84eb6829dfa8581a83af43d94260279e56e13d4a43963390060fdc",
+      "fileSize": 50635
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPLotterySystem.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPLotterySystem.cs",
+      "notifiedAt": "2026-02-15T09:05:53.605Z",
+      "contentHash": "a8c7c28fa075ac37a69bf9328e73f25f919333498bdd7d3c87356352f35110fc",
+      "fileSize": 26150
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPOnMap.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPOnMap.cs",
+      "notifiedAt": "2026-02-15T09:05:55.564Z",
+      "contentHash": "2a61b035d796daf1d6f1c064500a84449cdabd8ce866610109a9801457d2ef4f",
+      "fileSize": 2042
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPPanelSystem.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPPanelSystem.cs",
+      "notifiedAt": "2026-02-15T09:05:57.822Z",
+      "contentHash": "1af069be7bbd472d25890b508e2be5a80a84033d54da542d0e9d4037a1a2ec65",
+      "fileSize": 21504
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPReportSystem.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPReportSystem.cs",
+      "notifiedAt": "2026-02-15T09:05:59.873Z",
+      "contentHash": "d224479030eda83c38f5778b3c21191e819d7fa812f7a0b2d70bf8f82b7737a2",
+      "fileSize": 49425
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPSkinMenu.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPSkinMenu.cs",
+      "notifiedAt": "2026-02-15T09:06:01.961Z",
+      "contentHash": "509ca888fe1332c6da25e7fa7a26dca50be6d4e19d7748d307be50da3bb8bd71",
+      "fileSize": 67475
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPWipeBlock.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TPWipeBlock.cs",
+      "notifiedAt": "2026-02-15T09:06:03.634Z",
+      "contentHash": "5496cac3404dc5bf753e109d3cb5e85702921349004db4fe549edbf063aa0276",
+      "fileSize": 25234
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TargetPractice.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TargetPractice.cs",
+      "notifiedAt": "2026-02-15T09:06:07.117Z",
+      "contentHash": "9cd09fca0174f26d3e14208911d307fec96a2010054f4ce33de2065fd5bb11f8",
+      "fileSize": 22640
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TeamBattlefield.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TeamBattlefield.cs",
+      "notifiedAt": "2026-02-15T09:06:07.963Z",
+      "contentHash": "0fc265ae58f13f8c7d3d27f03f133d6fd6437f231cc480d6d3c29488dba1b98b",
+      "fileSize": 45948
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TeamGuard.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TeamGuard.cs",
+      "notifiedAt": "2026-02-15T09:06:09.773Z",
+      "contentHash": "a36b5099e8a0ff62776a54e6878cf78279eb84eefbee83d39682fac49a9c7bdd",
+      "fileSize": 39632
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TeamMarker.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TeamMarker.cs",
+      "notifiedAt": "2026-02-15T09:06:11.719Z",
+      "contentHash": "45f226b129b2674e283e7c167d4eee0fc01099b0591fd73bd343706b2da27c81",
+      "fileSize": 11135
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TeleportMarker.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TeleportMarker.cs",
+      "notifiedAt": "2026-02-15T09:06:13.876Z",
+      "contentHash": "60585626ddc183eed0ec14495a7463477e19089b50a60cd0a096b9cddc7b6aa5",
+      "fileSize": 3966
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TextPromo.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TextPromo.cs",
+      "notifiedAt": "2026-02-15T09:06:15.685Z",
+      "contentHash": "49ea216767ccd81a2ff32f670974af849d8963b39e1987d638ed4412ad556c03",
+      "fileSize": 4486
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ThiefAPI.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ThiefAPI.cs",
+      "notifiedAt": "2026-02-15T09:06:17.936Z",
+      "contentHash": "e01f31fe928979bbdd1805bfb786b7bf2221538b6e860109a3e6512684db1895",
+      "fileSize": 9477
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Tickets.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Tickets.cs",
+      "notifiedAt": "2026-02-15T09:06:19.500Z",
+      "contentHash": "b5ba0dc4abd8db9486b38fcd25c7f91dc4d9da3156c0ac64242193bb97a33ca7",
+      "fileSize": 17263
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimeSet.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimeSet.cs",
+      "notifiedAt": "2026-02-15T09:06:21.720Z",
+      "contentHash": "978422856e2de49de1aa6204b12ffd4c6d092aca738309dbde45f301417e6b29",
+      "fileSize": 7476
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimeSystem.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimeSystem.cs",
+      "notifiedAt": "2026-02-15T09:06:23.490Z",
+      "contentHash": "b2edecb085c2975e496f41a07989fb8d50bbc7b2bf7de34ab1212802aca1f4d4",
+      "fileSize": 5305
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimedEvents.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimedEvents.cs",
+      "notifiedAt": "2026-02-15T09:06:25.600Z",
+      "contentHash": "0f069971d7c591e33e7f1e804a49621fadfaa3416bb84408f3de3aa6bf8d3c12",
+      "fileSize": 9949
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimedExecute.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimedExecute.cs",
+      "notifiedAt": "2026-02-15T09:06:27.528Z",
+      "contentHash": "5c80564b99351c9308a2785777a37ee7e1e1f142c352e8b5c7aeb8f297ee8832",
+      "fileSize": 4348
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimedItemsBlocker.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimedItemsBlocker.cs",
+      "notifiedAt": "2026-02-15T09:06:30.284Z",
+      "contentHash": "b80ee0e239e1d1b25369a6bcbeb2311a066c3ad9bb89149ab93f7eabda93620b",
+      "fileSize": 13721
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimedNotifications.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimedNotifications.cs",
+      "notifiedAt": "2026-02-15T09:06:31.860Z",
+      "contentHash": "fa1672cab0e2c3e00d5531ced927a1df4e84f8abb477b28c369466a51198ae4b",
+      "fileSize": 18698
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimedPermissions.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TimedPermissions.cs",
+      "notifiedAt": "2026-02-15T09:06:33.696Z",
+      "contentHash": "e6ad471fa3789b7fff5999127f802289a6f980f138176e76953f73e18c95c883",
+      "fileSize": 21297
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Top.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Top.cs",
+      "notifiedAt": "2026-02-15T09:06:35.604Z",
+      "contentHash": "c8f576e60ebcdc6053b6ee3603fc90e90b6006c4631d07e69b3bfdd27cbfffc3",
+      "fileSize": 31716
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ToukDurability.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/ToukDurability.cs",
+      "notifiedAt": "2026-02-15T09:06:37.634Z",
+      "contentHash": "67c7c0dc81271dc0ac959631fa48e0d4f877d0ad9853270941184efc2947b77a",
+      "fileSize": 1156
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Trade.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/Trade.cs",
+      "notifiedAt": "2026-02-15T09:06:39.492Z",
+      "contentHash": "bb6f25abb21565f95183fc9e93875951e61c9a58a91f6e4e5be832104c1b8f4e",
+      "fileSize": 31043
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/Crosshair.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/Crosshair.cs",
+      "notifiedAt": "2026-02-15T09:06:41.736Z",
+      "contentHash": "90e121bb930534df9bcaf00aed44f3b6486b13abb03bce4f3eb42c1e73cc5c9d",
+      "fileSize": 6645
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/DoorsControl.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/DoorsControl.cs",
+      "notifiedAt": "2026-02-15T09:06:43.628Z",
+      "contentHash": "ece8866b26a71ab7e3a115f9d6604fc202e6b0fd7dcd622bfe457ba5340e7dde",
+      "fileSize": 33458
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/HitIcon.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/HitIcon.cs",
+      "notifiedAt": "2026-02-15T09:06:45.654Z",
+      "contentHash": "d007723e817889977537bc56f137cb0ec65f2a8e4e3c4281cdb6d40502453c83",
+      "fileSize": 22239
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/InfoTabs.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/InfoTabs.cs",
+      "notifiedAt": "2026-02-15T09:06:47.653Z",
+      "contentHash": "1b2414fc61030d7f7a0a92cc29c0125e34382fbea69e299a2448fe114db4fafe",
+      "fileSize": 47601
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/InstantCraft.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/InstantCraft.cs",
+      "notifiedAt": "2026-02-15T09:06:49.762Z",
+      "contentHash": "88bdb524eceb153b301064347e75810f3bbd838cb96cdb6d5b08940ec9fab63e",
+      "fileSize": 7725
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/MachiningTools.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/MachiningTools.cs",
+      "notifiedAt": "2026-02-15T09:06:51.809Z",
+      "contentHash": "2c0f599c54c3be02f11fd873cc3db7099641c48aee817337ea7676fcdf491b6a",
+      "fileSize": 30488
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/NoWorkbench.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/NoWorkbench.cs",
+      "notifiedAt": "2026-02-15T09:06:53.418Z",
+      "contentHash": "d19e3e334c6b5285f879f8707c863ed8f221d2b00119b5c32dbce7a25bb22f3a",
+      "fileSize": 3306
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/Settings.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/Settings.cs",
+      "notifiedAt": "2026-02-15T09:06:55.512Z",
+      "contentHash": "676397addf1eab87111a1c3ae6ec3886b8944054b20dfceba97836038dfc7158",
+      "fileSize": 24986
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/SpawnToRoad.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/SpawnToRoad.cs",
+      "notifiedAt": "2026-02-15T09:06:57.562Z",
+      "contentHash": "c569f811dc7e4d61ce7ebbd94b4e04bdce7588a0b01453d5ca847df9f8083861",
+      "fileSize": 1843
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/Stacks.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/Stacks.cs",
+      "notifiedAt": "2026-02-15T09:06:59.743Z",
+      "contentHash": "987be9454444871116d50579bc639ce066ffd8e2fc776ce6f4388f4490f5fa8c",
+      "fileSize": 21218
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/TimedEvents.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/TimedEvents.cs",
+      "notifiedAt": "2026-02-15T09:07:01.628Z",
+      "contentHash": "19f21f9ac09b3162bd4c9d24f6ac384cfe719fe599bdf7b97c831ab6001ab5b9",
+      "fileSize": 10654
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/Trade.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/Trade.cs",
+      "notifiedAt": "2026-02-15T09:07:03.683Z",
+      "contentHash": "d4d71844ae3ba77a977f05574b9933e4500aa6333d7c4bd19b1e9c9c43c4e411",
+      "fileSize": 35119
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/TreePlanter.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/TreePlanter.cs",
+      "notifiedAt": "2026-02-15T09:07:05.863Z",
+      "contentHash": "934d91fed0536b3d5d4464d77664f737d38f475c0f0dc71522397846498c7fb7",
+      "fileSize": 12144
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/WipeBlock.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/WipeBlock.cs",
+      "notifiedAt": "2026-02-15T09:07:07.489Z",
+      "contentHash": "c083763bce8bb6bdff18d7c9bdcb5d19610510e46d6a5832c1ef87518e30e1d7",
+      "fileSize": 21489
+    },
+    "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/WipeSchedule.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/pluginsrust/main/TrashRust/WipeSchedule.cs",
+      "notifiedAt": "2026-02-15T09:07:09.547Z",
+      "contentHash": "442603d86287722ae8f244430633d3b24a0b101bce46c0f54864f5866639d4b0",
+      "fileSize": 22056
     }
   },
   "version": 1,
-  "updatedAt": "2026-02-15T08:36:19.606Z"
+  "updatedAt": "2026-02-15T09:07:09.568Z"
 }
