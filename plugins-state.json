@@ -268656,8 +268656,746 @@
       "notifiedAt": "2026-02-15T11:27:51.857Z",
       "contentHash": "452bc0811418de0fc59a7d3f88f705a3dc6110753b3fe5d7259e2914e12c8e4a",
       "fileSize": 37617
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MiniPlate/MiniPlate.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MiniPlate/MiniPlate.cs",
+      "notifiedAt": "2026-02-15T11:50:03.047Z",
+      "contentHash": "52b80c81d2ff04d2b342bf9a97c4b3d605b4da92fc248ab8bbd8bf2062881ab7",
+      "fileSize": 5275
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MiniTrails/MiniTrails.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MiniTrails/MiniTrails.cs",
+      "notifiedAt": "2026-02-15T11:50:04.080Z",
+      "contentHash": "54d855dbd2d7404bee924d44ba35817436eb258f53b2ab6c51f5dc390518ee1d",
+      "fileSize": 19392
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MinicopterDCProtect/MinicopterDCProtect.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MinicopterDCProtect/MinicopterDCProtect.cs",
+      "notifiedAt": "2026-02-15T11:50:04.879Z",
+      "contentHash": "1bcd63f49c48ff1658eacc196fa7833d267ca79eb8032bfbc51e1af4ab9b0a43",
+      "fileSize": 3130
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MinicopterSeating/MinicopterSeating.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MinicopterSeating/MinicopterSeating.cs",
+      "notifiedAt": "2026-02-15T11:50:05.539Z",
+      "contentHash": "54e9dcda00ed40fcb33283f2f55b4605a0e626b80f3ded740bc38a2b1adc68c4",
+      "fileSize": 2469
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/Minstrel/Minstrel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/Minstrel/Minstrel.cs",
+      "notifiedAt": "2026-02-15T11:50:06.247Z",
+      "contentHash": "6f4b25716b406bd77a71f08e5e5745d8ba3f69488baec51aa53f85bf4d369ffc",
+      "fileSize": 20515
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MlrsRocketTracker/MlrsRocketTracker.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MlrsRocketTracker/MlrsRocketTracker.cs",
+      "notifiedAt": "2026-02-15T11:50:07.064Z",
+      "contentHash": "226a9503403c659e372e219b731fedaac44afc7ca171eb0053c750cedd6859da",
+      "fileSize": 3931
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/ModdedWorkCarts/ModdedWorkCarts.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/ModdedWorkCarts/ModdedWorkCarts.cs",
+      "notifiedAt": "2026-02-15T11:50:08.071Z",
+      "contentHash": "918c26989d72c5b9551a601bc04ad36e62f9c16c278dcd6b225391c157e2d813",
+      "fileSize": 12995
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MoneyTime/MoneyTime.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MoneyTime/MoneyTime.cs",
+      "notifiedAt": "2026-02-15T11:50:08.916Z",
+      "contentHash": "d106a4e617541b55684fc9b9b9191280da0255bca287eb3f9644ddafe6835287",
+      "fileSize": 12313
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentAddons/MonumentAddons.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentAddons/MonumentAddons.cs",
+      "notifiedAt": "2026-02-15T11:50:11.741Z",
+      "contentHash": "c639f4835b24eebac392ff5fcd17a83834bcfcaa928ec5560b2074ab000bbb10",
+      "fileSize": 617299
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentFinder/MonumentFinder.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentFinder/MonumentFinder.cs",
+      "notifiedAt": "2026-02-15T11:50:12.475Z",
+      "contentHash": "6e61863c7f3a5e90fd2ebb37e6651a8ce9d77b216c209e076832b3d90e099cd6",
+      "fileSize": 64645
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentLifts/MonumentLifts.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentLifts/MonumentLifts.cs",
+      "notifiedAt": "2026-02-15T11:50:13.256Z",
+      "contentHash": "4ab6e6bbdea5680859e310250e4df31226bbae0b86d5a050cdd47f5855a72d0e",
+      "fileSize": 2871
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentPlayerSettings/MonumentPlayerSettings.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentPlayerSettings/MonumentPlayerSettings.cs",
+      "notifiedAt": "2026-02-15T11:50:14.016Z",
+      "contentHash": "41013fbeeb4877bf334261f604178bd9f647357330ffd13edd92e2e42d2660a2",
+      "fileSize": 22556
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentPlus/MonumentPlus.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentPlus/MonumentPlus.cs",
+      "notifiedAt": "2026-02-15T11:50:14.969Z",
+      "contentHash": "9018082612576559d2413b7d47a35c0c7038b24f54ad238fe342d6780cd1b88a",
+      "fileSize": 12500
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentRadiation/MonumentRadiation.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentRadiation/MonumentRadiation.cs",
+      "notifiedAt": "2026-02-15T11:50:15.825Z",
+      "contentHash": "a85903dc22366e343ce5fe731e3e219d4001b15c334eebc6100c569f29b54b58",
+      "fileSize": 33820
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentTeleporter/MonumentTeleporter.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentTeleporter/MonumentTeleporter.cs",
+      "notifiedAt": "2026-02-15T11:50:16.604Z",
+      "contentHash": "6067f17d0aa1130a2cdc4c7852b431b1dfb8843b37148818c25372457a132a21",
+      "fileSize": 4045
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentsRecycler/MonumentsRecycler.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MonumentsRecycler/MonumentsRecycler.cs",
+      "notifiedAt": "2026-02-15T11:50:18.648Z",
+      "contentHash": "fb4062a6f5d0f84908f7b511d10abc3b75d05e72fda943de4a54fe90bd80ca5b",
+      "fileSize": 16343
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MoreResourcesTeam/MoreResourcesTeam.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MoreResourcesTeam/MoreResourcesTeam.cs",
+      "notifiedAt": "2026-02-15T11:50:19.490Z",
+      "contentHash": "ad7ff43425ad3bc8af93e4c0493310f6cb5b90cd0cc179634533cf22ebf0a1ea",
+      "fileSize": 5668
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MountComputerStation/MountComputerStation.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MountComputerStation/MountComputerStation.cs",
+      "notifiedAt": "2026-02-15T11:50:20.525Z",
+      "contentHash": "6bf450c134471aad2237684287c7975f3beb60b498d12255467ccedf6d43b7cb",
+      "fileSize": 10010
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MountLogger/MountLogger.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MountLogger/MountLogger.cs",
+      "notifiedAt": "2026-02-15T11:50:21.341Z",
+      "contentHash": "05b971fefe4f6da98a20562de92269001fd5a662505eb130b3719140e7b7debc",
+      "fileSize": 13033
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MountRestrictions/MountRestrictions.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MountRestrictions/MountRestrictions.cs",
+      "notifiedAt": "2026-02-15T11:50:22.112Z",
+      "contentHash": "1c478dbb66d2f5311766335a1348a4e15ca4adfdcc45c3260d92fcecc8052ca8",
+      "fileSize": 5847
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MovableCCTV/MovableCCTV.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MovableCCTV/MovableCCTV.cs",
+      "notifiedAt": "2026-02-15T11:50:22.835Z",
+      "contentHash": "32054d4024445eb3f8f7718547ceb996b60332806e9ed23aaf3ed07934f71e10",
+      "fileSize": 9334
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/Murderers/Murderers.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/Murderers/Murderers.cs",
+      "notifiedAt": "2026-02-15T11:50:23.570Z",
+      "contentHash": "49c07f0d7ec6c2f42dcff1cb539e975b92245dfdd5b8d1801aecca74e5f8803e",
+      "fileSize": 22895
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MushroomEffects/MushroomEffects.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MushroomEffects/MushroomEffects.cs",
+      "notifiedAt": "2026-02-15T11:50:24.421Z",
+      "contentHash": "7e56d660eb9879bcbc6b433eadf125430c0f428b908058b35755fbab19fec1ca",
+      "fileSize": 9159
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MuteExplosions/MuteExplosions.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MuteExplosions/MuteExplosions.cs",
+      "notifiedAt": "2026-02-15T11:50:25.224Z",
+      "contentHash": "0b6238266b1cc44e9fcd30e1fa4c6df1f2d086784293093bd34602d18472c261",
+      "fileSize": 4838
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MyBirthdayCake/MyBirthdayCake.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MyBirthdayCake/MyBirthdayCake.cs",
+      "notifiedAt": "2026-02-15T11:50:26.201Z",
+      "contentHash": "960f117b89c2699987a20f90116b86cf9de2abc5e44f3aff0f107d1d81863829",
+      "fileSize": 11884
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MyCH47/MyCH47.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MyCH47/MyCH47.cs",
+      "notifiedAt": "2026-02-15T11:50:27.164Z",
+      "contentHash": "d8d1da024f1d05da7571a47bf4f13b6265cc4294449f5ac833bf57c73f4de7b3",
+      "fileSize": 16108
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MyDigicode/MyDigicode.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MyDigicode/MyDigicode.cs",
+      "notifiedAt": "2026-02-15T11:50:28.048Z",
+      "contentHash": "d67bb5cf25d945facf90c5904e679ee83961dddf52b5d0daac88e5415580cfcf",
+      "fileSize": 19870
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MyHotAirBalloon/MyHotAirBalloon.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MyHotAirBalloon/MyHotAirBalloon.cs",
+      "notifiedAt": "2026-02-15T11:50:30.605Z",
+      "contentHash": "74cb29e56141fd36a37d38703b408de7734e5b819f5d61423010208c1c7a99c1",
+      "fileSize": 52458
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MyNPC/MyNPC.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MyNPC/MyNPC.cs",
+      "notifiedAt": "2026-02-15T11:50:31.361Z",
+      "contentHash": "533bc1cb55d25ff7fbb847725cd7521b17c72a73d9bb9dc0111161f7ffdb30ae",
+      "fileSize": 23210
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MySQLWhitelist/MySQLWhitelist.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MySQLWhitelist/MySQLWhitelist.cs",
+      "notifiedAt": "2026-02-15T11:50:32.161Z",
+      "contentHash": "fc558d75891cac5897c15c128f570d393de9809d31c79a17afa926bc5fea7a74",
+      "fileSize": 4404
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MySnowmobile/MySnowmobile.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MySnowmobile/MySnowmobile.cs",
+      "notifiedAt": "2026-02-15T11:50:33.101Z",
+      "contentHash": "55bf56af5c82695cae3dd8b5723a42f50ca375cc928da87960b96e663114a36c",
+      "fileSize": 18491
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MyTransit/MyTransit.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/M/MyTransit/MyTransit.cs",
+      "notifiedAt": "2026-02-15T11:50:33.838Z",
+      "contentHash": "f35caa60f30b8032b73aa5d16076f8c67663bc39ea016cb113662996dfc752cb",
+      "fileSize": 20225
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCDropGun/NPCDropGun.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCDropGun/NPCDropGun.cs",
+      "notifiedAt": "2026-02-15T11:50:34.649Z",
+      "contentHash": "3e8e28180a533b69d8b08ef07911eab1da97fa7e7d3574ab9c9b352fa862b01c",
+      "fileSize": 7850
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCHealth/NPCHealth.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCHealth/NPCHealth.cs",
+      "notifiedAt": "2026-02-15T11:50:35.464Z",
+      "contentHash": "693780dfa7c7f5c447873efae38f5281dfd7b556682e9a966fbcb6866ddbbf1b",
+      "fileSize": 1652
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCLoadouts/NPCLoadouts.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCLoadouts/NPCLoadouts.cs",
+      "notifiedAt": "2026-02-15T11:50:36.282Z",
+      "contentHash": "3890150a6e0bdccd94293ce2e64bcc0c18c3cdfcd703f635b957be3ae8cd3e7e",
+      "fileSize": 12070
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCMapMarkers/NPCMapMarkers.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCMapMarkers/NPCMapMarkers.cs",
+      "notifiedAt": "2026-02-15T11:50:37.168Z",
+      "contentHash": "c8df03ed076363a4370de1c474f67ca119a2be1ab1d75783a11885f7db7f2682",
+      "fileSize": 8570
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCVenderModifier/NPCVenderModifier.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCVenderModifier/NPCVenderModifier.cs",
+      "notifiedAt": "2026-02-15T11:50:38.510Z",
+      "contentHash": "3bbdc554a9b7d61207bb9420751238c7dd0c973a28ceaa00261d781322dbafc2",
+      "fileSize": 2410
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCVendingMapMarker/NPCVendingMapMarker.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCVendingMapMarker/NPCVendingMapMarker.cs",
+      "notifiedAt": "2026-02-15T11:50:39.239Z",
+      "contentHash": "74702565eea56ce645c439cce44f25981204dfd046ebbe5d153f3ef307c54c5d",
+      "fileSize": 27699
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCVendingReset/NPCVendingReset.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NPCVendingReset/NPCVendingReset.cs",
+      "notifiedAt": "2026-02-15T11:50:40.070Z",
+      "contentHash": "c62c7e4da2461532b4288ffc6b70b83996969f5ba92906b24914ab9a0771fe73",
+      "fileSize": 1368
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NTeleportation/NTeleportation.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NTeleportation/NTeleportation.cs",
+      "notifiedAt": "2026-02-15T11:50:41.169Z",
+      "contentHash": "e735171fdfe55719c5ae90e773eefed38454e7c3cb6fc7927d3e99f83aac41d8",
+      "fileSize": 431555
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NameChanger/NameChanger.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NameChanger/NameChanger.cs",
+      "notifiedAt": "2026-02-15T11:50:41.903Z",
+      "contentHash": "88987925478b396c1b1c3cf7c708255381711e2b325290b5df46ff418ebe8e35",
+      "fileSize": 4669
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NameManager/NameManager.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NameManager/NameManager.cs",
+      "notifiedAt": "2026-02-15T11:50:42.851Z",
+      "contentHash": "95649dbc0d51c39dcef8f614042981a4418c526186ddde6759c5872129f66aba",
+      "fileSize": 3513
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NameRewards/NameRewards.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NameRewards/NameRewards.cs",
+      "notifiedAt": "2026-02-15T11:50:43.607Z",
+      "contentHash": "14b4c4bbcfaafdac788543cc19674c041a073a33723f899bb3bc43e01468b0e2",
+      "fileSize": 1389
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NavMeshErrorFix/NavMeshErrorFix.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NavMeshErrorFix/NavMeshErrorFix.cs",
+      "notifiedAt": "2026-02-15T11:50:44.520Z",
+      "contentHash": "5f26a3762ee9eda6809d8049868a23486685f72ba728f2b78c29d96dad75c822",
+      "fileSize": 1471
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NeedForSpeed/NeedForSpeed.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NeedForSpeed/NeedForSpeed.cs",
+      "notifiedAt": "2026-02-15T11:50:45.344Z",
+      "contentHash": "d59f348dd448f1868e83be976fa54361dca77738d46802856a7a4c3daf2c5df5",
+      "fileSize": 10849
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NeutralNPCs/NeutralNPCs.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NeutralNPCs/NeutralNPCs.cs",
+      "notifiedAt": "2026-02-15T11:50:46.288Z",
+      "contentHash": "e4cbe1f8266259b3dc69583353beba1e8ee6b50172c3d7e972d1aa1c1f1399b4",
+      "fileSize": 4081
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NeverTeamless/NeverTeamless.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NeverTeamless/NeverTeamless.cs",
+      "notifiedAt": "2026-02-15T11:50:47.070Z",
+      "contentHash": "45dd2cce02940058aeae8fa28d39af52c5bebdb57de6b759f1564e51307fbb76",
+      "fileSize": 3500
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NeverWear/NeverWear.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NeverWear/NeverWear.cs",
+      "notifiedAt": "2026-02-15T11:50:47.811Z",
+      "contentHash": "6d14d7303ff1a439b08e8a7dc6387965e53c0abb736d8e6e0346e19624d039e0",
+      "fileSize": 4301
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NightDoor/NightDoor.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NightDoor/NightDoor.cs",
+      "notifiedAt": "2026-02-15T11:50:48.551Z",
+      "contentHash": "6dcb01faf572856ee31483652d782f31b6bef105bc0849860656d6fc7fd3e1b2",
+      "fileSize": 40853
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NightLantern/NightLantern.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NightLantern/NightLantern.cs",
+      "notifiedAt": "2026-02-15T11:50:50.876Z",
+      "contentHash": "eb91c1ff4038e599683a12a7895bfad29898ab53d036ca7bec4ea89a11c49f5a",
+      "fileSize": 28500
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NightMessage/NightMessage.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NightMessage/NightMessage.cs",
+      "notifiedAt": "2026-02-15T11:50:51.681Z",
+      "contentHash": "798bbd90e18bcff538b982ad39f5140f90068a47d73cde389319b5929ea016f1",
+      "fileSize": 3863
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NightPVP/NightPVP.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NightPVP/NightPVP.cs",
+      "notifiedAt": "2026-02-15T11:50:52.459Z",
+      "contentHash": "cf71aaf6c8433e3bc4ca55c215f0020bc500efa6ccae52463f757d9686db8e7c",
+      "fileSize": 14157
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NightVision/NightVision.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NightVision/NightVision.cs",
+      "notifiedAt": "2026-02-15T11:50:53.179Z",
+      "contentHash": "9298f5730387f10fa1efad5b283d4baf966ea68f88287477065c0ad1fe0286ff",
+      "fileSize": 15699
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NightZombies/NightZombies.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NightZombies/NightZombies.cs",
+      "notifiedAt": "2026-02-15T11:50:53.927Z",
+      "contentHash": "1051f95a6e31a1a6b23fecac418254500c595ac3a869d663edb5c3e3d562146e",
+      "fileSize": 23070
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoAmmoConsumption/NoAmmoConsumption.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoAmmoConsumption/NoAmmoConsumption.cs",
+      "notifiedAt": "2026-02-15T11:50:55.267Z",
+      "contentHash": "72b030ebf832a62877fe60bc07fbce5788108481018e90c0724530009c3df2f0",
+      "fileSize": 7361
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoBackpacks/NoBackpacks.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoBackpacks/NoBackpacks.cs",
+      "notifiedAt": "2026-02-15T11:50:57.648Z",
+      "contentHash": "303d467564e89436965d85db594dc4d3dbc4595f93715d44550137358aea9d57",
+      "fileSize": 1411
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoBlood/NoBlood.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoBlood/NoBlood.cs",
+      "notifiedAt": "2026-02-15T11:50:58.483Z",
+      "contentHash": "1d7ab9369c44e0de574f8dd55381038a76873259452556f036e25f12bcb1adf2",
+      "fileSize": 887
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoBuildOnRoad/NoBuildOnRoad.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoBuildOnRoad/NoBuildOnRoad.cs",
+      "notifiedAt": "2026-02-15T11:50:59.226Z",
+      "contentHash": "1da5f97bdecbcadc25e49018968d32140723c7aaace68e45af7eb912be90a2c1",
+      "fileSize": 6852
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoClipRestrictions/NoClipRestrictions.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoClipRestrictions/NoClipRestrictions.cs",
+      "notifiedAt": "2026-02-15T11:51:00.988Z",
+      "contentHash": "c0ac004bb8e80e8131c6918512dcb4fa66ee6e6daeae2e4ddf08ff0841cee0d6",
+      "fileSize": 5812
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoCoilDrain/NoCoilDrain.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoCoilDrain/NoCoilDrain.cs",
+      "notifiedAt": "2026-02-15T11:51:02.982Z",
+      "contentHash": "f1dcecfb36c67b180bea3406f1a94feb3cc5aa2a0f84d901ee12f53e4a49ec63",
+      "fileSize": 1417
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoCompound/NoCompound.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoCompound/NoCompound.cs",
+      "notifiedAt": "2026-02-15T11:51:04.866Z",
+      "contentHash": "e82e22ceff0b1118c66683cc25f06b0387d942d06b9093ff1256dc6683501c27",
+      "fileSize": 6625
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoCorpse/NoCorpse.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoCorpse/NoCorpse.cs",
+      "notifiedAt": "2026-02-15T11:51:07.831Z",
+      "contentHash": "9c9470fa44057c232e1b088ed9f72bf6b66030c26f64b475d3fcc3e8582b8b4b",
+      "fileSize": 780
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoCraft/NoCraft.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoCraft/NoCraft.cs",
+      "notifiedAt": "2026-02-15T11:51:09.629Z",
+      "contentHash": "15bcc14b956afde1f5dfce8d6a4199d6b885c2afa2e5f36a8b0422016b720bcb",
+      "fileSize": 3654
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoCrashFlyingVehicles/NoCrashFlyingVehicles.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoCrashFlyingVehicles/NoCrashFlyingVehicles.cs",
+      "notifiedAt": "2026-02-15T11:51:10.857Z",
+      "contentHash": "125cb775f7a66d3bc4a440fb102565df509b4e49dff2feb9968d472b28c7d360",
+      "fileSize": 1008
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoCrawl/NoCrawl.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoCrawl/NoCrawl.cs",
+      "notifiedAt": "2026-02-15T11:51:13.045Z",
+      "contentHash": "c0cde60353b514fcde083c58ae268f502d69044bf36d91e1727c58a9b48ffd99",
+      "fileSize": 583
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoDeathScreen/NoDeathScreen.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoDeathScreen/NoDeathScreen.cs",
+      "notifiedAt": "2026-02-15T11:51:15.083Z",
+      "contentHash": "292f45e75a9f3bffd61a1403501f02f94a6712aab7d2505d741b56bd1ed2c9ff",
+      "fileSize": 7232
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoDeauth/NoDeauth.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoDeauth/NoDeauth.cs",
+      "notifiedAt": "2026-02-15T11:51:17.047Z",
+      "contentHash": "7ff70d24f61d1c64a2d9ad34d72f3a0e29c4b19dc6b031f740e988305335659e",
+      "fileSize": 3560
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoDecay/NoDecay.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoDecay/NoDecay.cs",
+      "notifiedAt": "2026-02-15T11:51:18.870Z",
+      "contentHash": "205795f62e81b4231a3b210a97e23cf2511a0af92858625c555e44088ac54725",
+      "fileSize": 15377
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoDroneSway/NoDroneSway.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoDroneSway/NoDroneSway.cs",
+      "notifiedAt": "2026-02-15T11:51:20.890Z",
+      "contentHash": "e29cc4a7eb814bfc89d2608115ac6d93c5b82bbd88c764243b9a9b1ab5dbad85",
+      "fileSize": 6405
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoDuds/NoDuds.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoDuds/NoDuds.cs",
+      "notifiedAt": "2026-02-15T11:51:23.156Z",
+      "contentHash": "62ba3ed1014020ed6b12b781240acede76723961a96e40342f25016fefdae351",
+      "fileSize": 1790
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoDurability/NoDurability.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoDurability/NoDurability.cs",
+      "notifiedAt": "2026-02-15T11:51:25.116Z",
+      "contentHash": "0d3386942d659fc87d8a7637b305ede33a9895cc916cdc6ea39a9fad5bbef748",
+      "fileSize": 4743
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoEngineParts/NoEngineParts.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoEngineParts/NoEngineParts.cs",
+      "notifiedAt": "2026-02-15T11:51:26.985Z",
+      "contentHash": "38341f5189825eb2fad076fa58dc891dbafe49a63a305bef711863cf337dbfd5",
+      "fileSize": 11842
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoEscape/NoEscape.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoEscape/NoEscape.cs",
+      "notifiedAt": "2026-02-15T11:51:29.510Z",
+      "contentHash": "588ac57a3515f049a123ca96b00993d594de0a43b744c1290df3e8e33fa203a0",
+      "fileSize": 77957
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoExperiments/NoExperiments.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoExperiments/NoExperiments.cs",
+      "notifiedAt": "2026-02-15T11:51:32.410Z",
+      "contentHash": "622fb402473ccef08534d85c24ebf387fe81c3f4eccbea5997ffeef6b007a46a",
+      "fileSize": 2326
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoFireBallDamage/NoFireBallDamage.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoFireBallDamage/NoFireBallDamage.cs",
+      "notifiedAt": "2026-02-15T11:51:33.131Z",
+      "contentHash": "f9f89b569acb058c9d81a9285b6451100628dd8cdc7bfabec688baab35a57b5f",
+      "fileSize": 489
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoFireworksOnTerrain/NoFireworksOnTerrain.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoFireworksOnTerrain/NoFireworksOnTerrain.cs",
+      "notifiedAt": "2026-02-15T11:51:34.880Z",
+      "contentHash": "c3b86b786603b230b5fece949f57602794d1711c0139c82fd450aebdd7a4ec2d",
+      "fileSize": 1720
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoFlykick/NoFlykick.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoFlykick/NoFlykick.cs",
+      "notifiedAt": "2026-02-15T11:51:36.965Z",
+      "contentHash": "971a3d84441d340a587adea519547c364d86cd950cd574422079449ace932bd7",
+      "fileSize": 4283
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoFoundationObjects/NoFoundationObjects.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoFoundationObjects/NoFoundationObjects.cs",
+      "notifiedAt": "2026-02-15T11:51:39.147Z",
+      "contentHash": "da1127622d09e048f4a06cf94292a3325571a86868816b0c4763b27e968a1931",
+      "fileSize": 4768
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoFuelRequirements/NoFuelRequirements.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoFuelRequirements/NoFuelRequirements.cs",
+      "notifiedAt": "2026-02-15T11:51:41.143Z",
+      "contentHash": "b01c9a0aec8698c3e3d32446eea87910767da38e5ff58e3676738cbd1b1b7085",
+      "fileSize": 11678
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoGiveGametip/NoGiveGametip.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoGiveGametip/NoGiveGametip.cs",
+      "notifiedAt": "2026-02-15T11:51:42.937Z",
+      "contentHash": "e6f52085dffe20f09030ad962d1b9825af35b840969f97f80417b1b1e568f9f7",
+      "fileSize": 587
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoGiveNotices/NoGiveNotices.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoGiveNotices/NoGiveNotices.cs",
+      "notifiedAt": "2026-02-15T11:51:44.935Z",
+      "contentHash": "945ad6b6f69d901d834e855e2c4ac2a8139b529fd516fefa175d56228b0ab62c",
+      "fileSize": 435
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoGreen/NoGreen.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoGreen/NoGreen.cs",
+      "notifiedAt": "2026-02-15T11:51:46.975Z",
+      "contentHash": "bbda4f85db32a671c3e944a7ae73ae01f73880fcc1ab22c4700bddf25c939e12",
+      "fileSize": 2781
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoHeliFire/NoHeliFire.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoHeliFire/NoHeliFire.cs",
+      "notifiedAt": "2026-02-15T11:51:48.856Z",
+      "contentHash": "d202a9b1a512f56c52632c651b3077fe135913cfec3fe320fa07eb27483679ce",
+      "fileSize": 3061
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoHeliFlyhack/NoHeliFlyhack.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoHeliFlyhack/NoHeliFlyhack.cs",
+      "notifiedAt": "2026-02-15T11:51:51.002Z",
+      "contentHash": "38eb3b6c3a091defc77112677ff33cf153419bd14436dd2701ad2d5cc8c5234d",
+      "fileSize": 766
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoIgniterDrain/NoIgniterDrain.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoIgniterDrain/NoIgniterDrain.cs",
+      "notifiedAt": "2026-02-15T11:51:53.166Z",
+      "contentHash": "67f4ce20396d36629d8bafdbc5d18d3c0e47862b3a6d946a4e3dc1699e0d01a2",
+      "fileSize": 1113
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoLocks/NoLocks.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoLocks/NoLocks.cs",
+      "notifiedAt": "2026-02-15T11:51:54.918Z",
+      "contentHash": "fe96bcded3dc21bac5f1d485fd9ad7bc69f1fb64288b2c667d603950578a4a8d",
+      "fileSize": 11556
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoLoot/NoLoot.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoLoot/NoLoot.cs",
+      "notifiedAt": "2026-02-15T11:51:56.823Z",
+      "contentHash": "dc2656f61f53b85498f8c5646c6227f9fe8a004e9a6597125f65ea1be712cb48",
+      "fileSize": 1737
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoMLRSMount/NoMLRSMount.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoMLRSMount/NoMLRSMount.cs",
+      "notifiedAt": "2026-02-15T11:51:58.954Z",
+      "contentHash": "9b9a980195f39041aa9484d2d00eaf5602184abffc8742208c039f0202c86211",
+      "fileSize": 2479
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoMedicalHealing/NoMedicalHealing.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoMedicalHealing/NoMedicalHealing.cs",
+      "notifiedAt": "2026-02-15T11:52:01.478Z",
+      "contentHash": "d4cf79e7f67a88203b4c10d53a8765b6bef4d7f45b855e194f1f4dbdba306584",
+      "fileSize": 1254
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoMetabolism/NoMetabolism.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoMetabolism/NoMetabolism.cs",
+      "notifiedAt": "2026-02-15T11:52:03.099Z",
+      "contentHash": "aa06364341734ed0ce9922ca6ecd53efa0d066382f2d944aafec97473b7b6a16",
+      "fileSize": 5401
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoMini/NoMini.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoMini/NoMini.cs",
+      "notifiedAt": "2026-02-15T11:52:05.041Z",
+      "contentHash": "04425ce01d3068ecbeef5de5f9ed49e54df86782aa0b78e0e354e2790cb4f050",
+      "fileSize": 7166
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoMlgWater/NoMlgWater.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoMlgWater/NoMlgWater.cs",
+      "notifiedAt": "2026-02-15T11:52:06.970Z",
+      "contentHash": "2599a109bdaa75316b482e592c8e1172ce9cf518d40e8e2fca63259d3422f168",
+      "fileSize": 5129
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoNudity/NoNudity.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoNudity/NoNudity.cs",
+      "notifiedAt": "2026-02-15T11:52:09.041Z",
+      "contentHash": "fc1787b0f52edd98f30cf3f39b956fe18b6f19f53c0704d81f5ae00b7996ff80",
+      "fileSize": 3831
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoPickupPenalty/NoPickupPenalty.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoPickupPenalty/NoPickupPenalty.cs",
+      "notifiedAt": "2026-02-15T11:52:10.988Z",
+      "contentHash": "1972a4c34cb425b94571974f28f26441340639332203eb5d7995404056b8eb63",
+      "fileSize": 3891
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoRaid/NoRaid.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoRaid/NoRaid.cs",
+      "notifiedAt": "2026-02-15T11:52:12.882Z",
+      "contentHash": "f7580fdfe6fb345912b15bd3783923e582f3462c3109676da0a9612e3d1639fe",
+      "fileSize": 28926
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoRaidRepair/NoRaidRepair.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoRaidRepair/NoRaidRepair.cs",
+      "notifiedAt": "2026-02-15T11:52:15.081Z",
+      "contentHash": "fc588bcb3fb15d09f7c8e12b87eda7db63834c2f42865ad649211462825b61d2",
+      "fileSize": 1179
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoRecoil/NoRecoil.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoRecoil/NoRecoil.cs",
+      "notifiedAt": "2026-02-15T11:52:16.935Z",
+      "contentHash": "eab8f1a1e0ce03c92ed2b5e2ded10e24ff12a8498954cb160ac25342e235a06c",
+      "fileSize": 6401
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoRespawnCooldowns/NoRespawnCooldowns.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoRespawnCooldowns/NoRespawnCooldowns.cs",
+      "notifiedAt": "2026-02-15T11:52:18.886Z",
+      "contentHash": "cc251f51d75a89a7b5201a6e30d842b7b23b8135d71ed42baf1a79d96091c71e",
+      "fileSize": 873
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoSafeZoneSleepers/NoSafeZoneSleepers.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoSafeZoneSleepers/NoSafeZoneSleepers.cs",
+      "notifiedAt": "2026-02-15T11:52:21.009Z",
+      "contentHash": "dda4395e43b46f62a5b928d950ca8f59335a2f6187e8def44ac44799cab1053f",
+      "fileSize": 11878
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoSash/NoSash.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoSash/NoSash.cs",
+      "notifiedAt": "2026-02-15T11:52:23.075Z",
+      "contentHash": "188d3eff80e54af70f178c2c80915a7e080aef3c92a2083cd3eac87f0aaf6d6c",
+      "fileSize": 1779
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoServerCCTV/NoServerCCTV.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoServerCCTV/NoServerCCTV.cs",
+      "notifiedAt": "2026-02-15T11:52:24.959Z",
+      "contentHash": "494e0e0be79865a15ca699ca295a7e4804a1492d66611cc70dd8be83a31f7c58",
+      "fileSize": 1700
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoShelvesBugRaiding/NoShelvesBugRaiding.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoShelvesBugRaiding/NoShelvesBugRaiding.cs",
+      "notifiedAt": "2026-02-15T11:52:27.178Z",
+      "contentHash": "75cd264981f7d3d08cb537365d2c4218103a63e9d660044581cc617c52cf2536",
+      "fileSize": 1999
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoSleepers/NoSleepers.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoSleepers/NoSleepers.cs",
+      "notifiedAt": "2026-02-15T11:52:29.054Z",
+      "contentHash": "f3e4c33149ce9b8227af6dd7e9d4b9084320b9d75fa97483e025ec495b3599e6",
+      "fileSize": 12737
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoSuicide/NoSuicide.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoSuicide/NoSuicide.cs",
+      "notifiedAt": "2026-02-15T11:52:31.143Z",
+      "contentHash": "b64997a073f4c823ce76a616368aa0ceb03707618024f5516688a659faac1073",
+      "fileSize": 1998
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoSunGlare/NoSunGlare.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoSunGlare/NoSunGlare.cs",
+      "notifiedAt": "2026-02-15T11:52:32.941Z",
+      "contentHash": "5da5bb337c7e77301d9b6f78c83cf2f2f28dcc62cfe3d02f22b59573911f48e8",
+      "fileSize": 7358
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoSupplySignal/NoSupplySignal.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoSupplySignal/NoSupplySignal.cs",
+      "notifiedAt": "2026-02-15T11:52:34.988Z",
+      "contentHash": "f209ba4c8b137b0757ab843774bab698329f38434832a702c74e6aff0c27d7cd",
+      "fileSize": 555
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoTeams/NoTeams.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoTeams/NoTeams.cs",
+      "notifiedAt": "2026-02-15T11:52:36.950Z",
+      "contentHash": "cacd1241da7d7e4c193fc946653c959e3364524f016c78136f51b51086c37d16",
+      "fileSize": 2406
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoTechTree/NoTechTree.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoTechTree/NoTechTree.cs",
+      "notifiedAt": "2026-02-15T11:52:39.008Z",
+      "contentHash": "31241406a371d62a12b06857da1a70d5b6bc911c29f1ae34b08c38a0e2d7913e",
+      "fileSize": 1667
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoVehicleFuel/NoVehicleFuel.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoVehicleFuel/NoVehicleFuel.cs",
+      "notifiedAt": "2026-02-15T11:52:40.852Z",
+      "contentHash": "b3571ba4a9da2fc75555cbc7af7dc2edad4d071ffddc1560f68423d28be353e7",
+      "fileSize": 6704
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoVood/NoVood.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoVood/NoVood.cs",
+      "notifiedAt": "2026-02-15T11:52:43.215Z",
+      "contentHash": "220cfe7898222a18a1a65a1156cf24be2143bec4b90b910595ff02cb539a3915",
+      "fileSize": 13651
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoWeaponDrop/NoWeaponDrop.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoWeaponDrop/NoWeaponDrop.cs",
+      "notifiedAt": "2026-02-15T11:52:45.156Z",
+      "contentHash": "e1fb32800385bcacf836cc3a04eac3d88b2a519fbf7f36bc5bb9b757d3990345",
+      "fileSize": 1844
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoWorkbench/NoWorkbench.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoWorkbench/NoWorkbench.cs",
+      "notifiedAt": "2026-02-15T11:52:47.029Z",
+      "contentHash": "d19e3e334c6b5285f879f8707c863ed8f221d2b00119b5c32dbce7a25bb22f3a",
+      "fileSize": 3306
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoWoundedSuicide/NoWoundedSuicide.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoWoundedSuicide/NoWoundedSuicide.cs",
+      "notifiedAt": "2026-02-15T11:52:48.944Z",
+      "contentHash": "8717b53ed762ca86424f1ab9bd0c04a1e98116e778cc21692518a7c20ffb4888",
+      "fileSize": 635
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoobGroup/NoobGroup.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoobGroup/NoobGroup.cs",
+      "notifiedAt": "2026-02-15T11:52:50.997Z",
+      "contentHash": "beb700ced680c198b76845b2f7fa109c0a1e5839c5796e01cac81f7e7b8349e6",
+      "fileSize": 7848
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoobMessages/NoobMessages.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoobMessages/NoobMessages.cs",
+      "notifiedAt": "2026-02-15T11:52:52.858Z",
+      "contentHash": "3895333d1b80fb876b2ca78d40aabbf6668c0245037fbbaf7d0f9f9620b137df",
+      "fileSize": 6701
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoobQueueBypass/NoobQueueBypass.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoobQueueBypass/NoobQueueBypass.cs",
+      "notifiedAt": "2026-02-15T11:52:54.822Z",
+      "contentHash": "204826a9e956c8aae81671c64ead80fad9a92cf124b078a33a88730d0455f39c",
+      "fileSize": 1215
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoteLogger/NoteLogger.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoteLogger/NoteLogger.cs",
+      "notifiedAt": "2026-02-15T11:52:56.884Z",
+      "contentHash": "3fff315e85f4cc4d409df874b671a3f6f2e0c498f9cc7ca7cc6dd6191e0ffb08",
+      "fileSize": 9376
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoteWriteControl/NoteWriteControl.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NoteWriteControl/NoteWriteControl.cs",
+      "notifiedAt": "2026-02-15T11:52:59.113Z",
+      "contentHash": "8d936c7bbf92d290f0f1ae8bd9ae6b4bb48cd4893d72f29b7bcd8b27e9774dde",
+      "fileSize": 2146
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NotesMonitor/NotesMonitor.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NotesMonitor/NotesMonitor.cs",
+      "notifiedAt": "2026-02-15T11:53:00.889Z",
+      "contentHash": "2fdd4f9e2f59d1dd1629d17c9aef6bbd8438232f1e4d029ec1be982b08c17111",
+      "fileSize": 5657
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/Notice/Notice.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/Notice/Notice.cs",
+      "notifiedAt": "2026-02-15T11:53:04.220Z",
+      "contentHash": "3410befd7b0b051af28da334d34f7e9ef6c1627e0f3f2b8feef3203a81750f5b",
+      "fileSize": 4930
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NotifyToDiscord/NotifyToDiscord.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NotifyToDiscord/NotifyToDiscord.cs",
+      "notifiedAt": "2026-02-15T11:53:05.207Z",
+      "contentHash": "281fc889e600351f152b482c9d82b0f15de335926c4fe670bb39301b434486db",
+      "fileSize": 49533
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NpcTarget/NpcTarget.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/NpcTarget/NpcTarget.cs",
+      "notifiedAt": "2026-02-15T11:53:06.833Z",
+      "contentHash": "602674480d4fe2f5c84bdb4c2eaf2b9eea40e9e88d9821456f384f9d2d9eedda",
+      "fileSize": 669
+    },
+    "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/Npctp/Npctp.cs": {
+      "key": "https://raw.githubusercontent.com/Enilgles/umod-pluigns-dataset/main/plugins/N/Npctp/Npctp.cs",
+      "notifiedAt": "2026-02-15T11:53:08.991Z",
+      "contentHash": "6344786fddefd20030addfef316a95e9f444a6b95cf305ca2b726948fcb1904c",
+      "fileSize": 55899
     }
   },
   "version": 1,
-  "updatedAt": "2026-02-15T11:27:51.878Z"
+  "updatedAt": "2026-02-15T11:53:09.012Z"
 }
