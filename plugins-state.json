@@ -272802,8 +272802,535 @@
       "notifiedAt": "2026-02-15T14:29:18.413Z",
       "contentHash": "941c4599d7b3c922e0dade24c22013500db4517455dafbd5afcdcae7e62f6199",
       "fileSize": 16418
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/SignArtist.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/SignArtist.cs",
+      "notifiedAt": "2026-02-25T16:42:52.315Z",
+      "contentHash": "f1b97354da97971ff51797482602d96a21f888e1287181ba4aa52600d79e5121",
+      "fileSha": "847cf667966db90b104a8ebc588d1cf12985a411",
+      "fileSize": 14734
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/PlayerInformations.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/PlayerInformations.cs",
+      "notifiedAt": "2026-02-25T16:42:53.166Z",
+      "contentHash": "972b24d6eb91c165200c7b3a227d8d685674fd8a27d682da4a29d310d8a43cb5",
+      "fileSha": "cdd45115e97757b3e5b0a40b604cb37f08bc8db5",
+      "fileSize": 31946
+    },
+    "https://raw.githubusercontent.com/Fritoqc/ServerSave/main/ServerSave.cs": {
+      "key": "https://raw.githubusercontent.com/Fritoqc/ServerSave/main/ServerSave.cs",
+      "notifiedAt": "2026-02-25T16:42:53.975Z",
+      "contentHash": "29a48f16a91d53c5f1c9b680836bc85a183ff3e92ae828cf9e473963c9e6d332",
+      "fileSize": 2582
+    },
+    "https://raw.githubusercontent.com/SeesAll/HandcuffLimiter/main/HandcuffLimiter.cs": {
+      "key": "https://raw.githubusercontent.com/SeesAll/HandcuffLimiter/main/HandcuffLimiter.cs",
+      "notifiedAt": "2026-02-25T16:42:54.930Z",
+      "contentHash": "f14b3b156816a366375751ec9b0c78e365ea29936da281f54b43c501e28477b7",
+      "fileSize": 57230
+    },
+    "https://raw.githubusercontent.com/st-little/rust-plugin-development/develop/Plugins/ModuleCarLicensePlateUnitTest/IsTwoModuleUnitTests.cs": {
+      "key": "https://raw.githubusercontent.com/st-little/rust-plugin-development/develop/Plugins/ModuleCarLicensePlateUnitTest/IsTwoModuleUnitTests.cs",
+      "notifiedAt": "2026-02-25T16:42:56.194Z",
+      "contentHash": "92f7d25be05384881e963d054731fc51450832e7edd53f1b57ebe24405a112e5",
+      "fileSha": "cb5eac0b93c8394afab621b48c784cc7ec144e69",
+      "fileSize": 8380
+    },
+    "https://raw.githubusercontent.com/RebeccaStevens/oxide-plugins/main/src/ConfigMaster/ConfigMaster.cs": {
+      "key": "https://raw.githubusercontent.com/RebeccaStevens/oxide-plugins/main/src/ConfigMaster/ConfigMaster.cs",
+      "notifiedAt": "2026-02-25T16:42:57.182Z",
+      "contentHash": "715becec5666f1175d808be33ac79a550abaab1b411c221cd915ac4992ee128c",
+      "fileSha": "ecc36183db1d768829a5b03a960c8e617452e7a0",
+      "fileSize": 5916
+    },
+    "https://raw.githubusercontent.com/st-little/rust-plugin-development/develop/Plugins/LocalizedChat/LocalizedChat.cs": {
+      "key": "https://raw.githubusercontent.com/st-little/rust-plugin-development/develop/Plugins/LocalizedChat/LocalizedChat.cs",
+      "notifiedAt": "2026-02-25T16:42:58.324Z",
+      "contentHash": "e7a3f597bb47c84814c25cdbae35a5ebd38a12e4add4737ff1606d8a6816eaf8",
+      "fileSha": "a737e735006aca47bf12242a52c275439c93ece6",
+      "fileSize": 5072
+    },
+    "https://raw.githubusercontent.com/Hetachi/SDONATE-SELF-HOSTED-SERVER-FILES/master/Plugins-1.9.11/sdonate-rust-plugin/SDonate.cs": {
+      "key": "https://raw.githubusercontent.com/Hetachi/SDONATE-SELF-HOSTED-SERVER-FILES/master/Plugins-1.9.11/sdonate-rust-plugin/SDonate.cs",
+      "notifiedAt": "2026-02-25T16:42:59.170Z",
+      "contentHash": "8b89739b942a19f863b60037f5156a31cbeb2082235d1e19105b2db953b43fa4",
+      "fileSize": 6090
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/universal/Friends.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/universal/Friends.cs",
+      "notifiedAt": "2026-02-25T16:43:00.370Z",
+      "contentHash": "aa1e6ad7a295311acb535bddba9f90bf49050ce783f1f1316dc80fef920ff992",
+      "fileSha": "be338bfbd04e0df9b495c3497a8181c207dc6cba",
+      "fileSize": 41206
+    },
+    "https://raw.githubusercontent.com/SNiTEBoBy/Vote-For-Money/master/VoteForMoney.cs": {
+      "key": "https://raw.githubusercontent.com/SNiTEBoBy/Vote-For-Money/master/VoteForMoney.cs",
+      "notifiedAt": "2026-02-25T16:43:01.096Z",
+      "contentHash": "25f999574be9232fb37e47fcd076a309af594fac8518ef601d0eedc5b31cd16c",
+      "fileSize": 42432
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/hurtworld/StrikeSystem.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/hurtworld/StrikeSystem.cs",
+      "notifiedAt": "2026-02-25T16:43:01.827Z",
+      "contentHash": "9839c73df1a7cb34f35dbf63d2011fc97dbae3a44cfa6a2523db90f44a6d83b2",
+      "fileSha": "d5b4f5ba9a3a0a85c31a3eff42cbac745b3f9499",
+      "fileSize": 21665
+    },
+    "https://raw.githubusercontent.com/dextermyles/Oxide.Rust/develop/src/RustExtension.cs": {
+      "key": "https://raw.githubusercontent.com/dextermyles/Oxide.Rust/develop/src/RustExtension.cs",
+      "notifiedAt": "2026-02-25T16:43:02.565Z",
+      "contentHash": "7ea358c6d98ffc18e0da40d1eb06d9201d4e20f104b211c9de9ba763055d2006",
+      "fileSha": "61be74b3649c51700a501e7d7de158b999c40d1f",
+      "fileSize": 8663
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Recycle.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/Recycle.cs",
+      "notifiedAt": "2026-02-25T16:43:03.404Z",
+      "contentHash": "d2c5be565f0c4a34007e9866d32aa67fce56842c1ddaa4104f09ddace321d1c4",
+      "fileSha": "fbcf2a7d346a55165c83ea3d13854f298457924e",
+      "fileSize": 18229
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/AdvMetabolism.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/AdvMetabolism.cs",
+      "notifiedAt": "2026-02-25T16:43:04.263Z",
+      "contentHash": "182ed7c2e6cbffcac01c757ab2f69d0de5a2c84fdd99a6724b05ddb22dd963f3",
+      "fileSha": "a770f57a5fe725a4aeaf576c97a456d301d9ee19",
+      "fileSize": 30056
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/BuildingRestriction.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/BuildingRestriction.cs",
+      "notifiedAt": "2026-02-25T16:43:05.309Z",
+      "contentHash": "0b0bc6b2c4ab60570d6255c7e8a03d612b7bac8cfba9faf2800e4b24684aaa86",
+      "fileSha": "a13e5f9ecdf14e9e0c0701e64872ff75771f14a8",
+      "fileSize": 11256
+    },
+    "https://raw.githubusercontent.com/dextermyles/Oxide.Rust/develop/src/RustPlugin.cs": {
+      "key": "https://raw.githubusercontent.com/dextermyles/Oxide.Rust/develop/src/RustPlugin.cs",
+      "notifiedAt": "2026-02-25T16:43:06.132Z",
+      "contentHash": "bc3dde1fae4ed02eb832a9f616d0d541183e610de4ed2e4279dc0c46c3ca9354",
+      "fileSize": 10239
+    },
+    "https://raw.githubusercontent.com/dextermyles/Oxide.Rust/develop/src/RustHooks.cs": {
+      "key": "https://raw.githubusercontent.com/dextermyles/Oxide.Rust/develop/src/RustHooks.cs",
+      "notifiedAt": "2026-02-25T16:43:06.962Z",
+      "contentHash": "daebab0ef070629c690aaa16362f3c378f12a5065b6951596241f3da43ff13fa",
+      "fileSha": "fa1709bb2e60493d1a95c131e6b94a0fe7bbbed0",
+      "fileSize": 26692
+    },
+    "https://raw.githubusercontent.com/estxbvnnn/TagsTwitchRivalsRust/main/TagsRustaco.cs": {
+      "key": "https://raw.githubusercontent.com/estxbvnnn/TagsTwitchRivalsRust/main/TagsRustaco.cs",
+      "notifiedAt": "2026-02-25T16:43:09.377Z",
+      "contentHash": "6ee9aa97a51f3cef45a92bc4f4c72f33abfb7cdba1636c4e13bd14ede1d6ddff",
+      "fileSize": 145924
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/hurtworld/NoClone.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/hurtworld/NoClone.cs",
+      "notifiedAt": "2026-02-25T16:43:10.312Z",
+      "contentHash": "b491b5047a150274edc94826a8df3cca573d78301624b03566a175a1fd2fe2ae",
+      "fileSha": "84a495a9367c8bba699bdd3c2096e90af79416d2",
+      "fileSize": 1605
+    },
+    "https://raw.githubusercontent.com/estxbvnnn/HardpointMode/main/Hardpointaco.cs": {
+      "key": "https://raw.githubusercontent.com/estxbvnnn/HardpointMode/main/Hardpointaco.cs",
+      "notifiedAt": "2026-02-25T16:43:11.296Z",
+      "contentHash": "cb79c7eb34df5736b0324f280a0ef5fc97ff2eeb8dda141967dfc854ede6c6a2",
+      "fileSize": 81414
+    },
+    "https://raw.githubusercontent.com/dextermyles/Oxide.Rust/develop/src/RustCore.cs": {
+      "key": "https://raw.githubusercontent.com/dextermyles/Oxide.Rust/develop/src/RustCore.cs",
+      "notifiedAt": "2026-02-25T16:43:12.133Z",
+      "contentHash": "75aa63404180b2c0afb2aae7ec8f46278356214b5037baf566ba5d17621ae577",
+      "fileSha": "55589d812f1bc1fda89f93084c4f89aa6a14c45c",
+      "fileSize": 15236
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/Friends.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/Friends.cs",
+      "notifiedAt": "2026-02-25T16:43:12.839Z",
+      "contentHash": "aa1e6ad7a295311acb535bddba9f90bf49050ce783f1f1316dc80fef920ff992",
+      "fileSha": "be338bfbd04e0df9b495c3497a8181c207dc6cba",
+      "fileSize": 41206
+    },
+    "https://raw.githubusercontent.com/dextermyles/Oxide.Rust/develop/src/GlobalSuppressions.cs": {
+      "key": "https://raw.githubusercontent.com/dextermyles/Oxide.Rust/develop/src/GlobalSuppressions.cs",
+      "notifiedAt": "2026-02-25T16:43:13.750Z",
+      "contentHash": "ab86c51d6105c394b477172e86af1a9eba7a7e9b83f0a395485521ce3f44656c",
+      "fileSha": "b6821e3210fbb295513f139ae4a3799f944d916f",
+      "fileSize": 16735
+    },
+    "https://raw.githubusercontent.com/scorteanucosmin/Oxide.Core/develop/src/ExtensionMethods.cs": {
+      "key": "https://raw.githubusercontent.com/scorteanucosmin/Oxide.Core/develop/src/ExtensionMethods.cs",
+      "notifiedAt": "2026-02-25T16:43:14.666Z",
+      "contentHash": "b78a3e20bfece93cd092a1e5aac6b0ecaf307bfe6ca5b7f710a82482f44d5364",
+      "fileSha": "3cbb7e4db3dcefdc4ddd663a32405792b5d5763c",
+      "fileSize": 13072
+    },
+    "https://raw.githubusercontent.com/dextermyles/Oxide.Rust/develop/src/RustExtensionMethods.cs": {
+      "key": "https://raw.githubusercontent.com/dextermyles/Oxide.Rust/develop/src/RustExtensionMethods.cs",
+      "notifiedAt": "2026-02-25T16:43:15.459Z",
+      "contentHash": "4733432804b6b0c5eed365ef50434d400f34cf5f6606d7c40ac2709b49525d2d",
+      "fileSize": 189
+    },
+    "https://raw.githubusercontent.com/scorteanucosmin/Oxide.CSharp/develop/src/Common/Constants.cs": {
+      "key": "https://raw.githubusercontent.com/scorteanucosmin/Oxide.CSharp/develop/src/Common/Constants.cs",
+      "notifiedAt": "2026-02-25T16:43:16.378Z",
+      "contentHash": "969f4dc52efeee7625d96a7c36ebec74d3e4662b6beb04aac5762aa3daf31c40",
+      "fileSha": "1c6635fbd257d29cc7676fa4f5665f44c090a2f9",
+      "fileSize": 2649
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/PickupLines.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/PickupLines.cs",
+      "notifiedAt": "2026-02-25T16:43:17.920Z",
+      "contentHash": "4bc6094a7a24ed4b29994cc72e9ca1688d09e14e202e679d58db57470585276f",
+      "fileSha": "674381bd760e3c574f2afdb5c3130d94e20e5925",
+      "fileSize": 4112
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/TimeManagement.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/TimeManagement.cs",
+      "notifiedAt": "2026-02-25T16:43:18.825Z",
+      "contentHash": "c6d1482903cc8de08a57730586dfcedd2ef3bada9cd5d122facdf97d93e9f178",
+      "fileSha": "68ab4c43b9595398389f007d1b9ae19429968852",
+      "fileSize": 7598
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/SuicideCooldown.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/SuicideCooldown.cs",
+      "notifiedAt": "2026-02-25T16:43:19.609Z",
+      "contentHash": "24974bedf0dd38fd850202bf0b74b703f433128a7c012d8e0e5bf3f9d1c8d1a1",
+      "fileSha": "816bd3464ff74a3edf180235aae26a55709f20bd",
+      "fileSize": 5134
+    },
+    "https://raw.githubusercontent.com/OxideMod/Oxide.CSharp/develop/src/Common/Constants.cs": {
+      "key": "https://raw.githubusercontent.com/OxideMod/Oxide.CSharp/develop/src/Common/Constants.cs",
+      "notifiedAt": "2026-02-25T16:43:22.107Z",
+      "contentHash": "6f71179234e295b389f245af3b36be483ae4bd53492f8b07132f54081efff225",
+      "fileSha": "0346f541c551bac29cd8ec965e9ad69fde8bc612",
+      "fileSize": 2713
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Carbon/CorePlugin/Core.Commands.Hooks.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Carbon/CorePlugin/Core.Commands.Hooks.cs",
+      "notifiedAt": "2026-02-25T16:43:22.903Z",
+      "contentHash": "7b2f7876afe69c8700c50e25eaa6b4f1a0cd20cf4e2b69e5edebcc03e7abd5da",
+      "fileSha": "bca13b3891fea9dad0e8f87fb0e3c8c2f661c663",
+      "fileSize": 13899
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust legacy/Fly.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust legacy/Fly.cs",
+      "notifiedAt": "2026-02-25T16:43:23.761Z",
+      "contentHash": "e6516a65c07f98727238debd699ba4903e07d199f2888241d9e6db09a431f0ed",
+      "fileSha": "6d372f767162b4539d3d2087e8572b0db416b5f1",
+      "fileSize": 4044
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/Carbon.Core/Carbon/src/Loaders/ScriptLoader.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/Carbon.Core/Carbon/src/Loaders/ScriptLoader.cs",
+      "notifiedAt": "2026-02-25T16:43:26.311Z",
+      "contentHash": "23946f21c734ea93bee95f926308cfbcd978ec013d72a9961bc5a31754143a2e",
+      "fileSha": "b69c44a969c8b155a425217933227118cd5cd09d",
+      "fileSize": 16707
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/DMBuildingBlocks.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/DMBuildingBlocks.cs",
+      "notifiedAt": "2026-02-25T16:43:27.063Z",
+      "contentHash": "2b6df6717541fd393071bccbfdb702ad13a85f6365db29bd4cd983e7f5f895d8",
+      "fileSha": "b4795e9f30407c428cbf1410a3dbcdf2439c8968",
+      "fileSize": 25356
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Core/CSharpPluginLoader.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Core/CSharpPluginLoader.cs",
+      "notifiedAt": "2026-02-25T16:43:27.930Z",
+      "contentHash": "fd55905d9b054fb87058484cd670a766f21089d1b82627215cd39750823edf02",
+      "fileSize": 77
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/universal/HelpText.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/universal/HelpText.cs",
+      "notifiedAt": "2026-02-25T16:43:28.724Z",
+      "contentHash": "23027c1956e6ce720da649d3d150b077a500822bb97b18b034df04067a082ade",
+      "fileSha": "6d0a5b9a1197578c74a384e6cb9b4cb355ecc1eb",
+      "fileSize": 2806
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/universal/VPNBlock.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/universal/VPNBlock.cs",
+      "notifiedAt": "2026-02-25T16:43:29.543Z",
+      "contentHash": "aa6a7335785dc5e5305ca465156d36a82df659a6748c76c9deaf521a749e55d0",
+      "fileSha": "7b37309dbc72e2b83244dc6688365a3ef826cfff",
+      "fileSize": 3918
+    },
+    "https://raw.githubusercontent.com/MateoTaylor/Rust-Reinforcement-Learning/main/plugin_backups/GiveItem.cs": {
+      "key": "https://raw.githubusercontent.com/MateoTaylor/Rust-Reinforcement-Learning/main/plugin_backups/GiveItem.cs",
+      "notifiedAt": "2026-02-25T16:43:30.608Z",
+      "contentHash": "e5cb2a4cc7a7ac442e83d7c01ee3f511cf1b3d2b4ba88e4c9cc336095a9d2396",
+      "fileSize": 1451
+    },
+    "https://raw.githubusercontent.com/Ross-Ward/Oxide/master/plugins/NWGGather.cs": {
+      "key": "https://raw.githubusercontent.com/Ross-Ward/Oxide/master/plugins/NWGGather.cs",
+      "notifiedAt": "2026-02-25T16:43:31.332Z",
+      "contentHash": "c9209b390da1e0340e392e57e72002cf039b28c4bde66627e0f4333040f6e7f3",
+      "fileSha": "294fb835d15a7c1e272f7804f38fea6aed0c2052",
+      "fileSize": 36627
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HeavyRig (1).cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/HeavyRig (1).cs",
+      "notifiedAt": "2026-02-25T16:43:32.096Z",
+      "contentHash": "039408f6e50874805c7508a5790d3d0fd0a135a6d55d072d8dcbc1bc3ab57f74",
+      "fileSha": "c9b47feedecc997e51ddbaffd32d2fdad94f8372",
+      "fileSize": 19400
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Extensions/ExtensionMethods.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Extensions/ExtensionMethods.cs",
+      "notifiedAt": "2026-02-25T16:43:32.896Z",
+      "contentHash": "825b1f4d6d174341d98cd0381425ff3ed28772784af720d0858905e8bb4fd8f6",
+      "fileSize": 6487
+    },
+    "https://raw.githubusercontent.com/fuflik52/NewApi/main/figma/code.js": {
+      "key": "https://raw.githubusercontent.com/fuflik52/NewApi/main/figma/code.js",
+      "notifiedAt": "2026-02-25T16:43:33.496Z",
+      "fileSha": "d1155c12c6fe4a5705fb34e8c8b8e84c84fdb8e9"
+    },
+    "https://raw.githubusercontent.com/hopollo/RustBetterVanilla/master/WeaponsChanges.cs": {
+      "key": "https://raw.githubusercontent.com/hopollo/RustBetterVanilla/master/WeaponsChanges.cs",
+      "notifiedAt": "2026-02-25T16:43:34.536Z",
+      "contentHash": "61e5972abb6a1e53779a2365c7798adb7ca71eb9ece3d9fa192bf86ded84fdb8",
+      "fileSize": 18292
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Carbon/Modules/AdminModule/AdminModule.Tabs.Plugins.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Carbon/Modules/AdminModule/AdminModule.Tabs.Plugins.cs",
+      "notifiedAt": "2026-02-25T16:43:35.396Z",
+      "contentHash": "c419781e95f92236cbabd39f277c5d950c0e2f5752e59d698b984e31d49f2458",
+      "fileSha": "ae54d8db38fa3cb35422b831d66e4229b7d82e1e",
+      "fileSize": 98913
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/EnhancedBanSystem.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/EnhancedBanSystem.cs",
+      "notifiedAt": "2026-02-25T16:43:36.153Z",
+      "contentHash": "ab39afdf35e3e59318d444577307c8fb22f272bfcdddb9815363aa4caa5daef0",
+      "fileSha": "e08fcdeaedbaadc666d23b3a171219980957d183",
+      "fileSize": 39901
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/CopyPaste.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/CopyPaste.cs",
+      "notifiedAt": "2026-02-25T16:43:37.038Z",
+      "contentHash": "50c3e9eb0f6616eade14d499cf63c064e0defd9d805581e413371b2caac4fbfb",
+      "fileSha": "a0a63190bd9aa0651fe5ee17e8e943ce0ff615bf",
+      "fileSize": 25456
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/RustedStore.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/RustedStore.cs",
+      "notifiedAt": "2026-02-25T16:43:37.694Z",
+      "contentHash": "3f190b955f50f64ac4ac9a127a2d9b7d48504848b69c8ec70722a09df7d1840a",
+      "fileSha": "e7c9f3e8385662cb0173b5c27923cc0d90990b50",
+      "fileSize": 9710
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Libraries/Rust.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Libraries/Rust.cs",
+      "notifiedAt": "2026-02-25T16:43:38.439Z",
+      "contentHash": "0d06267fbf0a6732bdc994fd0718a759c42a40c0c76e810f97d9e6b85b389129",
+      "fileSha": "d7e28a7e3e692d907c7ef4a83386afbedbc6625d",
+      "fileSize": 840
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Covalence/IPlayer.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Covalence/IPlayer.cs",
+      "notifiedAt": "2026-02-25T16:43:39.311Z",
+      "contentHash": "3e26e175c3ba07395f42900cfa9d5784401c19c1cc403cdcd898335bf8b5990a",
+      "fileSha": "db71c88fd73f75b7d0ca7c2647d315f32d211a55",
+      "fileSize": 9664
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Covalence/CovalencePlugin.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Covalence/CovalencePlugin.cs",
+      "notifiedAt": "2026-02-25T16:43:40.082Z",
+      "contentHash": "83c0339c1311db328086efc5d6ccc52a976b7674ca57de36b3323ad81615ac5b",
+      "fileSize": 6138
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/PlayerList.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/PlayerList.cs",
+      "notifiedAt": "2026-02-25T16:43:40.836Z",
+      "contentHash": "c75ae04c80962e59bb45b243236a35cb6c3f533c9cd354f8bbd0d875f55fde02",
+      "fileSha": "a8e1b8c140dfe343923f1cae470388f4eecc9a0f",
+      "fileSize": 7347
+    },
+    "https://raw.githubusercontent.com/Ross-Ward/Oxide/master/plugins/NWGVending.cs": {
+      "key": "https://raw.githubusercontent.com/Ross-Ward/Oxide/master/plugins/NWGVending.cs",
+      "notifiedAt": "2026-02-25T16:43:41.954Z",
+      "contentHash": "8bc6aee7a648663b9f9fa6be5eddb9ce5e40d0e7c0cd75545598fe9c946df813",
+      "fileSha": "e4e93c8d0f2ff81e88450823576972fa461e649e",
+      "fileSize": 187079
+    },
+    "https://raw.githubusercontent.com/Ross-Ward/Oxide/master/plugins/NWGPerms.cs": {
+      "key": "https://raw.githubusercontent.com/Ross-Ward/Oxide/master/plugins/NWGPerms.cs",
+      "notifiedAt": "2026-02-25T16:43:42.771Z",
+      "contentHash": "bc9376cd13eabd5540688bd9d1a2951dcd60a5d8c3c0f5e762efa3abca51b004",
+      "fileSha": "39e7c4af09fada4ad91299e547e1a2fb6ffa4e32",
+      "fileSize": 54756
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/hurtworld/PlayersList.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/hurtworld/PlayersList.cs",
+      "notifiedAt": "2026-02-25T16:43:43.481Z",
+      "contentHash": "8c543fc99d90dc74f9842a31b80dbfe24e621fe98362a5a8e24c4c86e48f4a61",
+      "fileSha": "f492c2f4b2a591f5cac3997a6ba1e36fba16b8c2",
+      "fileSize": 3011
+    },
+    "https://raw.githubusercontent.com/Ross-Ward/Oxide/master/plugins/NWGConfigEditor.cs": {
+      "key": "https://raw.githubusercontent.com/Ross-Ward/Oxide/master/plugins/NWGConfigEditor.cs",
+      "notifiedAt": "2026-02-25T16:43:44.414Z",
+      "contentHash": "eb8e260699b5830feb86a0465850057a95ee42aa9f008beacea9831cd61b6f28",
+      "fileSha": "174f392fb381981820bd5292e4992d43c50d2205",
+      "fileSize": 14889
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Carbon/Modules/HammerModule/HammerModule.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Carbon/Modules/HammerModule/HammerModule.cs",
+      "notifiedAt": "2026-02-25T16:43:45.317Z",
+      "contentHash": "c9eba352cba24d80bd77df33fa6ca85eb6a82a942240652d186455371f46da97",
+      "fileSha": "7bd2c36a860627bcba9ad3e5f436bb86b6eaac53",
+      "fileSize": 39211
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Carbon/Modules/ImageDatabaseModule/ImageDatabaseModule.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Carbon/Modules/ImageDatabaseModule/ImageDatabaseModule.cs",
+      "notifiedAt": "2026-02-25T16:43:46.217Z",
+      "contentHash": "432640a78a733733e0ab4f70283897db58c4f66e0dce1344e0367ce931077779",
+      "fileSha": "74b08c682710adb90da3258e8f34dd0b50cbee10",
+      "fileSize": 16394
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/RustPlugin.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/RustPlugin.cs",
+      "notifiedAt": "2026-02-25T16:43:48.200Z",
+      "contentHash": "38802b59278521312b3abf9e05fa378bb9a44784a46df87a6957c9fabc45d943",
+      "fileSize": 14214
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Modules/develop/src/AutoWipeModule/AutoWipeModule.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Modules/develop/src/AutoWipeModule/AutoWipeModule.cs",
+      "notifiedAt": "2026-02-25T16:43:50.304Z",
+      "contentHash": "a21101aff03052facec1d068333efa9a52739bd94cb67a017eb02915ba62771a",
+      "fileSha": "907d2ce668169fad10003211ce71c8498f2e2686",
+      "fileSize": 14241
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/RustExtensionMethods.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/RustExtensionMethods.cs",
+      "notifiedAt": "2026-02-25T16:43:52.156Z",
+      "contentHash": "f9d5b1d424af8c73811e358550b2c4382e48bd5f475fff87bc11559a736d5cbd",
+      "fileSize": 177
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Core/CSharpPlugin.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Core/CSharpPlugin.cs",
+      "notifiedAt": "2026-02-25T16:43:54.317Z",
+      "contentHash": "629d8903e7b6355c72ecaea54dc7bb5035b509280b7701c2be30e73be6cc89cd",
+      "fileSize": 67
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Libraries/Timer.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon.Common/develop/src/Oxide/Libraries/Timer.cs",
+      "notifiedAt": "2026-02-25T16:43:56.114Z",
+      "contentHash": "cced259f15da2a7e189d4cf05c9cb630f362428d334fa72c270893ea1b81daea",
+      "fileSize": 4677
+    },
+    "https://raw.githubusercontent.com/publicrust/plugins-forum/main/README.md": {
+      "key": "https://raw.githubusercontent.com/publicrust/plugins-forum/main/README.md",
+      "notifiedAt": "2026-02-25T16:43:58.034Z",
+      "fileSha": "116677915c0b1bf43870a0221da98e68f6962bef"
+    },
+    "https://raw.githubusercontent.com/zonely-gen-tr/ZonelyCoreRust/main/ZonelyCoreRust.cs": {
+      "key": "https://raw.githubusercontent.com/zonely-gen-tr/ZonelyCoreRust/main/ZonelyCoreRust.cs",
+      "notifiedAt": "2026-02-25T16:44:00.236Z",
+      "contentHash": "f910c9ee28380ae3eb3ea754af60626d659a2d1f8091854fd017394fdf33bbe9",
+      "fileSize": 15181
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/Commandblock.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/Commandblock.cs",
+      "notifiedAt": "2026-02-25T16:44:02.278Z",
+      "contentHash": "d4dba7b414c254f8f71b7be7c5a2a5d96226ed06aad902717dd758c514027ad8",
+      "fileSha": "bedf32a90ffda656418063016ca7332d6f8aa0de",
+      "fileSize": 2126
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/hurtworld/PlayerInformations.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/hurtworld/PlayerInformations.cs",
+      "notifiedAt": "2026-02-25T16:44:04.246Z",
+      "contentHash": "7227e94f6c99d9c1cfaa88f6bd0846985a23aca1ff9447e1e3a848536a055827",
+      "fileSha": "6a48cf7c88b8e6a307348afaaa9de9b7076d5a58",
+      "fileSize": 31934
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/LootSpawnLists.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/LootSpawnLists.cs",
+      "notifiedAt": "2026-02-25T16:44:06.328Z",
+      "contentHash": "fcb7ec875c05b8eaf3f28f1e69887c30b6f3a985a0b2c0a4995f28e240561075",
+      "fileSha": "b2a9a8885c48fa3bf682db460d8d599bcb313549",
+      "fileSize": 4987
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/AirdropInBound.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/AirdropInBound.cs",
+      "notifiedAt": "2026-02-25T16:44:08.150Z",
+      "contentHash": "bb092f8508bc33ec3804a29d7605a05083ef7e1736d6f41386467d0c56a6607b",
+      "fileSha": "c9d4c3fbd2103999e0d829dcdbe868438cdc288e",
+      "fileSize": 3811
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/GatherMultiplier.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/GatherMultiplier.cs",
+      "notifiedAt": "2026-02-25T16:44:10.309Z",
+      "contentHash": "94e7ea205e0ee082ec99f4eb6ef62ca0b01bc9bd196a6a55e7b7b15db1de6240",
+      "fileSha": "c3ff6acf014107a4faba84ee712c6bf618b94dd8",
+      "fileSize": 8152
+    },
+    "https://raw.githubusercontent.com/hopollo/RustBetterVanilla/master/ChatCommandsChanges.cs": {
+      "key": "https://raw.githubusercontent.com/hopollo/RustBetterVanilla/master/ChatCommandsChanges.cs",
+      "notifiedAt": "2026-02-25T16:50:27.313Z",
+      "contentHash": "008e8af22e2995a6708e6bb800f25dbb68891884a93e316760a7566ee047f52b",
+      "fileSize": 4882
+    },
+    "https://raw.githubusercontent.com/hopollo/RustBetterVanilla/master/SpawnConfig.cs": {
+      "key": "https://raw.githubusercontent.com/hopollo/RustBetterVanilla/master/SpawnConfig.cs",
+      "notifiedAt": "2026-02-25T16:50:28.310Z",
+      "contentHash": "1dd5d2aa95fb0b525d3813546b6487c95ebdd8a6ee7dc655fddaa67a69457cae",
+      "fileSize": 5494
+    },
+    "https://raw.githubusercontent.com/MateoTaylor/Rust-Reinforcement-Learning/main/plugin_backups/GetState.cs": {
+      "key": "https://raw.githubusercontent.com/MateoTaylor/Rust-Reinforcement-Learning/main/plugin_backups/GetState.cs",
+      "notifiedAt": "2026-02-25T16:50:29.347Z",
+      "contentHash": "ab60dcd72c9ac5f65eebf5e33f30ac6be245a1d851bb191612ccbd109fd3ba75",
+      "fileSize": 18875
+    },
+    "https://raw.githubusercontent.com/MateoTaylor/Rust-Reinforcement-Learning/main/plugin_backups/NoDeathScreen.cs": {
+      "key": "https://raw.githubusercontent.com/MateoTaylor/Rust-Reinforcement-Learning/main/plugin_backups/NoDeathScreen.cs",
+      "notifiedAt": "2026-02-25T16:50:30.303Z",
+      "contentHash": "559b508ce9a7d6b98395e3c0be7bb20834acc74d72c7f0cadb7713153a8d80eb",
+      "fileSize": 6641
+    },
+    "https://raw.githubusercontent.com/MateoTaylor/Rust-Reinforcement-Learning/main/plugin_backups/ResetEnv.cs": {
+      "key": "https://raw.githubusercontent.com/MateoTaylor/Rust-Reinforcement-Learning/main/plugin_backups/ResetEnv.cs",
+      "notifiedAt": "2026-02-25T16:50:32.092Z",
+      "contentHash": "e94100412ecd9e3d749b8c54a4bc7b98de92e731f566fffa134724e5de3ad015",
+      "fileSize": 12998
+    },
+    "https://raw.githubusercontent.com/MateoTaylor/Rust-Reinforcement-Learning/main/plugin_backups/StateServerPlayersNodes.cs": {
+      "key": "https://raw.githubusercontent.com/MateoTaylor/Rust-Reinforcement-Learning/main/plugin_backups/StateServerPlayersNodes.cs",
+      "notifiedAt": "2026-02-25T16:50:32.914Z",
+      "contentHash": "58e9e62d928d794766e18cc20df78862b83e3dc21c06363aa6b40572109005b5",
+      "fileSize": 12904
+    },
+    "https://raw.githubusercontent.com/fuflik52/TestMap/main/SimpleMapGUI.cs": {
+      "key": "https://raw.githubusercontent.com/fuflik52/TestMap/main/SimpleMapGUI.cs",
+      "notifiedAt": "2026-02-25T16:50:35.605Z",
+      "contentHash": "c2fe6e315f79b3cdf5febc188bebf0246b63e612cfecf1a8164df95bc9ca78b3",
+      "fileSize": 42694
+    },
+    "https://raw.githubusercontent.com/jerkypaisen/Speedometer/main/Speedometer.cs": {
+      "key": "https://raw.githubusercontent.com/jerkypaisen/Speedometer/main/Speedometer.cs",
+      "notifiedAt": "2026-02-25T16:50:37.011Z",
+      "contentHash": "0cb2e175e651f3f80d9616b4567594724556fad5dfd18a14cd06962c65661445",
+      "fileSize": 3335
+    },
+    "https://raw.githubusercontent.com/SeesAll/BlueprintShare-Fixed/main/BlueprintShare.cs": {
+      "key": "https://raw.githubusercontent.com/SeesAll/BlueprintShare-Fixed/main/BlueprintShare.cs",
+      "notifiedAt": "2026-02-25T16:50:37.936Z",
+      "contentHash": "f0e0b6e9d9cc2a36bb9ab32b7acbabee58ae5491d8be80a6be8bdb80f5b37cf0",
+      "fileSize": 50976
+    },
+    "https://raw.githubusercontent.com/SeesAll/Rust-Command-Chat-Logger/main/CommandChatLogger.cs": {
+      "key": "https://raw.githubusercontent.com/SeesAll/Rust-Command-Chat-Logger/main/CommandChatLogger.cs",
+      "notifiedAt": "2026-02-25T16:50:38.834Z",
+      "contentHash": "5565a87bd966e8b48173993ed2ade7a33242f31427ea4fdf4e1a7a84a6091de6",
+      "fileSize": 7726
+    },
+    "https://raw.githubusercontent.com/SeesAll/SmartSmelt/main/SmartSmelt.cs": {
+      "key": "https://raw.githubusercontent.com/SeesAll/SmartSmelt/main/SmartSmelt.cs",
+      "notifiedAt": "2026-02-25T16:50:39.857Z",
+      "contentHash": "7c6045818d1e9b6d6cc6ff674299d96760753d7a660ca848647cc06251d28db6",
+      "fileSize": 86999
     }
   },
   "version": 1,
-  "updatedAt": "2026-02-25T15:36:16.708Z"
+  "updatedAt": "2026-02-25T16:50:39.878Z"
 }
