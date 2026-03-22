@@ -274854,8 +274854,237 @@
       "notifiedAt": "2026-03-17T20:38:46.306Z",
       "contentHash": "dd49da3d1783c199066a48248d88d58bbcfb7e071528e176176c7f4f57f1e74a",
       "fileSize": 10724
+    },
+    "https://raw.githubusercontent.com/read-0nly/RustMods/main/TrueMusic/TrueMusic.cs": {
+      "key": "https://raw.githubusercontent.com/read-0nly/RustMods/main/TrueMusic/TrueMusic.cs",
+      "notifiedAt": "2026-03-22T13:39:18.391Z",
+      "contentHash": "22a23a55d90c0f9212dccf56029ca11b54d57b97c352b25ad98510fd09999474",
+      "fileSha": "55382ea8a801b78fdd81a956f184827c6104a6c4",
+      "fileSize": 3032
+    },
+    "https://raw.githubusercontent.com/WheteThunger/Telekinesis/master/Telekinesis.cs": {
+      "key": "https://raw.githubusercontent.com/WheteThunger/Telekinesis/master/Telekinesis.cs",
+      "notifiedAt": "2026-03-22T13:39:19.287Z",
+      "contentHash": "e638ac7bdd88f64616d2c8bc57c6f970f5b3379c50700763000eb793d87fadce",
+      "fileSha": "3cfd9cb64e910b89335600e26f3387a3dbc63163",
+      "fileSize": 49496
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Oxide/RustExtensionMethods.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Oxide/RustExtensionMethods.cs",
+      "notifiedAt": "2026-03-22T13:39:20.207Z",
+      "contentHash": "f9d5b1d424af8c73811e358550b2c4382e48bd5f475fff87bc11559a736d5cbd",
+      "fileSha": "410809345ed2ad16ba0b249b0ad8e631497e615f",
+      "fileSize": 177
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Oxide/Extensions/ExtensionMethods.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Oxide/Extensions/ExtensionMethods.cs",
+      "notifiedAt": "2026-03-22T13:39:21.335Z",
+      "contentHash": "825b1f4d6d174341d98cd0381425ff3ed28772784af720d0858905e8bb4fd8f6",
+      "fileSha": "6688ea5b9cf645d29fd46354bb249d0da1c99d0d",
+      "fileSize": 6487
+    },
+    "https://raw.githubusercontent.com/WeirdPhrog/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Carbon/CorePlugin/Core.Commands.Hooks.cs": {
+      "key": "https://raw.githubusercontent.com/WeirdPhrog/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Carbon/CorePlugin/Core.Commands.Hooks.cs",
+      "notifiedAt": "2026-03-22T13:39:22.142Z",
+      "contentHash": "7b2f7876afe69c8700c50e25eaa6b4f1a0cd20cf4e2b69e5edebcc03e7abd5da",
+      "fileSha": "bca13b3891fea9dad0e8f87fb0e3c8c2f661c663",
+      "fileSize": 13899
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Carbon/CorePlugin/Core.Commands.Hooks.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Carbon/CorePlugin/Core.Commands.Hooks.cs",
+      "notifiedAt": "2026-03-22T13:39:22.980Z",
+      "contentHash": "7b2f7876afe69c8700c50e25eaa6b4f1a0cd20cf4e2b69e5edebcc03e7abd5da",
+      "fileSha": "bca13b3891fea9dad0e8f87fb0e3c8c2f661c663",
+      "fileSize": 13899
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/AntiCheat.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust legacy/AntiCheat.cs",
+      "notifiedAt": "2026-03-22T13:39:23.746Z",
+      "contentHash": "754d80ea849bb31b7b98b1794ebc2eabbfa1dbe93316b807735965377cf9cc42",
+      "fileSha": "e99985e5d3748ec23445f211ed9d1d6b672128b7",
+      "fileSize": 46455
+    },
+    "https://raw.githubusercontent.com/scorteanucosmin/Oxide.Core/develop/src/RemoteLogger.cs": {
+      "key": "https://raw.githubusercontent.com/scorteanucosmin/Oxide.Core/develop/src/RemoteLogger.cs",
+      "notifiedAt": "2026-03-22T13:39:24.580Z",
+      "contentHash": "7fdcae793f18c95336b4430ed0855a25d1791b939869f839291e940e9e70f72c",
+      "fileSha": "b6add6234e188dfa5e84fa7da3fc64c96212ed03",
+      "fileSize": 10781
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/AdminLeaveJoin.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/universal/AdminLeaveJoin.cs",
+      "notifiedAt": "2026-03-22T13:39:25.443Z",
+      "contentHash": "6056a51e4366a17470a35b281a426327baa5e28a1ed98b54a2eb2f8555cf02bd",
+      "fileSha": "d1eabd6ad656d0f735d8989b55382b0740fda63d",
+      "fileSize": 7580
+    },
+    "https://raw.githubusercontent.com/WeirdPhrog/Carbon/develop/src/Carbon.Components/Carbon.Compat/src/Patches/Oxide/OxideTypeRef.cs": {
+      "key": "https://raw.githubusercontent.com/WeirdPhrog/Carbon/develop/src/Carbon.Components/Carbon.Compat/src/Patches/Oxide/OxideTypeRef.cs",
+      "notifiedAt": "2026-03-22T13:39:26.079Z",
+      "contentHash": "43dd79796a7ae6978bed64f61b352bf87bd4fafbcd2734c6dd0d4aaa2faca6bb",
+      "fileSha": "f95317255eb5826b53306b2c78c18bfd495d704b",
+      "fileSize": 7541
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Oxide/Covalence/IPlayer.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Oxide/Covalence/IPlayer.cs",
+      "notifiedAt": "2026-03-22T13:39:26.651Z",
+      "contentHash": "3e26e175c3ba07395f42900cfa9d5784401c19c1cc403cdcd898335bf8b5990a",
+      "fileSha": "db71c88fd73f75b7d0ca7c2647d315f32d211a55",
+      "fileSize": 9664
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Compat/src/Patches/Oxide/OxideTypeRef.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Compat/src/Patches/Oxide/OxideTypeRef.cs",
+      "notifiedAt": "2026-03-22T13:39:27.594Z",
+      "contentHash": "43dd79796a7ae6978bed64f61b352bf87bd4fafbcd2734c6dd0d4aaa2faca6bb",
+      "fileSha": "f95317255eb5826b53306b2c78c18bfd495d704b",
+      "fileSize": 7541
+    },
+    "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TeamGuard.cs": {
+      "key": "https://raw.githubusercontent.com/13dasd123/SlivPlugins/master/TeamGuard.cs",
+      "notifiedAt": "2026-03-22T13:39:28.484Z",
+      "contentHash": "d901382fac591ad1b8dd156869ff8a98a9ed7405b326eb5429509bbdc4b9f4c7",
+      "fileSha": "95ef2b8a4faee137241a3c8c6972619527b5b173",
+      "fileSize": 42423
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/RockBlock.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust/RockBlock.cs",
+      "notifiedAt": "2026-03-22T13:39:29.181Z",
+      "contentHash": "365d2782a073483ee2fee75ed48235246a1f529eb9d28fb1f358eacca8e0e3d3",
+      "fileSha": "e0521b85fe470d8b5da85711da78dbc7a3d6a4cf",
+      "fileSize": 3947
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Carbon/Modules/AdminModule/AdminModule.Tabs.Plugins.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Carbon/Modules/AdminModule/AdminModule.Tabs.Plugins.cs",
+      "notifiedAt": "2026-03-22T13:39:30.174Z",
+      "contentHash": "c419781e95f92236cbabd39f277c5d950c0e2f5752e59d698b984e31d49f2458",
+      "fileSha": "ae54d8db38fa3cb35422b831d66e4229b7d82e1e",
+      "fileSize": 98913
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Carbon/Modules/ImageDatabaseModule/ImageDatabaseModule.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Carbon/Modules/ImageDatabaseModule/ImageDatabaseModule.cs",
+      "notifiedAt": "2026-03-22T13:39:30.919Z",
+      "contentHash": "20a7f99eb94ed9523a4cb596c2319fc9def5e081685d768b5f902207ac95c619",
+      "fileSha": "582ae6a44c610c90797475261cd9b0f0dc89e49b",
+      "fileSize": 16789
+    },
+    "https://raw.githubusercontent.com/WeirdPhrog/Carbon/develop/src/Carbon/src/Loaders/ScriptLoader.cs": {
+      "key": "https://raw.githubusercontent.com/WeirdPhrog/Carbon/develop/src/Carbon/src/Loaders/ScriptLoader.cs",
+      "notifiedAt": "2026-03-22T13:39:31.746Z",
+      "contentHash": "23946f21c734ea93bee95f926308cfbcd978ec013d72a9961bc5a31754143a2e",
+      "fileSha": "b69c44a969c8b155a425217933227118cd5cd09d",
+      "fileSize": 16707
+    },
+    "https://raw.githubusercontent.com/WeirdPhrog/Carbon/develop/src/Carbon.Components/Carbon.Compat/src/Patches/Oxide/OxideILSwitch.cs": {
+      "key": "https://raw.githubusercontent.com/WeirdPhrog/Carbon/develop/src/Carbon.Components/Carbon.Compat/src/Patches/Oxide/OxideILSwitch.cs",
+      "notifiedAt": "2026-03-22T13:39:33.693Z",
+      "contentHash": "df3e5067790ce2331b00a24b3a2685075f6be89257f83997cfc0642858260948",
+      "fileSha": "c014ed4abd29c8fb8ada2103e1cecc2cbc5bca4c",
+      "fileSize": 11488
+    },
+    "https://raw.githubusercontent.com/bsk193/Carbon.Core/develop/Carbon.Core/Carbon.Common/src/Oxide/OxideMod.cs": {
+      "key": "https://raw.githubusercontent.com/bsk193/Carbon.Core/develop/Carbon.Core/Carbon.Common/src/Oxide/OxideMod.cs",
+      "notifiedAt": "2026-03-22T13:39:35.485Z",
+      "contentHash": "596d1fd16a9808b77caee92e7c33f09fcd18bc355fa317b98722c3da4a8258b8",
+      "fileSha": "8faafff84ae7ca785fa4f0db27a62e49205406d4",
+      "fileSize": 10333
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon/src/Loaders/ScriptLoader.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon/src/Loaders/ScriptLoader.cs",
+      "notifiedAt": "2026-03-22T13:39:36.252Z",
+      "contentHash": "23946f21c734ea93bee95f926308cfbcd978ec013d72a9961bc5a31754143a2e",
+      "fileSha": "b69c44a969c8b155a425217933227118cd5cd09d",
+      "fileSize": 16707
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Compat/src/Patches/Oxide/OxideILSwitch.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Compat/src/Patches/Oxide/OxideILSwitch.cs",
+      "notifiedAt": "2026-03-22T13:39:37.128Z",
+      "contentHash": "df3e5067790ce2331b00a24b3a2685075f6be89257f83997cfc0642858260948",
+      "fileSha": "c014ed4abd29c8fb8ada2103e1cecc2cbc5bca4c",
+      "fileSize": 11488
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Compat/src/Lib/OxideCompat.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Compat/src/Lib/OxideCompat.cs",
+      "notifiedAt": "2026-03-22T13:39:38.195Z",
+      "contentHash": "c0a111c7de6a633749e32d00f9064fd68cdcf1a2a1660facc54b81a87d94fca6",
+      "fileSha": "4b883887d13692457739d51839dec515f8d02475",
+      "fileSize": 3936
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/CupboardForFriends.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/rust/CupboardForFriends.cs",
+      "notifiedAt": "2026-03-22T13:39:39.501Z",
+      "contentHash": "4b3aaa8aed19a004fc4a87e8e47ed0bb70460a8537920d4854925f063cfc9b0f",
+      "fileSha": "87254a716306b91c91200640f7c3b1104383d6b4",
+      "fileSize": 8366
+    },
+    "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/reign of kings/PlayerDamage.cs": {
+      "key": "https://raw.githubusercontent.com/skulidropek/oxideplugins/master/reign of kings/PlayerDamage.cs",
+      "notifiedAt": "2026-03-22T13:39:40.366Z",
+      "contentHash": "5bdce42591574f0f0db8a6cbf2568f1296491666c4468fa09448cd0029efbdaf",
+      "fileSha": "979853abe3be19c880acef4699fe1c0d13b21e2b",
+      "fileSize": 2540
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Oxide/RustPlugin.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Oxide/RustPlugin.cs",
+      "notifiedAt": "2026-03-22T13:39:42.094Z",
+      "contentHash": "a08c09c1471cb5510e0aa4decc42fdc58a9a253b6daea0fa6353dcd5b205fc75",
+      "fileSha": "0a497adc945e1cbb503575796dc1d9635d6f3854",
+      "fileSize": 14716
+    },
+    "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Oxide/Libraries/Timer.cs": {
+      "key": "https://raw.githubusercontent.com/its-snapple/Carbon/develop/src/Carbon.Components/Carbon.Common/src/Oxide/Libraries/Timer.cs",
+      "notifiedAt": "2026-03-22T13:39:43.061Z",
+      "contentHash": "cced259f15da2a7e189d4cf05c9cb630f362428d334fa72c270893ea1b81daea",
+      "fileSha": "0dc365a0db64e57dd38c2e999c6f8dcf53608e48",
+      "fileSize": 4677
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust legacy/PlayerList.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust legacy/PlayerList.cs",
+      "notifiedAt": "2026-03-22T13:39:45.293Z",
+      "contentHash": "b1bcfbab4b6df89cc0f0851ee1546d5325dc8f89e62f0c6f2a99a19599f48dcd",
+      "fileSha": "aafefaadb74f7a698a0f4948421b7e99b6e27eee",
+      "fileSize": 3981
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/hurtworld/EasyStakes.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/hurtworld/EasyStakes.cs",
+      "notifiedAt": "2026-03-22T13:39:46.266Z",
+      "contentHash": "29adcbc909aab89506da36928789bb09706977946822d13162bb1549a31b7c49",
+      "fileSha": "9ae1016823f8650012698ab0d5fee4add8078eae",
+      "fileSize": 3810
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust legacy/EasyChat.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust legacy/EasyChat.cs",
+      "notifiedAt": "2026-03-22T13:39:47.096Z",
+      "contentHash": "52e0f29667fd357bfc86905203dfb00882c83c083ac53028975c032930df3775",
+      "fileSha": "b7fa68947ff4316943b28426ec70cad274634ef1",
+      "fileSize": 3792
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/universal/PickupLines.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/universal/PickupLines.cs",
+      "notifiedAt": "2026-03-22T13:39:47.899Z",
+      "contentHash": "4bc6094a7a24ed4b29994cc72e9ca1688d09e14e202e679d58db57470585276f",
+      "fileSha": "674381bd760e3c574f2afdb5c3130d94e20e5925",
+      "fileSize": 4112
+    },
+    "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/universal/NoSuicide.cs": {
+      "key": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/universal/NoSuicide.cs",
+      "notifiedAt": "2026-03-22T13:39:48.562Z",
+      "contentHash": "40c972ab2427d2594324ee3a0476327feca9e79b2c3adcc7f247a0f9ec29a9bb",
+      "fileSha": "e095c38f05dfbfffcec3bb9035be95ceef8bc0f8",
+      "fileSize": 2364
+    },
+    "https://raw.githubusercontent.com/SeesAll/DayNightWeatherController/main/DayNightWeatherController.cs": {
+      "key": "https://raw.githubusercontent.com/SeesAll/DayNightWeatherController/main/DayNightWeatherController.cs",
+      "notifiedAt": "2026-03-22T13:45:06.614Z",
+      "contentHash": "3d87176cec0690f3ca02e31e0f65a9b13f5fd0ffc3e51c45838ea9682caedd74",
+      "fileSize": 21466
+    },
+    "https://raw.githubusercontent.com/SeesAll/SmartCleanup/main/SmartCleanup.cs": {
+      "key": "https://raw.githubusercontent.com/SeesAll/SmartCleanup/main/SmartCleanup.cs",
+      "notifiedAt": "2026-03-22T13:45:09.001Z",
+      "contentHash": "8ee8f2f624c33bdb74767f5921523b207d2ecf8b06c4d6549fa4f9a4afdec55e",
+      "fileSize": 64737
     }
   },
   "version": 1,
-  "updatedAt": "2026-03-22T12:43:03.938Z"
+  "updatedAt": "2026-03-22T13:45:09.025Z"
 }
